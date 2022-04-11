@@ -1,0 +1,3061 @@
+<tbody><tr>
+<th>TITLE</th><th>CODE</th></tr>
+<tr><td>@</td><td>Annual for Title</td></tr>
+<tr><td>'</td><td>Annual for Year</td></tr>
+<tr><td>4</td><td>FOUR</td></tr>
+<tr><td>4 (EARTH X)</td><td>4EX</td></tr>
+<tr><td>1872</td><td>1872</td></tr>
+<tr><td>1602: WITCH HUNTER ANGELA</td><td>1602:WHANGELA</td></tr>
+<tr><td>2001: A SPACE ODYSSEY</td><td>2001</td></tr>
+<tr><td>2099 A.D.</td><td>2099AD</td></tr>
+<tr><td>2099 A.D. APOCALYPSE</td><td>2099AD:A</td></tr>
+<tr><td>2099 A.D. GENESIS</td><td>2099AD:G</td></tr>
+<tr><td>2099 UNLIMITED</td><td>2099ADU</td></tr>
+<tr><td>2099: MANIFEST DESTINY</td><td>2099:MD</td></tr>
+<tr><td>2099: WORLD OF TOMORROW</td><td>2099:WOT</td></tr>
+<tr><td>A SHADOWLINE SAGA: CRITICAL MASS</td><td>CMASS</td></tr>
+<tr><td>A YEAR OF MARVELS TPB</td><td>AYOM/</td></tr>
+<tr><td>A YEAR OF MARVELS: AMAZING</td><td>AYOM/:A</td></tr>
+<tr><td>A YEAR OF MARVELS: INCREDIBLE</td><td>AYOM/:I</td></tr>
+<tr><td>A YEAR OF MARVELS: UNBEATABLE</td><td>AYOM/:UNB</td></tr>
+<tr><td>A YEAR OF MARVELS: UNCANNY</td><td>AYOM/:UNC</td></tr>
+<tr><td>A YEAR OF MARVELS: UNSTOPPABLE</td><td>AYOM/:UNS</td></tr>
+<tr><td>A+X</td><td>APLUSX</td></tr>
+<tr><td>A-BABIES VS. X-BABIES</td><td>ABV.XB</td></tr>
+<tr><td>A-FORCE</td><td>AFOR</td></tr>
+<tr><td>A-FORCE VOL. 2</td><td>AFOR2</td></tr>
+<tr><td>A-NEXT</td><td>A-NXT</td></tr>
+<tr><td>ABOMINATIONS</td><td>ABOM</td></tr>
+<tr><td>ACADEMY X YEARBOOK</td><td>ACADXYB</td></tr>
+<tr><td>ACCUSED</td><td>ACCUSED</td></tr>
+<tr><td>ADAM: LEGEND OF THE BLUE MARVEL</td><td>ADAM:LBM</td></tr>
+<tr><td>ADVENTURES INTO FEAR</td><td>AIF</td></tr>
+<tr><td>ADVENTURES INTO WEIRD WORLDS</td><td>AIWW</td></tr>
+<tr><td>ADVENTURES OF CYCLOPS &amp; PHOENIX</td><td>ACY&amp;PHX</td></tr>
+<tr><td>AGE OF APOCALYPSE</td><td>AOA</td></tr>
+<tr><td>AGE OF APOCALYPSE VOL. 2</td><td>AOA2</td></tr>
+<tr><td>AGE OF APOCALYPSE VOL. 3</td><td>AOA3</td></tr>
+<tr><td>AGE OF APOCALYPSE SPECIAL EDITION</td><td>AOASE</td></tr>
+<tr><td>AGE OF APOCALYPSE: BY THE LIGHT</td><td>AOA:BL</td></tr>
+<tr><td>AGE OF APOCALYPSE: CHOSEN</td><td>AOA:C</td></tr>
+<tr><td>AGE OF APOCALYPSE: SINISTER BLOODLINES</td><td>AOA:SB</td></tr>
+<tr><td>AGE OF CONAN: BÊLIT</td><td>ACO:BELIT</td></tr>
+<tr><td>AGE OF CONAN: VALERIA</td><td>ACO:VALERIA</td></tr>
+<tr><td>AGE OF HEROES</td><td>AGEOH</td></tr>
+<tr><td>AGE OF INNOCENCE: REBIRTH OF IRON MAN</td><td>AOI:RIM</td></tr>
+<tr><td>AGE OF THE SENTRY</td><td>AOSENTRY</td></tr>
+<tr><td>AGE OF ULTRON</td><td>AOU</td></tr>
+<tr><td>AGE OF ULTRON 10AI</td><td>AOU 10AI</td></tr>
+<tr><td>AGE OF ULTRON VS. MARVEL ZOMBIES</td><td>AOUV.M/Z</td></tr>
+<tr><td>AGE OF X: ALPHA</td><td>AOX:ALPHA</td></tr>
+<tr><td>AGE OF X-MAN: ALPHA</td><td>AOXM:A</td></tr>
+<tr><td>AGE OF X-MAN: APOCALYPSE &amp; THE X-TRACTS</td><td>AOXM:A&amp;XTRCT</td></tr>
+<tr><td>AGE OF X-MAN: MARVELOUS X-MEN</td><td>AOXM:MARX</td></tr>
+<tr><td>AGE OF X-MAN: NEXTGEN</td><td>AOXM:NXTGEN</td></tr>
+<tr><td>AGE OF X-MAN: OMEGA</td><td>AOXM:O</td></tr>
+<tr><td>AGE OF X-MAN: PRISONER X</td><td>AOXM:PRSX</td></tr>
+<tr><td>AGE OF X-MAN: THE AMAZING NIGHTCRAWLER</td><td>AOXM:ANC</td></tr>
+<tr><td>AGE OF X-MAN: X-TREMISTS</td><td>AOXM:XTRM</td></tr>
+<tr><td>AGENT X</td><td>AGENTX</td></tr>
+<tr><td>AGENTS OF ATLAS</td><td>AOATLAS</td></tr>
+<tr><td>AGENTS OF ATLAS VOL. 2</td><td>AOATLAS2</td></tr>
+<tr><td>AGENTS OF S.H.I.E.L.D.</td><td>AOSHIELD</td></tr>
+<tr><td>ALIAS</td><td>ALIAS</td></tr>
+<tr><td>ALL NEW SAVAGE SHE-HULK</td><td>ANSAVSH</td></tr>
+<tr><td>ALL SELECT COMICS</td><td>ALLSC</td></tr>
+<tr><td>ALL SELECT COMICS 70TH ANNIVERSARY SPECIAL</td><td>ALLSC70A</td></tr>
+<tr><td>ALL TEEN COMICS</td><td>ALLTEENC</td></tr>
+<tr><td>ALL TRUE CRIME CASES</td><td>ATCRIMEC</td></tr>
+<tr><td>ALL WINNERS COMICS</td><td>ALLWC</td></tr>
+<tr><td>ALL WINNERS COMICS VOL. 2</td><td>ALLWC2</td></tr>
+<tr><td>ALL WINNERS COMICS 70TH ANNIVERSARY SPECIAL</td><td>ALLWC70A</td></tr>
+<tr><td>ALL-NEW ALL-DIFFERENT AVENGERS</td><td>ANADA</td></tr>
+<tr><td>ALL-NEW ALL-DIFFERENT MARVEL POINT ONE</td><td>ANADM/PO</td></tr>
+<tr><td>ALL-NEW CAPTAIN AMERICA</td><td>ANCA</td></tr>
+<tr><td>ALL-NEW CAPTAIN AMERICA SPECIAL</td><td>ANCA SPEC</td></tr>
+<tr><td>ALL-NEW CAPTAIN AMERICA: FEAR HIM</td><td>ANCA:FH</td></tr>
+<tr><td>ALL-NEW EXILES</td><td>ANEX</td></tr>
+<tr><td>ALL-NEW EXILES VS. X-MEN</td><td>ANEXV.X</td></tr>
+<tr><td>ALL-NEW GHOST RIDER</td><td>ANGR</td></tr>
+<tr><td>ALL-NEW GUARDIANS OF THE GALAXY</td><td>ANGOTG</td></tr>
+<tr><td>ALL-NEW HAWKEYE VOL. 2</td><td>ANHAWK2</td></tr>
+<tr><td>ALL-NEW INHUMANS</td><td>ANINHS</td></tr>
+<tr><td>ALL-NEW INVADERS</td><td>ANINV</td></tr>
+<tr><td>ALL-NEW MARVEL NOW! POINT ONE</td><td>ANM/NPO</td></tr>
+<tr><td>ALL-NEW ULTIMATES</td><td>ANULTS</td></tr>
+<tr><td>ALL-NEW WOLVERINE</td><td>ANW</td></tr>
+<tr><td>ALL-NEW X-FACTOR</td><td>ANXF</td></tr>
+<tr><td>ALL-NEW X-MEN</td><td>ANX</td></tr>
+<tr><td>ALL-NEW X-MEN VOL. 2</td><td>ANX2</td></tr>
+<tr><td>ALL-NEW X-MEN VOL. 2 1.MU</td><td>ANX2 1.MU</td></tr>
+<tr><td>ALL-NEW X-MEN SPECIAL</td><td>ANX SPEC</td></tr>
+<tr><td>ALL-WINNERS SQUAD: BAND OF HEROES</td><td>ALLWS:BH</td></tr>
+<tr><td>ALPHA FLIGHT</td><td>AF</td></tr>
+<tr><td>ALPHA FLIGHT VOL. 2</td><td>AF2</td></tr>
+<tr><td>ALPHA FLIGHT VOL. 3</td><td>AF3</td></tr>
+<tr><td>ALPHA FLIGHT VOL. 4</td><td>AF4</td></tr>
+<tr><td>ALPHA FLIGHT SPECIAL</td><td>AF SPEC</td></tr>
+<tr><td>ALPHA FLIGHT/INHUMANS</td><td>AF/INHS</td></tr>
+<tr><td>ALPHA: BIG TIME</td><td>ALPHA:BT</td></tr>
+<tr><td>AMAZING ADULT FANTASY</td><td>AAFSY</td></tr>
+<tr><td>AMAZING ADVENTURES</td><td>AA</td></tr>
+<tr><td>AMAZING ADVENTURES VOL. 2</td><td>AA2</td></tr>
+<tr><td>AMAZING COMICS</td><td>AMAZINGC</td></tr>
+<tr><td>AMAZING FANTASY</td><td>AFSY</td></tr>
+<tr><td>AMAZING FANTASY VOL. 2</td><td>AFSY2</td></tr>
+<tr><td>AMAZING HIGH ADVENTURE</td><td>AHA</td></tr>
+<tr><td>AMAZING MYSTERIES</td><td>AMYSTERIES</td></tr>
+<tr><td>AMAZING SCARLET SPIDER</td><td>ASCRS</td></tr>
+<tr><td>AMAZING SPIDER-GIRL</td><td>ASG</td></tr>
+<tr><td>AMAZING SPIDER-MAN</td><td>ASM</td></tr>
+<tr><td>AMAZING SPIDER-MAN VOL. 2</td><td>ASM2</td></tr>
+<tr><td>AMAZING SPIDER-MAN VOL. 3</td><td>ASM3</td></tr>
+<tr><td>AMAZING SPIDER-MAN VOL. 4</td><td>ASM4</td></tr>
+<tr><td>AMAZING SPIDER-MAN VOL. 5</td><td>ASM5</td></tr>
+<tr><td>AMAZING SPIDER-MAN DIGITAL COMIC</td><td>ASM DIG</td></tr>
+<tr><td>AMAZING SPIDER-MAN EXTRA</td><td>ASME</td></tr>
+<tr><td>AMAZING SPIDER-MAN FAMILY</td><td>ASMF</td></tr>
+<tr><td>AMAZING SPIDER-MAN PRESENTS: AMERICAN SON</td><td>ASMP:ASON</td></tr>
+<tr><td>AMAZING SPIDER-MAN PRESENTS: ANTI-VENOM</td><td>ASMP:ANTIV</td></tr>
+<tr><td>AMAZING SPIDER-MAN PRESENTS: JACKPOT</td><td>ASMP:JPOT</td></tr>
+<tr><td>AMAZING SPIDER-MAN SPECIAL</td><td>ASM SPEC</td></tr>
+<tr><td>AMAZING SPIDER-MAN SUPER SPECIAL</td><td>ASM SSPEC</td></tr>
+<tr><td>AMAZING SPIDER-MAN &amp; SILK: THE SPIDER(FLY) EFFECT</td><td>ASM&amp;SILK:SFE</td></tr>
+<tr><td>AMAZING SPIDER-MAN/DEVIL DINOSAUR</td><td>ASM/DDINO</td></tr>
+<tr><td>AMAZING SPIDER-MAN: A MEAL TO DIE FOR DIGITAL COMIC</td><td>ASM:MEAL DIG</td></tr>
+<tr><td>AMAZING SPIDER-MAN: BACK IN QUACK</td><td>ASM:BIQ</td></tr>
+<tr><td>AMAZING SPIDER-MAN: CHAOS IN CALGARY</td><td>ASM:CALGARY</td></tr>
+<tr><td>AMAZING SPIDER-MAN: DEAD BALL</td><td>ASM:DBALL</td></tr>
+<tr><td>AMAZING SPIDER-MAN: DOUBLE TROUBLE</td><td>ASM:DT</td></tr>
+<tr><td>AMAZING SPIDER-MAN: ELECTION DAY</td><td>ASM:EDAY</td></tr>
+<tr><td>AMAZING SPIDER-MAN: ENDS OF THE EARTH</td><td>ASM:ENDS</td></tr>
+<tr><td>AMAZING SPIDER-MAN: FAMILY BUSINESS</td><td>ASM:FB</td></tr>
+<tr><td>AMAZING SPIDER-MAN: FEAR ITSELF</td><td>ASM:FI</td></tr>
+<tr><td>AMAZING SPIDER-MAN: FRIENDS &amp; ENEMIES</td><td>ASM:F&amp;E</td></tr>
+<tr><td>AMAZING SPIDER-MAN: HIT &amp; RUN</td><td>ASM:HIT&amp;RUN</td></tr>
+<tr><td>AMAZING SPIDER-MAN: ORIGIN OF THE HUNTER</td><td>ASM:OH</td></tr>
+<tr><td>AMAZING SPIDER-MAN: RENEW YOUR VOWS</td><td>ASM:RYV</td></tr>
+<tr><td>AMAZING SPIDER-MAN: RENEW YOUR VOWS VOL. 2</td><td>ASM:RYV2</td></tr>
+<tr><td>AMAZING SPIDER-MAN: SHORT HALLOWEEN</td><td>ASM:SHWEEN</td></tr>
+<tr><td>AMAZING SPIDER-MAN: SKATING ON THIN ICE</td><td>ASM:SICE</td></tr>
+<tr><td>AMAZING SPIDER-MAN: SOUL OF THE HUNTER</td><td>ASM:SH</td></tr>
+<tr><td>AMAZING SPIDER-MAN: SPIRITS OF THE EARTH (8/90)</td><td>ASM:SE</td></tr>
+<tr><td>AMAZING SPIDER-MAN: SWING SHIFT</td><td>ASM:SWING</td></tr>
+<tr><td>AMAZING SPIDER-MAN: VENOM INC. ALPHA</td><td>ASM:VINCA</td></tr>
+<tr><td>AMAZING SPIDER-MAN: VENOM INC. OMEGA</td><td>ASM:VINCO</td></tr>
+<tr><td>AMAZING X-MEN</td><td>AX</td></tr>
+<tr><td>AMAZING X-MEN VOL. 2</td><td>AX2</td></tr>
+<tr><td>AMAZON</td><td>AMAZON</td></tr>
+<tr><td>AMERICA</td><td>AMERICA</td></tr>
+<tr><td>AMERICAN DREAM</td><td>ADREAM</td></tr>
+<tr><td>ANNEX</td><td>ANNEX</td></tr>
+<tr><td>ANGEL: REVELATIONS</td><td>ANGEL:REV</td></tr>
+<tr><td>ANGELA: ASGARD'S ASSASSIN</td><td>ANGELA:AASSN</td></tr>
+<tr><td>ANGELA: QUEEN OF HEL</td><td>ANGELA:QHEL</td></tr>
+<tr><td>ANGELS OF DESTRUCTION</td><td>ANGELSOD</td></tr>
+<tr><td>ANNIHILATION</td><td>ANNI</td></tr>
+<tr><td>ANNIHILATION CONQUEST</td><td>ANNIC</td></tr>
+<tr><td>ANNIHILATION CONQUEST: PROLOGUE</td><td>ANNIC:PRO</td></tr>
+<tr><td>ANNIHILATION CONQUEST: QUASAR</td><td>ANNIC:Q</td></tr>
+<tr><td>ANNIHILATION CONQUEST: STAR-LORD</td><td>ANNIC:SLORD</td></tr>
+<tr><td>ANNIHILATION CONQUEST: WRAITH</td><td>ANNIC:WRAITH</td></tr>
+<tr><td>ANNIHILATION: HERALDS OF GALACTUS</td><td>ANNI:HGLCTS</td></tr>
+<tr><td>ANNIHILATION: NOVA</td><td>ANNI:NO</td></tr>
+<tr><td>ANNIHILATION: PROLOGUE</td><td>ANNI:PRO</td></tr>
+<tr><td>ANNIHILATION: RONAN</td><td>ANNI:RO</td></tr>
+<tr><td>ANNIHILATION: SILVER SURFER</td><td>ANNI:SS</td></tr>
+<tr><td>ANNIHILATION: SUPER SKRULL</td><td>ANNI:SUPSKR</td></tr>
+<tr><td>ANNIHILATORS</td><td>ANNIS</td></tr>
+<tr><td>ANNIHILATORS: EARTHFALL</td><td>ANNIS:EF</td></tr>
+<tr><td>ANT-MAN</td><td>ANT</td></tr>
+<tr><td>ANT-MAN &amp; WASP</td><td>ANT&amp;WASP</td></tr>
+<tr><td>ANT-MAN &amp; THE WASP VOL. 2</td><td>ANT&amp;WASP2</td></tr>
+<tr><td>ANT-MAN &amp; WASP: LIVING LEGENDS</td><td>ANT&amp;WASP:LL</td></tr>
+<tr><td>ANT-MAN BIG CHRISTMAS</td><td>ANTBC</td></tr>
+<tr><td>APACHE KID</td><td>APKID</td></tr>
+<tr><td>APACHE KID VOL. 2</td><td>APKID2</td></tr>
+<tr><td>APACHE SKIES</td><td>APSKIES</td></tr>
+<tr><td>ARANA: HEART OF THE SPIDER</td><td>ARANA</td></tr>
+<tr><td>ARCHANGEL</td><td>AANGEL</td></tr>
+<tr><td>ARES</td><td>ARES</td></tr>
+<tr><td>ARMOR WARS</td><td>ARMOR</td></tr>
+<tr><td>ARMY OF DARKNESS</td><td>AOD</td></tr>
+<tr><td>ASGARDIANS OF THE GALAXY</td><td>ASGOTG</td></tr>
+<tr><td>ASKANI'SON</td><td>ASKANISON</td></tr>
+<tr><td>ASSASSINS</td><td>ASSNS</td></tr>
+<tr><td>ASSAULT ON NEW OLYMPUS</td><td>ANO</td></tr>
+<tr><td>ASTONISHING</td><td>ASTON</td></tr>
+<tr><td>ASTONISHING ANT-MAN</td><td>ASTONANT</td></tr>
+<tr><td>ASTONISHING SPIDER-MAN &amp; WOLVERINE</td><td>ASTONSM&amp;W</td></tr>
+<tr><td>ASTONISHING TALES</td><td>AT</td></tr>
+<tr><td>ASTONISHING TALES VOL. 2</td><td>AT2</td></tr>
+<tr><td>ASTONISHING TALES: THING DIGITAL COMIC</td><td>AT:TG DIG</td></tr>
+<tr><td>ASTONISHING THOR</td><td>ASTONT</td></tr>
+<tr><td>ASTONISHING X-MEN</td><td>ASTONX</td></tr>
+<tr><td>ASTONISHING X-MEN VOL. 2</td><td>ASTONX2</td></tr>
+<tr><td>ASTONISHING X-MEN VOL. 3</td><td>ASTONX3</td></tr>
+<tr><td>ASTONISHING X-MEN VOL. 4</td><td>ASTONX4</td></tr>
+<tr><td>ASTONISHING X-MEN: XENOGENESIS</td><td>ASTONX:X</td></tr>
+<tr><td>ATLAS</td><td>ATLAS</td></tr>
+<tr><td>AVATAARS: COVENANT OF THE SHIELD</td><td>AV:CS</td></tr>
+<tr><td>AVENGERS</td><td>A</td></tr>
+<tr><td>AVENGERS VOL. 2</td><td>A2</td></tr>
+<tr><td>AVENGERS VOL. 3</td><td>A3</td></tr>
+<tr><td>AVENGERS VOL. 4</td><td>A4</td></tr>
+<tr><td>AVENGERS VOL. 5</td><td>A5</td></tr>
+<tr><td>AVENGERS VOL. 6</td><td>A6</td></tr>
+<tr><td>AVENGERS VOL. 6 1.MU</td><td>A6 1.MU</td></tr>
+<tr><td>AVENGERS VOL. 7</td><td>A7</td></tr>
+<tr><td>AVENGERS &amp; POWER PACK ASSEMBLE!</td><td>A&amp;PPA</td></tr>
+<tr><td>AVENGERS &amp; X-MEN: AXIS</td><td>A&amp;X:AXIS</td></tr>
+<tr><td>AVENGERS 1959</td><td>A1959</td></tr>
+<tr><td>AVENGERS A.I.</td><td>AAI</td></tr>
+<tr><td>AVENGERS ACADEMY</td><td>AACAD</td></tr>
+<tr><td>AVENGERS ACADEMY GIANT-SIZE</td><td>AACADGS</td></tr>
+<tr><td>AVENGERS ARENA</td><td>AARENA</td></tr>
+<tr><td>AVENGERS ASSEMBLE</td><td>AASS</td></tr>
+<tr><td>AVENGERS ASSEMBLE VOL. 2</td><td>AASS2</td></tr>
+<tr><td>AVENGERS ASSEMBLE VOL. 2 14AU</td><td>AASS2 14AU</td></tr>
+<tr><td>AVENGERS ASSEMBLE VOL. 2 15AU</td><td>AASS2 15AU</td></tr>
+<tr><td>AVENGERS BY BRIAN MICHAEL BENDIS: THE COMPLETE COLLECTION</td><td>ABMB:CMPLT</td></tr>
+<tr><td>AVENGERS CLASSIC</td><td>AC</td></tr>
+<tr><td>AVENGERS FAIRY TALES</td><td>AFT</td></tr>
+<tr><td>AVENGERS FOREVER</td><td>AFVR</td></tr>
+<tr><td>AVENGERS HALLOWEEN SPECIAL</td><td>AHWEENSPEC</td></tr>
+<tr><td>AVENGERS INFINITY</td><td>AI</td></tr>
+<tr><td>AVENGERS MILLENNIUM</td><td>A:MILLENNIUM</td></tr>
+<tr><td>AVENGERS NEXT</td><td>ANXT</td></tr>
+<tr><td>AVENGERS OF THE WASTELANDS</td><td>AWASTE</td></tr>
+<tr><td>AVENGERS PRIME</td><td>APRIME</td></tr>
+<tr><td>AVENGERS SOLO</td><td>ASOLO</td></tr>
+<tr><td>AVENGERS SPOTLIGHT</td><td>ASPOT</td></tr>
+<tr><td>AVENGERS STANDOFF: ASSAULT ON PLEASANT HILL</td><td>ASOFF:APHA</td></tr>
+<tr><td>AVENGERS STANDOFF: ASSAULT ON PLEASANT HILL</td><td>ASOFF:APHO</td></tr>
+<tr><td>AVENGERS STANDOFF: WELCOME TO PLEASANT HILL</td><td>ASOFF:WPH</td></tr>
+<tr><td>AVENGERS STRIKE FILE</td><td>ASTRIKE</td></tr>
+<tr><td>AVENGERS TWO: WONDER MAN &amp; BEAST</td><td>ATWO:WM&amp;BEAST</td></tr>
+<tr><td>AVENGERS UNDERCOVER</td><td>AUND</td></tr>
+<tr><td>AVENGERS UNPLUGGED</td><td>AUP</td></tr>
+<tr><td>AVENGERS VS. ATLAS</td><td>AV.ATLAS</td></tr>
+<tr><td>AVENGERS VS. PET AVENGERS</td><td>AV.PETA</td></tr>
+<tr><td>AVENGERS VS. X-MEN</td><td>AVX</td></tr>
+<tr><td>AVENGERS VS. X-MEN INFINITE</td><td>AVXINF</td></tr>
+<tr><td>AVENGERS WEST COAST</td><td>AWC</td></tr>
+<tr><td>AVENGERS WORLD</td><td>AWORLD</td></tr>
+<tr><td>AVENGERS/INVADERS</td><td>A/INV</td></tr>
+<tr><td>AVENGERS/JLA</td><td>JLA/A</td></tr>
+<tr><td>AVENGERS/SQUADRON SUPREME</td><td>A/SQS</td></tr>
+<tr><td>AVENGERS/THUNDERBOLTS</td><td>A/TB</td></tr>
+<tr><td>AVENGERS/ULTRAFORCE</td><td>A/ULTRAF</td></tr>
+<tr><td>AVENGERS: CELESTIAL QUEST</td><td>A:CQ</td></tr>
+<tr><td>AVENGERS: CHILDREN'S CRUSADE</td><td>A:CC</td></tr>
+<tr><td>AVENGERS: CHILDREN'S CRUSADE - YOUNG AVENGERS</td><td>A:CC-YA</td></tr>
+<tr><td>AVENGERS: COLLECTORS EDITION</td><td>A:CE</td></tr>
+<tr><td>AVENGERS: CROSSING</td><td>A:C</td></tr>
+<tr><td>AVENGERS: DEATHTRAP, THE VAULT</td><td>A:DV</td></tr>
+<tr><td>AVENGERS: EARTH'S MIGHTIEST HEROES</td><td>A:EMH</td></tr>
+<tr><td>AVENGERS: EARTH'S MIGHTIEST HEROES VOL. 2</td><td>A:EMH2</td></tr>
+<tr><td>AVENGERS: ENDLESS WARTIME</td><td>A:EWART</td></tr>
+<tr><td>AVENGERS: ENEMY WITHIN</td><td>A:EWIN</td></tr>
+<tr><td>AVENGERS: FINALE</td><td>A:FINALE</td></tr>
+<tr><td>AVENGERS: INITIATIVE</td><td>A:I</td></tr>
+<tr><td>AVENGERS: INITIATIVE FEATURING REPTIL</td><td>A:IFRPTL</td></tr>
+<tr><td>AVENGERS: INITIATIVE SPECIAL</td><td>A:I SPEC</td></tr>
+<tr><td>AVENGERS: KORVAC SAGA TPB</td><td>A:KS</td></tr>
+<tr><td>AVENGERS: NO ROAD HOME</td><td>A:NRH</td></tr>
+<tr><td>AVENGERS: ORIGIN</td><td>A:O</td></tr>
+<tr><td>AVENGERS: RAGE OF ULTRON GN</td><td>A:ROU</td></tr>
+<tr><td>AVENGERS: TERMINATRIX OBJECTIVE</td><td>A:TO</td></tr>
+<tr><td>AVENGERS: TIMESLIDE</td><td>A:T</td></tr>
+<tr><td>AVENGERS: ULTRON IMPERATIVE</td><td>A:UI</td></tr>
+<tr><td>AVENGERS: X-SANCTION</td><td>A:XS</td></tr>
+<tr><td>AVENGING SPIDER-MAN</td><td>AVENGSM</td></tr>
+<tr><td>AVX VS.</td><td>AVXVS</td></tr>
+<tr><td>AVX: CONSEQUENCES</td><td>AVX:C</td></tr>
+<tr><td>AXIS:REV</td><td>AXIS: REVOLUTIONS</td></tr>
+<tr><td>B-SIDES</td><td>B-S</td></tr>
+<tr><td>BABY'S FIRST DEADPOOL BOOK</td><td>BFDPB</td></tr>
+<tr><td>BALDER THE BRAVE</td><td>BLDRB</td></tr>
+<tr><td>BALLISTIC/WOLVERINE</td><td>BALLISTIC/W</td></tr>
+<tr><td>BAT-THING</td><td>BAT-T</td></tr>
+<tr><td>BATTLE</td><td>BATTLE</td></tr>
+<tr><td>BATTLE SCARS</td><td>BSCARS</td></tr>
+<tr><td>BATTLEFIELD</td><td>BFIELD</td></tr>
+<tr><td>BATTLEGROUND</td><td>BGROUND</td></tr>
+<tr><td>BATTLETIDE</td><td>BTIDE</td></tr>
+<tr><td>BATTLETIDE VOL. 2</td><td>BTIDE2</td></tr>
+<tr><td>BEAST</td><td>BEAST</td></tr>
+<tr><td>BEASTS</td><td>BEASTS</td></tr>
+<tr><td>BEAUTY &amp; BEAST</td><td>B&amp;BEAST</td></tr>
+<tr><td>BEFORE THE FANTASTIC FOUR: BEN GRIMM &amp; LOGAN</td><td>BFF:BGRIMM&amp;L</td></tr>
+<tr><td>BEFORE THE FANTASTIC FOUR: REED RICHARDS</td><td>BFF:REED</td></tr>
+<tr><td>BEFORE THE FANTASTIC FOUR: STORMS</td><td>BFF:STORMS</td></tr>
+<tr><td>BEN REILLY: SCARLET SPIDER</td><td>BRSCRS</td></tr>
+<tr><td>BEST OF MARVEL COMICS</td><td>BOM/C</td></tr>
+<tr><td>BETA RAY BILL: GODHUNTER</td><td>BRB:GH</td></tr>
+<tr><td>BEYOND!</td><td>BEYOND</td></tr>
+<tr><td>BIG HERO 6</td><td>BH6</td></tr>
+<tr><td>BISHOP</td><td>BSHP</td></tr>
+<tr><td>BISHOP: THE LAST X-MAN</td><td>BSHP:LXM</td></tr>
+<tr><td>BISHOP: XAVIER SECURITY ENFORCER</td><td>BSHP:XSE</td></tr>
+<tr><td>BIZARRE ADVENTURES (MAGAZINE)</td><td>BIZADV</td></tr>
+<tr><td>BIZARRE ADVENTURES VOL. 2</td><td>BIZADV2</td></tr>
+<tr><td>BLACK AXE</td><td>BAXE</td></tr>
+<tr><td>BLACK BOLT</td><td>BB</td></tr>
+<tr><td>BLACK CAT</td><td>BCAT</td></tr>
+<tr><td>BLACK CAT VOL. 2</td><td>BCAT2</td></tr>
+<tr><td>BLACK CAT VOL. 3</td><td>BCAT3</td></tr>
+<tr><td>BLACK GOLIATH</td><td>BG</td></tr>
+<tr><td>BLACK KNIGHT</td><td>BK</td></tr>
+<tr><td>BLACK KNIGHT VOL. 2</td><td>BK2</td></tr>
+<tr><td>BLACK KNIGHT VOL. 4</td><td>BK4</td></tr>
+<tr><td>BLACK KNIGHT: EXODUS</td><td>BK:E</td></tr>
+<tr><td>BLACK ORDER</td><td>BORDER</td></tr>
+<tr><td>BLACK PANTHER</td><td>BP</td></tr>
+<tr><td>BLACK PANTHER VOL. 2</td><td>BP2</td></tr>
+<tr><td>BLACK PANTHER VOL. 3</td><td>BP3</td></tr>
+<tr><td>BLACK PANTHER VOL. 4</td><td>BP4</td></tr>
+<tr><td>BLACK PANTHER VOL. 5</td><td>BP5</td></tr>
+<tr><td>BLACK PANTHER VOL. 6</td><td>BP6</td></tr>
+<tr><td>BLACK PANTHER VOL. 7</td><td>BP7</td></tr>
+<tr><td>BLACK PANTHER &amp; THE CREW</td><td>BP&amp;CREW</td></tr>
+<tr><td>BLACK PANTHER VS. DEADPOOL</td><td>BPV.DP</td></tr>
+<tr><td>BLACK PANTHER: LONG LIVE THE KING TPB</td><td>BP:LLTK TPB</td></tr>
+<tr><td>BLACK PANTHER: MAN WITHOUT FEAR</td><td>BP:MWF</td></tr>
+<tr><td>BLACK PANTHER: MOST DANGEROUS MAN ALIVE</td><td>BP:MDMA</td></tr>
+<tr><td>BLACK PANTHER: PANTHER'S PREY</td><td>BP:PP</td></tr>
+<tr><td>BLACK PANTHER: SOUND &amp; FURY</td><td>BP:S&amp;F</td></tr>
+<tr><td>BLACK PANTHER: WORLD OF WAKANDA</td><td>BP:WWKNDA</td></tr>
+<tr><td>BLACK SEPTEMBER ∞</td><td>BSEP ∞</td></tr>
+<tr><td>BLACK SUN: X-MEN</td><td>BSUN:X</td></tr>
+<tr><td>BLACK WIDOW</td><td>BW</td></tr>
+<tr><td>BLACK WIDOW VOL. 2</td><td>BW2</td></tr>
+<tr><td>BLACK WIDOW VOL. 3</td><td>BW3</td></tr>
+<tr><td>BLACK WIDOW VOL. 4</td><td>BW4</td></tr>
+<tr><td>BLACK WIDOW VOL. 5</td><td>BW5</td></tr>
+<tr><td>BLACK WIDOW VOL. 6</td><td>BW6</td></tr>
+<tr><td>BLACK WIDOW VOL. 7</td><td>BW7</td></tr>
+<tr><td>BLACK WIDOW VOL. 8</td><td>BW8</td></tr>
+<tr><td>BLACK WIDOW VOL. 9</td><td>BW9</td></tr>
+<tr><td>BLACK WIDOW: COLDEST WAR</td><td>BW:CW</td></tr>
+<tr><td>BLACK WIDOW: DEADLY ORIGIN</td><td>BW:DO</td></tr>
+<tr><td>BLACKSTONE, THE MAGICIAN DETECTIVE</td><td>BLKSTNMD</td></tr>
+<tr><td>BLACKWULF</td><td>BWULF</td></tr>
+<tr><td>BLADE</td><td>BLD</td></tr>
+<tr><td>BLADE VOL. 2 (STRANGE TALES IMPRINT)</td><td>BLD2</td></tr>
+<tr><td>BLADE VOL. 3</td><td>BLD3</td></tr>
+<tr><td>BLADE VOL. 4 (MAX IMPRINT)</td><td>BLD4</td></tr>
+<tr><td>BLADE VOL. 5</td><td>BLD5</td></tr>
+<tr><td>BLADE THE VAMPIRE-HUNTER</td><td>BLDVH</td></tr>
+<tr><td>BLAZE</td><td>BLAZE</td></tr>
+<tr><td>BLAZE OF GLORY</td><td>BOG</td></tr>
+<tr><td>BLAZE: LEGACY OF BLOOD</td><td>BLAZE:LOB</td></tr>
+<tr><td>BLINK</td><td>BLINK</td></tr>
+<tr><td>BLONDE PHANTOM</td><td>BPHANTOM</td></tr>
+<tr><td>BLOODSEED</td><td>BSEED</td></tr>
+<tr><td>BLOODSTONE</td><td>BSTONE</td></tr>
+<tr><td>BOOKS OF DOOM</td><td>BDOOM</td></tr>
+<tr><td>BORN</td><td>BORN</td></tr>
+<tr><td>BREAK-THRU</td><td>BTHRU</td></tr>
+<tr><td>BREAKING INTO COMICS THE MARVEL WAY</td><td>BICM/W</td></tr>
+<tr><td>BROTHERHOOD</td><td>BHOOD</td></tr>
+<tr><td>BRUCE WAYNE: AGENT OF S.H.I.E.L.D.</td><td>BWAYNE:AOS</td></tr>
+<tr><td>BRUTE FORCE</td><td>BFORCE</td></tr>
+<tr><td>BUCKY BARNES: WINTER SOLDIER</td><td>BUCKY:WSOL</td></tr>
+<tr><td>BUG</td><td>BUG</td></tr>
+<tr><td>BULLET POINTS</td><td>BLTPNTS</td></tr>
+<tr><td>BULLETS AND BRACELETS</td><td>BLTS&amp;BRCLTS</td></tr>
+<tr><td>BULLPEN BITS</td><td>BPENBITS</td></tr>
+<tr><td>BULLSEYE</td><td>BULL</td></tr>
+<tr><td>BULLSEYE: GREATEST HITS</td><td>BULL:GH</td></tr>
+<tr><td>BULLSEYE: PERFECT GAME</td><td>BULL:PG</td></tr>
+<tr><td>BUZZ</td><td>BUZZ</td></tr>
+<tr><td>CABLE</td><td>C</td></tr>
+<tr><td>CABLE VOL. 2</td><td>C2</td></tr>
+<tr><td>CABLE VOL. 4</td><td>C4</td></tr>
+<tr><td>CABLE &amp; DEADPOOL</td><td>C&amp;DP</td></tr>
+<tr><td>CABLE &amp; NEW MUTANTS TPB</td><td>C&amp;NM</td></tr>
+<tr><td>CABLE &amp; X-FORCE</td><td>C&amp;XFOR</td></tr>
+<tr><td>CABLE/MACHINE MAN</td><td>C/MM</td></tr>
+<tr><td>CABLE: BLOOD &amp; METAL</td><td>C:B&amp;M</td></tr>
+<tr><td>CAGE</td><td>CAGE</td></tr>
+<tr><td>CAGE!</td><td>CAGE2</td></tr>
+<tr><td>CALL</td><td>CALL</td></tr>
+<tr><td>CALL OF DUTY: BROTHERHOOD</td><td>CALLD:BHOOD</td></tr>
+<tr><td>CALL OF DUTY: PRECINCT</td><td>CALLD:PRCNT</td></tr>
+<tr><td>CALL OF DUTY: WAGON</td><td>CALLD:WAGON</td></tr>
+<tr><td>CAP</td><td>CAP</td></tr>
+<tr><td>CAPTAIN AMERICA</td><td>CA</td></tr>
+<tr><td>CAPTAIN AMERICA VOL. 2</td><td>CA2</td></tr>
+<tr><td>CAPTAIN AMERICA VOL. 3</td><td>CA3</td></tr>
+<tr><td>CAPTAIN AMERICA VOL. 4</td><td>CA4</td></tr>
+<tr><td>CAPTAIN AMERICA VOL. 5</td><td>CA5</td></tr>
+<tr><td>CAPTAIN AMERICA VOL. 6</td><td>CA6</td></tr>
+<tr><td>CAPTAIN AMERICA VOL. 7</td><td>CA7</td></tr>
+<tr><td>CAPTAIN AMERICA VOL. 8</td><td>CA8</td></tr>
+<tr><td>CAPTAIN AMERICA 65TH ANNIVERSARY SPECIAL</td><td>CA65AS</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; BATROC</td><td>CA&amp;BTRC</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; BLACK WIDOW</td><td>CA&amp;BW</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; BUCKY</td><td>CA&amp;BUCKY</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; CROSSBONES</td><td>CA&amp;CRB</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; FALCON</td><td>CA&amp;FAL</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; FALCON VOL. 2</td><td>CA&amp;FAL2</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; HAWKEYE</td><td>CA&amp;HAWK</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; IRON MAN</td><td>CA&amp;IM</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; NAMOR</td><td>CA&amp;N</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; SECRET AVENGERS</td><td>CA&amp;SECA</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; THE FIRST THIRTEEN</td><td>CA&amp;FIRST13</td></tr>
+<tr><td>CAPTAIN AMERICA &amp; THE MIGHTY AVENGERS</td><td>CA&amp;MA</td></tr>
+<tr><td>CAPTAIN AMERICA COMICS</td><td>CAC</td></tr>
+<tr><td>CAPTAIN AMERICA COMICS 70TH ANNIVERSARY SPECIAL</td><td>CAC70A</td></tr>
+<tr><td>CAPTAIN AMERICA CORPS</td><td>CACORPS</td></tr>
+<tr><td>CAPTAIN AMERICA THEATER OF WAR: A BROTHER IN ARMS</td><td>CATOW:BIA</td></tr>
+<tr><td>CAPTAIN AMERICA THEATER OF WAR: AMERICA FIRST!</td><td>CATOW:AF</td></tr>
+<tr><td>CAPTAIN AMERICA THEATER OF WAR: AMERICA THE BEAUTIFUL</td><td>CATOW:ATB</td></tr>
+<tr><td>CAPTAIN AMERICA THEATER OF WAR: GHOSTS OF MY COUNTRY</td><td>CATOW:GOMC</td></tr>
+<tr><td>CAPTAIN AMERICA THEATER OF WAR: OPERATION ZERO POINT</td><td>CATOW:OZP</td></tr>
+<tr><td>CAPTAIN AMERICA THEATER OF WAR: PRISONERS OF DUTY</td><td>CATOW:POD</td></tr>
+<tr><td>CAPTAIN AMERICA THEATER OF WAR: TO SOLDIER ON</td><td>CATOW:TSO</td></tr>
+<tr><td>CAPTAIN AMERICA/CITIZEN V</td><td>CA/CV</td></tr>
+<tr><td>CAPTAIN AMERICA/NICK FURY: BLOOD TRUCE</td><td>CA/NF:BT</td></tr>
+<tr><td>CAPTAIN AMERICA/NICK FURY: OTHER WORLD WAR</td><td>CA/NF:OWW</td></tr>
+<tr><td>CAPTAIN AMERICA: DEAD MEN RUNNING</td><td>CA:DMR</td></tr>
+<tr><td>CAPTAIN AMERICA: DIRECTORS CUT</td><td>CA:DC</td></tr>
+<tr><td>CAPTAIN AMERICA: DRUG WARS</td><td>CA:DW</td></tr>
+<tr><td>CAPTAIN AMERICA: FOREVER ALLIES</td><td>CA:FA</td></tr>
+<tr><td>CAPTAIN AMERICA: LEGEND</td><td>CA:LEGEND</td></tr>
+<tr><td>CAPTAIN AMERICA: LIVING LEGEND</td><td>CA:LL</td></tr>
+<tr><td>CAPTAIN AMERICA: MAN OUT OF TIME</td><td>CA:MOOT</td></tr>
+<tr><td>CAPTAIN AMERICA: MEDUSA EFFECT</td><td>CA:ME</td></tr>
+<tr><td>CAPTAIN AMERICA: PATRIOT</td><td>CA:P</td></tr>
+<tr><td>CAPTAIN AMERICA: REBORN</td><td>CA:REBORN</td></tr>
+<tr><td>CAPTAIN AMERICA: REBORN PREMIERE HC</td><td>CA:REBORN HC</td></tr>
+<tr><td>CAPTAIN AMERICA: RED WHITE &amp; BLUE TPB</td><td>CA:RW&amp;B</td></tr>
+<tr><td>CAPTAIN AMERICA: SENTINEL OF LIBERTY</td><td>CA:SL</td></tr>
+<tr><td>CAPTAIN AMERICA: SAM WILSON</td><td>CASW</td></tr>
+<tr><td>CAPTAIN AMERICA: STEVE ROGERS</td><td>CASR</td></tr>
+<tr><td>CAPTAIN AMERICA: WHAT PRICE GLORY</td><td>CA:WPG</td></tr>
+<tr><td>CAPTAIN AMERICA: WHITE</td><td>CA:WHITE</td></tr>
+<tr><td>CAPTAIN AMERICA: WHO WILL WIELD THE SHIELD?</td><td>CA:WHO</td></tr>
+<tr><td>CAPTAIN AMERICA'S BICENTENNIAL BATTLES (TREASURY)</td><td>CABB</td></tr>
+<tr><td>CAPTAIN BRITAIN (British Comic)</td><td>CB</td></tr>
+<tr><td>CAPTAIN BRITAIN VOL. 2 (British Comic)</td><td>CB2</td></tr>
+<tr><td>CAPTAIN BRITAIN &amp; MI13</td><td>CB&amp;MI13</td></tr>
+<tr><td>CAPTAIN BRITAIN &amp; MIGHTY DEFENDERS</td><td>CB&amp;MDEF</td></tr>
+<tr><td>CAPTAIN MARVEL</td><td>CM</td></tr>
+<tr><td>CAPTAIN MARVEL VOL. 2</td><td>CM2</td></tr>
+<tr><td>CAPTAIN MARVEL VOL. 3</td><td>CM3</td></tr>
+<tr><td>CAPTAIN MARVEL VOL. 4</td><td>CM4</td></tr>
+<tr><td>CAPTAIN MARVEL VOL. 5</td><td>CM5</td></tr>
+<tr><td>CAPTAIN MARVEL VOL. 6</td><td>CM6</td></tr>
+<tr><td>CAPTAIN MARVEL VOL. 7</td><td>CM7</td></tr>
+<tr><td>CAPTAIN MARVEL VOL. 8</td><td>CM8</td></tr>
+<tr><td>CAPTAIN MARVEL VOL. 9</td><td>CM9</td></tr>
+<tr><td>CAPTAIN MARVEL &amp; CAROL CORPS</td><td>CM&amp;CRLCORPS</td></tr>
+<tr><td>CAPTAIN MARVEL GIANT-SIZE SPECIAL</td><td>CM GSSPEC</td></tr>
+<tr><td>CAPTAIN MARVEL: BRAVER &amp; MIGHTIER</td><td>CM:B&amp;M</td></tr>
+<tr><td>CAPTAIN MARVEL: FREE YOUR MIND</td><td>CM:FYM</td></tr>
+<tr><td>CAPTAIN SAVAGE</td><td>CSAV</td></tr>
+<tr><td>CAPTAIN UNIVERSE/DAREDEVIL</td><td>CU/DD</td></tr>
+<tr><td>CAPTAIN UNIVERSE/HULK</td><td>CU/H</td></tr>
+<tr><td>CAPTAIN UNIVERSE/INVISIBLE WOMAN</td><td>CU/INVW</td></tr>
+<tr><td>CAPTAIN UNIVERSE/SILVER SURFER</td><td>CU/SS</td></tr>
+<tr><td>CAPTAIN UNIVERSE/X-23</td><td>CU/X-23</td></tr>
+<tr><td>CARNAGE</td><td>CRNG</td></tr>
+<tr><td>CARNAGE VOL. 2</td><td>CRNG2</td></tr>
+<tr><td>CARNAGE U.S.A.</td><td>CRNGUSA</td></tr>
+<tr><td>CARNAGE: IT'S A WONDERFUL LIFE</td><td>CRNG:WL</td></tr>
+<tr><td>CARNAGE: MIND BOMB</td><td>CRNG:MB</td></tr>
+<tr><td>CAT</td><td>CAT</td></tr>
+<tr><td>CAT-MAN COMICS</td><td>CAT-MANC</td></tr>
+<tr><td>CATACLYSM</td><td>CLYSM</td></tr>
+<tr><td>CATACLYSM: ULTIMATE COMICS SPIDER-MAN</td><td>CLYSM:ULTCSM</td></tr>
+<tr><td>CATACLYSM: ULTIMATE COMICS ULTIMATES</td><td>CLYSM:ULTCULTS</td></tr>
+<tr><td>CATACLYSM: ULTIMATE COMICS X-MEN</td><td>CLYSM:ULTCXM</td></tr>
+<tr><td>CATACLYSM: ULTIMATES LAST STAND</td><td>CLYSM:ULTSLS</td></tr>
+<tr><td>CENTURY: DISTANT SONS</td><td>CEN:DS</td></tr>
+<tr><td>CHALLENGERS OF THE FANTASTIC</td><td>CLGF</td></tr>
+<tr><td>CHAMBER</td><td>CHAMBER</td></tr>
+<tr><td>CHAMBER OF CHILLS</td><td>COCHILLS</td></tr>
+<tr><td>CHAMBER OF DARKNESS</td><td>CODNESS</td></tr>
+<tr><td>CHAMP COMICS</td><td>CHAMPC</td></tr>
+<tr><td>CHAMPION COMICS</td><td>CHAMPIONC</td></tr>
+<tr><td>CHAMPIONS</td><td>CHMPS</td></tr>
+<tr><td>CHAMPIONS VOL. 2</td><td>CHMPS2</td></tr>
+<tr><td>CHAMPIONS VOL. 2 1.MU</td><td>CHMPS2 1.MU</td></tr>
+<tr><td>CHAMPIONS VOL. 3</td><td>CHMPS3</td></tr>
+<tr><td>CHAOS WAR</td><td>CHAOS</td></tr>
+<tr><td>CHAOS WAR: ALPHA FLIGHT</td><td>CHAOS:AF</td></tr>
+<tr><td>CHAOS WAR: ARES</td><td>CHAOS:ARES</td></tr>
+<tr><td>CHAOS WAR: CHAOS KING</td><td>CHAOS:CK</td></tr>
+<tr><td>CHAOS WAR: DEAD AVENGERS</td><td>CHAOS:DA</td></tr>
+<tr><td>CHAOS WAR: GOD SQUAD</td><td>CHAOS:GS</td></tr>
+<tr><td>CHAOS WAR: THOR</td><td>CHAOS:T</td></tr>
+<tr><td>CHAOS WAR: X-MEN</td><td>CHAOS:X</td></tr>
+<tr><td>CHILDREN OF THE VOYAGER</td><td>COV</td></tr>
+<tr><td>CHILI</td><td>CHILI</td></tr>
+<tr><td>CINDY COMICS</td><td>CINDYC</td></tr>
+<tr><td>CINDY SMITH</td><td>CINDYS</td></tr>
+<tr><td>CITIZEN V AND THE V BATTALION</td><td>CV</td></tr>
+<tr><td>CITIZEN V AND THE V BATTALION VOL. 2 (EVERLASTING) (3/02)</td><td>CV2</td></tr>
+<tr><td>CIVIL WAR</td><td>CW</td></tr>
+<tr><td>CIVIL WAR VOL. 2</td><td>CW2</td></tr>
+<tr><td>CIVIL WAR II</td><td>CWII</td></tr>
+<tr><td>CIVIL WAR II: AMAZING SPIDER-MAN</td><td>CWII:ASM</td></tr>
+<tr><td>CIVIL WAR II: CHOOSING SIDES</td><td>CWII:CS</td></tr>
+<tr><td>CIVIL WAR II: GODS OF WAR</td><td>CWII:GOW</td></tr>
+<tr><td>CIVIL WAR II: KINGPIN</td><td>CWII:K</td></tr>
+<tr><td>CIVIL WAR II: THE OATH</td><td>CWII:OATH</td></tr>
+<tr><td>CIVIL WAR II: ULYSSES</td><td>CWII:ULY</td></tr>
+<tr><td>CIVIL WAR II: X-MEN</td><td>CWII:X</td></tr>
+<tr><td>CIVIL WAR: BATTLE DAMAGE REPORT</td><td>CW:BDR</td></tr>
+<tr><td>CIVIL WAR: CHOOSING SIDES</td><td>CW:CS</td></tr>
+<tr><td>CIVIL WAR: CONFESSION</td><td>CW:C</td></tr>
+<tr><td>CIVIL WAR: FRONT LINE</td><td>CW:FL</td></tr>
+<tr><td>CIVIL WAR: INITIATIVE</td><td>CW:I</td></tr>
+<tr><td>CIVIL WAR: RETURN</td><td>CW:R</td></tr>
+<tr><td>CIVIL WAR: WAR CRIMES</td><td>CW:WC</td></tr>
+<tr><td>CIVIL WAR: X-MEN</td><td>CW:X</td></tr>
+<tr><td>CIVIL WAR: YOUNG AVENGERS/RUNAWAYS</td><td>CW:YA/RUN</td></tr>
+<tr><td>CLANDESTINE (10/94)</td><td>CLAN</td></tr>
+<tr><td>CLANDESTINE VOL. 2</td><td>CLAN2</td></tr>
+<tr><td>CLASSIC PUNISHER</td><td>CLAP</td></tr>
+<tr><td>CLASSIC X-MEN</td><td>CX</td></tr>
+<tr><td>CLAWS</td><td>CLAWS</td></tr>
+<tr><td>CLOAK AND DAGGER</td><td>CAD</td></tr>
+<tr><td>CLOAK AND DAGGER VOL. 2</td><td>CAD2</td></tr>
+<tr><td>CLOAK AND DAGGER VOL. 3</td><td>CAD3</td></tr>
+<tr><td>CLOAK AND DAGGER VOL. 4</td><td>CAD4</td></tr>
+<tr><td>CLONE CONSPIRACY</td><td>CLNCON</td></tr>
+<tr><td>CLONE CONSPIRACY: OMEGA</td><td>CLNCON:O</td></tr>
+<tr><td>CODE OF HONOR</td><td>COH</td></tr>
+<tr><td>CODENAME: FIREARM</td><td>CN:FARM</td></tr>
+<tr><td>CODENAME: GENETIX</td><td>CN:GENE</td></tr>
+<tr><td>CODENAME: SPITFIRE</td><td>CN:SFIRE</td></tr>
+<tr><td>COLOSSUS</td><td>COL</td></tr>
+<tr><td>COMBAT KELLY</td><td>CK</td></tr>
+<tr><td>COMBAT KELLY VOL. 2</td><td>CK2</td></tr>
+<tr><td>COMBO MAN</td><td>COMBO</td></tr>
+<tr><td>COMEDY COMICS</td><td>COMEDYC</td></tr>
+<tr><td>COMEDY COMICS VOL. 2</td><td>COMEDYC2</td></tr>
+<tr><td>COMET MAN</td><td>COMET</td></tr>
+<tr><td>COMPLETE COMICS</td><td>CMPLTC</td></tr>
+<tr><td>COMPLETE MYSTERY</td><td>CMPLTM</td></tr>
+<tr><td>CONAN</td><td>CO</td></tr>
+<tr><td>CONAN SAGA</td><td>COSAGA</td></tr>
+<tr><td>CONAN THE ADVENTURER</td><td>COA</td></tr>
+<tr><td>CONAN THE BARBARIAN</td><td>COB</td></tr>
+<tr><td>CONAN THE BARBARIAN VOL. 2</td><td>COB2</td></tr>
+<tr><td>CONAN THE BARBARIAN: CRAWLER IN THE MISTS</td><td>COB:CIM</td></tr>
+<tr><td>CONAN THE BARBARIAN: EXODUS</td><td>COB:EXODUS</td></tr>
+<tr><td>CONAN THE BARBARIAN: HORD OF AZOTH GN</td><td>COB:HOA</td></tr>
+<tr><td>CONAN THE BARBARIAN: THE USURPER</td><td>COB:U</td></tr>
+<tr><td>CONAN THE KING</td><td>COK</td></tr>
+<tr><td>CONAN THE ROGUE GN</td><td>CORG</td></tr>
+<tr><td>CONAN THE SAVAGE</td><td>COSAV</td></tr>
+<tr><td>CONAN VS. RUNE</td><td>COV.RUNE</td></tr>
+<tr><td>CONAN: DEATH COVERED IN GOLD</td><td>CO:DCIG</td></tr>
+<tr><td>CONAN: FLAME AND THE FIEND</td><td>CO:F&amp;F</td></tr>
+<tr><td>CONAN: LORD OF THE SPIDERS</td><td>CO:LOTS</td></tr>
+<tr><td>CONAN: THE RAVAGERS OUT OF TIME</td><td>CO:ROOT</td></tr>
+<tr><td>CONAN: RETURN OF STYRM</td><td>CO:ROS</td></tr>
+<tr><td>CONAN: RIVER OF BLOOD</td><td>CO:ROB</td></tr>
+<tr><td>CONAN: SCARLET SWORD</td><td>CO:SCRS</td></tr>
+<tr><td>CONSPIRACY</td><td>CONSPIRACY</td></tr>
+<tr><td>[MARVEL SUPER-HERO] CONTEST OF CHAMPIONS</td><td>M/S-HCOC</td></tr>
+<tr><td>CONTEST OF CHAMPIONS (2015)</td><td>COC</td></tr>
+<tr><td>CONTEST OF CHAMPIONS II</td><td>COCII</td></tr>
+<tr><td>COSMIC GHOST RIDER</td><td>CGR</td></tr>
+<tr><td>COSMIC POWERS</td><td>CP</td></tr>
+<tr><td>COSMIC POWERS UNLIMITED</td><td>CPU</td></tr>
+<tr><td>CRASH COMICS</td><td>CRASHC</td></tr>
+<tr><td>CRAZY VOL. 3 (MAGAZINE)</td><td>CRAZY3</td></tr>
+<tr><td>CREATURES ON THE LOOSE</td><td>COTL</td></tr>
+<tr><td>CREW</td><td>CREW</td></tr>
+<tr><td>CRIMEFIGHTERS</td><td>CRIMEF</td></tr>
+<tr><td>CRIMSON DAWN</td><td>CDAWN</td></tr>
+<tr><td>CRIMSON DYNAMO</td><td>CDYNAMO</td></tr>
+<tr><td>CRITICAL MASS</td><td>CMASS</td></tr>
+<tr><td>CRYSTAR</td><td>CRYS</td></tr>
+<tr><td>CURSE OF RUNE</td><td>CORUNE</td></tr>
+<tr><td>CURSE OF THE MUTANTS: BLADE</td><td>CRSM:BLD</td></tr>
+<tr><td>CURSE OF THE MUTANTS: SMOKE &amp; BLOOD</td><td>CRSM:S&amp;B</td></tr>
+<tr><td>CURSE OF THE MUTANTS: STORM &amp; GAMBIT</td><td>CRSM:STORM&amp;GAM</td></tr>
+<tr><td>CURSE OF THE MUTANTS: X-MEN VS. VAMPIRES</td><td>CRSM:XV.V</td></tr>
+<tr><td>CUTTING EDGE</td><td>CEDGE</td></tr>
+<tr><td>CYBERFORCE</td><td>CYBERFORCE</td></tr>
+<tr><td>CYBERSPACE 3000</td><td>CYBER</td></tr>
+<tr><td>CYBLADE/GHOST RIDER</td><td>CYBLADE/GR</td></tr>
+<tr><td>CYCLOPS</td><td>CY</td></tr>
+<tr><td>CYCLOPS VOL. 3</td><td>CY3</td></tr>
+<tr><td>D.P.7</td><td>D.P.7</td></tr>
+<tr><td>DAILY BUGLE</td><td>DB</td></tr>
+<tr><td>DAILY BUGLE CIVIL WAR SPECIAL</td><td>DBCW</td></tr>
+<tr><td>DAKEN: DARK WOLVERINE</td><td>DAKEN:DW</td></tr>
+<tr><td>DAKOTA NORTH</td><td>DN</td></tr>
+<tr><td>DAMAGE CONTROL</td><td>DAMCON</td></tr>
+<tr><td>DAMAGE CONTROL VOL. 2</td><td>DAMCON2</td></tr>
+<tr><td>DAMAGE CONTROL VOL. 3</td><td>DAMCON3</td></tr>
+<tr><td>DAMNATION: JOHNNY BLAZE GHOST RIDER</td><td>DAMN:JBGR</td></tr>
+<tr><td>DANCES WITH DEMONS</td><td>DWDEMONS</td></tr>
+<tr><td>DAREDEVIL</td><td>DD</td></tr>
+<tr><td>DAREDEVIL VOL. 2</td><td>DD2</td></tr>
+<tr><td>DAREDEVIL VOL. 3</td><td>DD3</td></tr>
+<tr><td>DAREDEVIL VOL. 4</td><td>DD4</td></tr>
+<tr><td>DAREDEVIL VOL. 5</td><td>DD5</td></tr>
+<tr><td>DAREDEVIL &amp; BLACK WIDOW</td><td>DD</td></tr>
+<tr><td>DAREDEVIL &amp; CAPTAIN AMERICA: DEAD ON ARRIVAL</td><td>DD&amp;CA:DOA</td></tr>
+<tr><td>DAREDEVIL BLACK &amp; WHITE</td><td>DDB&amp;W</td></tr>
+<tr><td>DAREDEVIL NOIR</td><td>DDNOIR</td></tr>
+<tr><td>DAREDEVIL REBORN</td><td>DDREBORN</td></tr>
+<tr><td>DAREDEVIL VS PUNISHER</td><td>DDV.P</td></tr>
+<tr><td>DAREDEVIL/BLACK WIDOW: ABATTOIR (7/93)</td><td>DD/BW:A</td></tr>
+<tr><td>DAREDEVIL/DEADPOOL</td><td>DD/DP</td></tr>
+<tr><td>DAREDEVIL/PUNISHER</td><td>DD/P</td></tr>
+<tr><td>DAREDEVIL/SPIDER-MAN</td><td>DD/SM</td></tr>
+<tr><td>DAREDEVIL: BATTLING JACK MURDOCK</td><td>DD:BJM</td></tr>
+<tr><td>DAREDEVIL: BLOOD OF THE TARANTULA</td><td>DD:BOT</td></tr>
+<tr><td>DAREDEVIL: CAGE MATCH</td><td>DD:CM</td></tr>
+<tr><td>DAREDEVIL: DARK NIGHTS</td><td>DD:DN</td></tr>
+<tr><td>DAREDEVIL: END OF DAYS</td><td>DD:EOD</td></tr>
+<tr><td>DAREDEVIL: FALL FROM GRACE TPB</td><td>DD:FFG</td></tr>
+<tr><td>DAREDEVIL: FATHER</td><td>DD:F</td></tr>
+<tr><td>DAREDEVIL: NINJA</td><td>DD:N</td></tr>
+<tr><td>DAREDEVIL: REDEMPTION</td><td>DD:R</td></tr>
+<tr><td>DAREDEVIL: TARGET</td><td>DD:T</td></tr>
+<tr><td>DAREDEVIL: YELLOW</td><td>DD:YELLOW</td></tr>
+<tr><td>DAREDEVILS (British Comic)</td><td>DDS</td></tr>
+<tr><td>DARING COMICS</td><td>DARMC</td></tr>
+<tr><td>DARING MYSTERY COMICS</td><td>DARC</td></tr>
+<tr><td>DARING MYSTERY COMICS 70TH ANNIVERSARY SPECIAL</td><td>DARMC70A</td></tr>
+<tr><td>DARK ANGEL</td><td>DANGEL</td></tr>
+<tr><td>DARK AVENGERS</td><td>DA</td></tr>
+<tr><td>DARK AVENGERS VOL. 2</td><td>DA2</td></tr>
+<tr><td>DARK AVENGERS/UNCANNY X-MEN: EXODUS</td><td>DA/UX:EXODUS</td></tr>
+<tr><td>DARK AVENGERS/UNCANNY X-MEN: UTOPIA</td><td>DA/UX:UTOPIA</td></tr>
+<tr><td>DARK AVENGERS: ARES</td><td>DA:ARES</td></tr>
+<tr><td>DARK CLAW ADVENTURES</td><td>DCLWADV</td></tr>
+<tr><td>DARK GUARD</td><td>DGUARD</td></tr>
+<tr><td>DARK REIGN: CABAL</td><td>DR:CABAL</td></tr>
+<tr><td>DARK REIGN: ELEKTRA</td><td>DR:EL</td></tr>
+<tr><td>DARK REIGN: FANTASTIC FOUR</td><td>DR:FF</td></tr>
+<tr><td>DARK REIGN: GOBLIN LEGACY</td><td>DR:GL</td></tr>
+<tr><td>DARK REIGN: HAWKEYE</td><td>DR:HAWK</td></tr>
+<tr><td>DARK REIGN: HOOD</td><td>DR:HOOD</td></tr>
+<tr><td>DARK REIGN: LETHAL LEGION</td><td>DR:LL</td></tr>
+<tr><td>DARK REIGN: MADE MEN</td><td>DR:MM</td></tr>
+<tr><td>DARK REIGN: MR. NEGATIVE</td><td>DR:MN</td></tr>
+<tr><td>DARK REIGN: NEW NATION</td><td>DR:NN</td></tr>
+<tr><td>DARK REIGN: SINISTER SPIDER-MAN</td><td>DR:SINSM</td></tr>
+<tr><td>DARK REIGN: YOUNG AVENGERS</td><td>DR:YA</td></tr>
+<tr><td>DARK REIGN: ZODIAC</td><td>DR:Z</td></tr>
+<tr><td>DARK REIGN LIST: AMAZING SPIDER-MAN</td><td>DRL:ASM</td></tr>
+<tr><td>DARK REIGN LIST: AVENGERS</td><td>DRL:A</td></tr>
+<tr><td>DARK REIGN LIST: DAREDEVIL</td><td>DRL:DD</td></tr>
+<tr><td>DARK REIGN LIST: HULK</td><td>DRL:H</td></tr>
+<tr><td>DARK REIGN LIST: PUNISHER</td><td>DRL:P</td></tr>
+<tr><td>DARK REIGN LIST: SECRET WARRIORS</td><td>DRL:SECWARR</td></tr>
+<tr><td>DARK REIGN LIST: WOLVERINE</td><td>DRL:W</td></tr>
+<tr><td>DARK REIGN LIST: X-MEN</td><td>DRL:X</td></tr>
+<tr><td>DARK WOLVERINE</td><td>DW</td></tr>
+<tr><td>DARK X-MEN</td><td>DX</td></tr>
+<tr><td>DARK X-MEN: BEGINNING</td><td>DX:B</td></tr>
+<tr><td>DARK X-MEN: CONFESSION</td><td>DX:C</td></tr>
+<tr><td>DARKDEVIL</td><td>DDEVIL</td></tr>
+<tr><td>DARKHAWK</td><td>DHAWK</td></tr>
+<tr><td>DARKHOLD</td><td>DHOLD</td></tr>
+<tr><td>DARKSTAR &amp; THE WINTER GUARD</td><td>DSTAR&amp;WG</td></tr>
+<tr><td>DAUGHTERS OF THE DRAGON</td><td>DOD</td></tr>
+<tr><td>DAYDREAMERS</td><td>DAYD</td></tr>
+<tr><td>DAZZLER</td><td>DAZZ</td></tr>
+<tr><td>DAZZLER VOL. 2</td><td>DAZZ2</td></tr>
+<tr><td>DAZZLER: X-SONG</td><td>DAZZ:XS</td></tr>
+<tr><td>DC VS. MARVEL</td><td>DCV.M/</td></tr>
+<tr><td>DC/MARVEL: ALL ACCESS</td><td>DC/M/:AACC</td></tr>
+<tr><td>DEAD MAN LOGAN</td><td>DML</td></tr>
+<tr><td>DEAD OF NIGHT</td><td>DON</td></tr>
+<tr><td>DEADLINE</td><td>DLINE</td></tr>
+<tr><td>DEADLY FOES OF SPIDER-MAN</td><td>DFSM</td></tr>
+<tr><td>DEADLY HANDS OF KUNG FU</td><td>DHKF</td></tr>
+<tr><td>DEADLY HANDS OF KUNG FU VOL. 2</td><td>DHKF2</td></tr>
+<tr><td>DEADPOOL</td><td>DP</td></tr>
+<tr><td>DEADPOOL VOL. 2</td><td>DP2</td></tr>
+<tr><td>DEADPOOL VOL. 3</td><td>DP3</td></tr>
+<tr><td>DEADPOOL VOL. 4</td><td>DP4</td></tr>
+<tr><td>DEADPOOL VOL. 5</td><td>DP5</td></tr>
+<tr><td>DEADPOOL VOL. 6</td><td>DP6</td></tr>
+<tr><td>DEADPOOL VOL. 7</td><td>DP7</td></tr>
+<tr><td>DEADPOOL &amp; CABLE</td><td>DP&amp;C</td></tr>
+<tr><td>DEADPOOL &amp; CABLE: SPLIT SECOND</td><td>DP&amp;C:SS</td></tr>
+<tr><td>DEADPOOL BI-</td><td>DPB</td></tr>
+<tr><td>DEADPOOL CORPS</td><td>DPCORPS</td></tr>
+<tr><td>DEADPOOL FAMILY</td><td>DPF</td></tr>
+<tr><td>DEADPOOL PULP</td><td>DPPULP</td></tr>
+<tr><td>DEADPOOL TEAM-UP</td><td>DPTU</td></tr>
+<tr><td>DEADPOOL TEAM-UP VOL. 2</td><td>DPTU2</td></tr>
+<tr><td>DEADPOOL THE DUCK</td><td>DPTD</td></tr>
+<tr><td>DEADPOOL V GAMBIT</td><td>DPV.GAM</td></tr>
+<tr><td>DEADPOOL VS. CARNAGE</td><td>DPV.CRNG</td></tr>
+<tr><td>DEADPOOL VS. OLD MAN LOGAN</td><td>DPV.OML</td></tr>
+<tr><td>DEADPOOL VS. PUNISHER</td><td>DPV.P</td></tr>
+<tr><td>DEADPOOL VS. THANOS</td><td>DPV.THANOS</td></tr>
+<tr><td>DEADPOOL VS. X-FORCE</td><td>DPV.XFOR</td></tr>
+<tr><td>DEADPOOL/DEATH</td><td>DP/DEATH</td></tr>
+<tr><td>DEADPOOL/GLI SUMMER FUN SPECTACULAR</td><td>DP/GLI:SUMF</td></tr>
+<tr><td>DEADPOOL: ASSASSIN</td><td>DP:ASSN</td></tr>
+<tr><td>DEADPOOL: BACK IN BLACK</td><td>DP:BIB</td></tr>
+<tr><td>DEADPOOL: DRACULA'S GAUNTLET</td><td>DP:DG</td></tr>
+<tr><td>DEADPOOL: GAME$ OF DEATH</td><td>DP:GOD</td></tr>
+<tr><td>DEADPOOL: LAST DAYS OF MAGIC</td><td>DP:LDOM</td></tr>
+<tr><td>DEADPOOL: MERC WITH A MOUTH</td><td>DP:MERC</td></tr>
+<tr><td>DEADPOOL: MERCS FOR MONEY</td><td>DP:MFM</td></tr>
+<tr><td>DEADPOOL: MERCS FOR MONEY VOL. 2</td><td>DP:MFM2</td></tr>
+<tr><td>DEADPOOL: SUICIDE KINGS</td><td>DP:SK</td></tr>
+<tr><td>DEADPOOL: TOO SOON?</td><td>DP:TS?</td></tr>
+<tr><td>DEADPOOL'S SECRET SECRET WARS</td><td>DPSECSECWARS</td></tr>
+<tr><td>DEATH METAL</td><td>DMTL</td></tr>
+<tr><td>DEATH METAL VS. GENETIX</td><td>DMTLV.GENE</td></tr>
+<tr><td>DEATH OF DRACULA</td><td>DEATHOFD</td></tr>
+<tr><td>DEATH OF INHUMANS</td><td>DOINHS</td></tr>
+<tr><td>DEATH OF WOLVERINE</td><td>DOW</td></tr>
+<tr><td>DEATH OF WOLVERINE: LIFE AFTER LOGAN</td><td>DOW:LAL</td></tr>
+<tr><td>DEATH OF WOLVERINE: THE LOGAN LEGACY</td><td>DOW:LL</td></tr>
+<tr><td>DEATH OF WOLVERINE: THE WEAPON X PROGRAM</td><td>DOW:WXP</td></tr>
+<tr><td>DEATH OF X</td><td>DOX</td></tr>
+<tr><td>DEATH WRECK</td><td>DWRECK</td></tr>
+<tr><td>DEATH'S HEAD</td><td>DH</td></tr>
+<tr><td>DEATH'S HEAD GOLD</td><td>DHGOLD</td></tr>
+<tr><td>DEATH'S HEAD II</td><td>DHII</td></tr>
+<tr><td>DEATH'S HEAD II VOL. 2</td><td>DHII2</td></tr>
+<tr><td>DEATH'S HEAD II AND ORIGIN OF DIE-CUT</td><td>DHII&amp;ODCUT</td></tr>
+<tr><td>DEATH'S HEAD: BODY IN QUESTION</td><td>DH:BIQ</td></tr>
+<tr><td>DEATH³</td><td>DEATH³</td></tr>
+<tr><td>DEATHLOK</td><td>DLOK</td></tr>
+<tr><td>DEATHLOK VOL. 2</td><td>DLOK2</td></tr>
+<tr><td>DEATHLOK VOL. 3</td><td>DLOK3</td></tr>
+<tr><td>DEFENDERS</td><td>DEF</td></tr>
+<tr><td>DEFENDERS VOL. 2</td><td>DEF2</td></tr>
+<tr><td>DEFENDERS VOL. 3</td><td>DEF3</td></tr>
+<tr><td>DEFENDERS VOL. 4</td><td>DEF4</td></tr>
+<tr><td>DEFENDERS VOL. 5</td><td>DEF5</td></tr>
+<tr><td>DEFENDERS: THE BEST DEFENSE</td><td>DEF:BD</td></tr>
+<tr><td>DESPICABLE DEADPOOL</td><td>DDP</td></tr>
+<tr><td>DESTROYER VOL. 4</td><td>DEST4</td></tr>
+<tr><td>DEVIL DINOSAUR</td><td>DDINO</td></tr>
+<tr><td>DEVIL DINOSAUR VOL. 2</td><td>DDINO2</td></tr>
+<tr><td>DEVIL DINOSAUR SPRING FLING</td><td>DDINO2</td></tr>
+<tr><td>DEVILS</td><td>DEVILS</td></tr>
+<tr><td>DIE-CUT</td><td>DCUT</td></tr>
+<tr><td>DIE-CUT VS. G-FORCE</td><td>DCUTV.GF</td></tr>
+<tr><td>DISTRICT X</td><td>DISTX</td></tr>
+<tr><td>DOC SAMSON</td><td>DOCSAM</td></tr>
+<tr><td>DOC SAMSON VOL. 2</td><td>DOCSAM2</td></tr>
+<tr><td>DOC SAVAGE</td><td>DOCSAV</td></tr>
+<tr><td>DOC SAVAGE VOL. 2</td><td>DOCSAV2</td></tr>
+<tr><td>DOCTOR SPECTRUM</td><td>DRSP</td></tr>
+<tr><td>DOCTOR STRANGE</td><td>DS</td></tr>
+<tr><td>DOCTOR STRANGE VOL. 2</td><td>DS2</td></tr>
+<tr><td>DOCTOR STRANGE VOL. 3</td><td>DS3</td></tr>
+<tr><td>DOCTOR STRANGE VOL. 4</td><td>DS4</td></tr>
+<tr><td>DOCTOR STRANGE VOL. 4 1.MU</td><td>DS4 1.MU</td></tr>
+<tr><td>DOCTOR STRANGE VOL. 5</td><td>DS5</td></tr>
+<tr><td>DOCTOR STRANGE AND THE SORCERERS SUPREME</td><td>DS&amp;SSS</td></tr>
+<tr><td>DOCTOR STRANGE FLIGHT OF BONES</td><td>DS3</td></tr>
+<tr><td>DOCTOR STRANGE, SORCERER SUPREME</td><td>DSSS</td></tr>
+<tr><td>DOCTOR STRANGE/PUNISHER: MAGIC BULLETS</td><td>DS/P:MB</td></tr>
+<tr><td>DOCTOR STRANGE: DAMNATION</td><td>DS:DAMN</td></tr>
+<tr><td>DOCTOR STRANGE: LAST DAYS OF MAGIC</td><td>DS:LDOM</td></tr>
+<tr><td>DOCTOR STRANGE: OATH</td><td>DS:OATH</td></tr>
+<tr><td>DOCTOR STRANGE: THE BEST DEFENSE</td><td>DS:BD</td></tr>
+<tr><td>DOCTOR STRANGEFATE</td><td>DSFATE</td></tr>
+<tr><td>DOCTOR VOODOO: AVENGER OF THE SUPERNATURAL</td><td>DRV</td></tr>
+<tr><td>DOCTOR VOODOO: ORIGIN OF JERICHO DRUMM</td><td>DRV:OJD</td></tr>
+<tr><td>DOCTOR WHO MAGAZINE</td><td>DWHOMAG</td></tr>
+<tr><td>DOCTOR ZERO</td><td>DZERO</td></tr>
+<tr><td>DOMINATION FACTOR</td><td>DF</td></tr>
+<tr><td>DOMINIC FORTUNE</td><td>FORTUNE</td></tr>
+<tr><td>DOMINIC FORTUNE: IT CAN HAPPEN HERE AND NOW TPB</td><td>FORTUNE:ICHH&amp;N</td></tr>
+<tr><td>DOMINO</td><td>DOMINO</td></tr>
+<tr><td>DOMINO VOL. 2</td><td>DOMINO2</td></tr>
+<tr><td>DOMINO VOL. 3</td><td>DOMINO3</td></tr>
+<tr><td>DOMINO: HOTSHOTS</td><td>DOMINO:HS</td></tr>
+<tr><td>DOOM</td><td>DOOM</td></tr>
+<tr><td>DOOM 2099</td><td>DOOM2099</td></tr>
+<tr><td>DOOM: EMPEROR RETURNS</td><td>DOOM:ER</td></tr>
+<tr><td>DOOMWAR</td><td>DOOMWAR</td></tr>
+<tr><td>DOUBLE EDGE: ALPHA</td><td>DEDGE:A</td></tr>
+<tr><td>DOUBLE EDGE: OMEGA</td><td>DEDGE:O</td></tr>
+<tr><td>DR. STRANGE: WHAT IS IT THAT DISTURBS YOU STEPHEN?</td><td>DS:WDS</td></tr>
+<tr><td>DRACULA LIVES!</td><td>DL</td></tr>
+<tr><td>DRACULA: LORD OF THE UNDEAD</td><td>D:LU</td></tr>
+<tr><td>DRAFT</td><td>DRAFT</td></tr>
+<tr><td>DRAGON'S CLAWS</td><td>DCLAWS</td></tr>
+<tr><td>DRAX</td><td>DRAX</td></tr>
+<tr><td>DRAX THE DESTROYER</td><td>DRAXD</td></tr>
+<tr><td>DRUID (5/95)</td><td>DRUID</td></tr>
+<tr><td>E IS FOR EXTINCTION</td><td>EFREXT</td></tr>
+<tr><td>EAGLE</td><td>EAGLE</td></tr>
+<tr><td>EARTH X</td><td>EARX</td></tr>
+<tr><td>EARTH X COLLECTION</td><td>EARXC</td></tr>
+<tr><td>EARTH X X</td><td>EARX X</td></tr>
+<tr><td>EDGE OF SPIDER-GEDDON</td><td>ESGEDDON</td></tr>
+<tr><td>EDGE OF SPIDER-VERSE</td><td>ESVERSE</td></tr>
+<tr><td>EDGE OF VENOMVERSE</td><td>EVVERSE</td></tr>
+<tr><td>ELEKTRA</td><td>EL</td></tr>
+<tr><td>ELEKTRA VOL. 2</td><td>EL2</td></tr>
+<tr><td>ELEKTRA VOL. 4</td><td>EL4</td></tr>
+<tr><td>ELEKTRA &amp; WOLVERINE: REDEEMER</td><td>EL&amp;W:R</td></tr>
+<tr><td>ELEKTRA SAGE</td><td>ELSAGA</td></tr>
+<tr><td>ELEKTRA/CYBLADE</td><td>EL/CYBLADE</td></tr>
+<tr><td>ELEKTRA: ASSASSIN</td><td>EL:A</td></tr>
+<tr><td>ELEKTRA: GLIMPSE &amp; ECHO</td><td>EL:G&amp;E</td></tr>
+<tr><td>ELEKTRA: HAND</td><td>EL:HAND</td></tr>
+<tr><td>ELEKTRA: ROOT OF EVIL</td><td>EL:ROE</td></tr>
+<tr><td>ELIMINATOR</td><td>ELIM</td></tr>
+<tr><td>ELVEN</td><td>ELVEN</td></tr>
+<tr><td>EMMA FROST</td><td>EFROST</td></tr>
+<tr><td>ENTER THE HEROIC AGE</td><td>EHAGE</td></tr>
+<tr><td>EPIC GRAPHIC NOVEL: HEARTS AND MINDS</td><td>EPICGN:HRT&amp;MND</td></tr>
+<tr><td>EPIC GRAPHIC NOVEL: PUNISHER: RETURN TO BIG NOTHING</td><td>EPICGN:PRBN</td></tr>
+<tr><td>EPIC ILLUSTRATED</td><td>EPICI</td></tr>
+<tr><td>ETERNALS</td><td>E</td></tr>
+<tr><td>ETERNALS VOL. 2</td><td>E2</td></tr>
+<tr><td>ETERNALS VOL. 3</td><td>E3</td></tr>
+<tr><td>ETERNALS VOL. 4</td><td>E4</td></tr>
+<tr><td>ETERNALS: APOCALYPSE NOW</td><td>E:AN</td></tr>
+<tr><td>ETERNALS: HEROD FACTOR</td><td>E:HEROD</td></tr>
+<tr><td>EUROPA</td><td>EUR</td></tr>
+<tr><td>EXCALIBUR</td><td>XCAL</td></tr>
+<tr><td>EXCALIBUR VOL. 2</td><td>XCAL2</td></tr>
+<tr><td>EXCALIBUR VOL. 3</td><td>XCAL3</td></tr>
+<tr><td>EXCALIBUR VOL. 4</td><td>XCAL4</td></tr>
+<tr><td>EXCALIBUR SPECIAL EDITION</td><td>XCALSE</td></tr>
+<tr><td>EXCALIBUR: AIR APPARENT</td><td>XCAL:AA</td></tr>
+<tr><td>EXCALIBUR: MOJO MAYHEM</td><td>XCAL:MM</td></tr>
+<tr><td>EXCALIBUR: POSSESSION</td><td>XCAL:P</td></tr>
+<tr><td>EXCALIBUR: SWORD IS DRAWN</td><td>XCALSE</td></tr>
+<tr><td>EXCALIBUR: WEIRD WAR III</td><td>XCAL:WWIII</td></tr>
+<tr><td>EXCALIBUR: XX CROSSING</td><td>XCAL:XXC</td></tr>
+<tr><td>EXCITING X-PATROL</td><td>EXPAT</td></tr>
+<tr><td>EXILED</td><td>EXD</td></tr>
+<tr><td>EXILES</td><td>EX</td></tr>
+<tr><td>EXILES VOL. 2</td><td>EX2</td></tr>
+<tr><td>EXILES VOL. 3</td><td>EX3</td></tr>
+<tr><td>EXILES VOL. 4</td><td>EX4</td></tr>
+<tr><td>EXILES ∞</td><td>EX ∞</td></tr>
+<tr><td>EXILES: DAYS OF THEN AND NOW</td><td>EX:DTN</td></tr>
+<tr><td>EXTERMINATION</td><td>EXTRMNTN</td></tr>
+<tr><td>EXTRAORDINARY X-MEN</td><td>EXX</td></tr>
+<tr><td>FACTOR X</td><td>FX</td></tr>
+<tr><td>FALCON</td><td>FAL</td></tr>
+<tr><td>FALCON VOL. 2</td><td>FAL2</td></tr>
+<tr><td>FALL OF THE HULKS: ALPHA</td><td>FOHS:A</td></tr>
+<tr><td>FALL OF THE HULKS: GAMMA</td><td>FOHS:G</td></tr>
+<tr><td>FALL OF THE HULKS: RED HULK</td><td>FOHS:RH</td></tr>
+<tr><td>FALL OF THE HULKS: SAVAGE SHE-HULKS</td><td>FOHS:SAVSHS</td></tr>
+<tr><td>FALLEN</td><td>FALLEN</td></tr>
+<tr><td>FALLEN ANGELS</td><td>FANGELS</td></tr>
+<tr><td>FALLEN SON: AVENGERS</td><td>FSON:A</td></tr>
+<tr><td>FALLEN SON: CAPTAIN AMERICA</td><td>FSON:CA</td></tr>
+<tr><td>FALLEN SON: IRON MAN</td><td>FSON:IM</td></tr>
+<tr><td>FALLEN SON: SPIDER-MAN</td><td>FSON:SM</td></tr>
+<tr><td>FALLEN SON: WOLVERINE</td><td>FSON:W</td></tr>
+<tr><td>FANTASTIC 4TH VOYAGE OF SINBAD</td><td>FFSINBAD</td></tr>
+<tr><td>FANTASTIC FIVE</td><td>FFIVE</td></tr>
+<tr><td>FANTASTIC FIVE VOL. 2</td><td>FFIVE2</td></tr>
+<tr><td>FANTASTIC FORCE</td><td>FFOR</td></tr>
+<tr><td>FANTASTIC FORCE VOL. 2</td><td>FFOR2</td></tr>
+<tr><td>FANTASTIC FOUR</td><td>FF</td></tr>
+<tr><td>FANTASTIC FOUR VOL. 2</td><td>FF2</td></tr>
+<tr><td>FANTASTIC FOUR VOL. 3</td><td>FF3</td></tr>
+<tr><td>FANTASTIC FOUR VOL. 4</td><td>FF4</td></tr>
+<tr><td>FANTASTIC FOUR VOL. 4 5AU</td><td>FF4 5AU</td></tr>
+<tr><td>FANTASTIC FOUR VOL. 5</td><td>FF5</td></tr>
+<tr><td>FANTASTIC FOUR VOL. 6</td><td>FF6</td></tr>
+<tr><td>FANTASTIC FOUR &amp; POWER PACK</td><td>FF&amp;PP</td></tr>
+<tr><td>FANTASTIC FOUR 2099</td><td>FF2099</td></tr>
+<tr><td>FANTASTIC FOUR COSMIC-SIZE</td><td>FFC-S</td></tr>
+<tr><td>FANTASTIC FOUR ROAST</td><td>FFROAST</td></tr>
+<tr><td>FANTASTIC FOUR SPECIAL</td><td>FF SPEC</td></tr>
+<tr><td>FANTASTIC FOUR UNLIMITED</td><td>FFU</td></tr>
+<tr><td>FANTASTIC FOUR UNPLUGGED</td><td>FFUP</td></tr>
+<tr><td>FANTASTIC FOUR VS. X-MEN</td><td>FFV.X</td></tr>
+<tr><td>FANTASTIC FOUR WEDDING SPECIAL</td><td>FFWED</td></tr>
+<tr><td>FANTASTIC FOUR WEDDING SPECIAL VOL. 2</td><td>FFWED2</td></tr>
+<tr><td>FANTASTIC FOUR WORLD'S GREATEST COMIC MAGAZINE</td><td>FFWGCM</td></tr>
+<tr><td>FANTASTIC FOUR/FANTASTIC FOUR</td><td>FF/FF</td></tr>
+<tr><td>FANTASTIC FOUR/IRON MAN: BIG IN JAPAN</td><td>FF/IM:BIJ</td></tr>
+<tr><td>FANTASTIC FOUR: ATAQUE DEL M.O.D.O.K.</td><td>FF:ADM</td></tr>
+<tr><td>FANTASTIC FOUR: ATLANTIS RISING</td><td>FF:AR</td></tr>
+<tr><td>FANTASTIC FOUR: DEATH IN THE FAMILY</td><td>FF:DEATH</td></tr>
+<tr><td>FANTASTIC FOUR: FIRST FAMILY</td><td>FF:FF</td></tr>
+<tr><td>FANTASTIC FOUR: FOES</td><td>FF:FOES</td></tr>
+<tr><td>FANTASTIC FOUR: HOUSE OF M</td><td>FF:HOM</td></tr>
+<tr><td>FANTASTIC FOUR: ISLA DE LA MUERTE</td><td>FF:IDLM</td></tr>
+<tr><td>FANTASTIC FOUR: NOBODY GETS OUT ALIVE TPB</td><td>FF:NGOA</td></tr>
+<tr><td>FANTASTIC FOUR: SPECIAL EDITION</td><td>FF:SE</td></tr>
+<tr><td>FANTASTIC FOUR: TRUE STORY</td><td>FF:TS</td></tr>
+<tr><td>FAST LANE</td><td>FLANE</td></tr>
+<tr><td>FEAR</td><td>AIF</td></tr>
+<tr><td>FEAR ITSELF</td><td>FI</td></tr>
+<tr><td>FEAR ITSELF: BLACK WIDOW</td><td>FI:BW</td></tr>
+<tr><td>FEAR ITSELF: BOOK OF THE SKULL</td><td>FI:BSKULL</td></tr>
+<tr><td>FEAR ITSELF: DEADPOOL</td><td>FI:DP</td></tr>
+<tr><td>FEAR ITSELF: DEEP</td><td>FI:DEEP</td></tr>
+<tr><td>FEAR ITSELF: FEARLESS</td><td>FI:FLSS</td></tr>
+<tr><td>FEAR ITSELF: FEARSOME FOUR</td><td>FI:FSOMEF</td></tr>
+<tr><td>FEAR ITSELF: FELLOWSHIP OF FEAR</td><td>FI:FSHIPF</td></tr>
+<tr><td>FEAR ITSELF: FF</td><td>FI:F.F.</td></tr>
+<tr><td>FEAR ITSELF: HOME FRONT</td><td>FI:HF</td></tr>
+<tr><td>FEAR ITSELF: HULK VS. DRACULA</td><td>FI:HV.D</td></tr>
+<tr><td>FEAR ITSELF: MONKEY KING</td><td>FI:MK</td></tr>
+<tr><td>FEAR ITSELF: SINS PAST</td><td>FI:SP</td></tr>
+<tr><td>FEAR ITSELF: SPIDER-MAN</td><td>FI:SM</td></tr>
+<tr><td>FEAR ITSELF: UNCANNY X-FORCE</td><td>FI:UXFOR</td></tr>
+<tr><td>FEAR ITSELF: WOLVERINE</td><td>FI:W</td></tr>
+<tr><td>FEAR ITSELF: WORTHY</td><td>FI:WORTHY</td></tr>
+<tr><td>FEAR ITSELF: YOUTH IN REVOLT</td><td>FI:YIR</td></tr>
+<tr><td>FEARLESS DEFENDERS</td><td>FLSSDEF</td></tr>
+<tr><td>FEARLESS DEFENDERS 4AU</td><td>FLSSDEF 4AU</td></tr>
+<tr><td>FF</td><td>F.F.</td></tr>
+<tr><td>FF VOL. 2</td><td>F.F.2</td></tr>
+<tr><td>FIGHT-MAN</td><td>FIGHT-MAN</td></tr>
+<tr><td>FIN FANG FOUR RETURN!</td><td>FFFR</td></tr>
+<tr><td>FIREARM</td><td>FARM</td></tr>
+<tr><td>FIRESTAR</td><td>FSTAR</td></tr>
+<tr><td>FIRESTAR VOL. 2</td><td>FSTAR2</td></tr>
+<tr><td>FIRST X-MEN</td><td>FIRSTX</td></tr>
+<tr><td>FLOOD RELIEF</td><td>FLOOD</td></tr>
+<tr><td>FOOLKILLER</td><td>FOOL</td></tr>
+<tr><td>FOOLKILLER VOL. 2</td><td>FOOL2</td></tr>
+<tr><td>FOOLKILLER VOL. 3</td><td>FOOL3</td></tr>
+<tr><td>FOOLKILLER: WHITE ANGELS</td><td>FOOL:WA</td></tr>
+<tr><td>FORCE WORKS</td><td>FW</td></tr>
+<tr><td>FORCE WORKS ASHCAN</td><td>FW ASH</td></tr>
+<tr><td>FOXFIRE</td><td>FOXFIRE</td></tr>
+<tr><td>FRANKEN-CASTLE</td><td>FC</td></tr>
+<tr><td>FRANKENSTEIN MONSTER</td><td>FMON</td></tr>
+<tr><td>FRANKLIN RICHARDS (EVERYBODY LOVES FRANKLIN)</td><td>FRANK</td></tr>
+<tr><td>FRANKLIN RICHARDS: APRIL FOOLS!</td><td>FRANK:AF</td></tr>
+<tr><td>FRANKLIN RICHARDS: DARK REIGNING CATS AND DOGS</td><td>FRANK:DRC&amp;D</td></tr>
+<tr><td>FRANKLIN RICHARDS: FALL FOOTBALL FIASCO</td><td>FRANK:FFF</td></tr>
+<tr><td>FRANKLIN RICHARDS: HAPPY FRANKSGIVING</td><td>FRANK:HF</td></tr>
+<tr><td>FRANKLIN RICHARDS: MARCH MADNESS</td><td>FRANK:MAMA</td></tr>
+<tr><td>FRANKLIN RICHARDS: MONSTER MASH</td><td>FRANK:MM</td></tr>
+<tr><td>FRANKLIN RICHARDS: NOT-SO-SECRET INVASION</td><td>FRANK:NSSI</td></tr>
+<tr><td>FRANKLIN RICHARDS: SCHOOL'S OUT!</td><td>FRANK:SO</td></tr>
+<tr><td>FRANKLIN RICHARDS: SONS OF GENIUSES!</td><td>FRANK:SO</td></tr>
+<tr><td>FRANKLIN RICHARDS: SPRING BREAK</td><td>FRANK:SB</td></tr>
+<tr><td>FRANKLIN RICHARDS: SUMMER SMACKDOWN!</td><td>FRANK:SS</td></tr>
+<tr><td>FRANKLIN RICHARDS: SUPER SUMMER SPECTACULAR</td><td>FRANK:SSS</td></tr>
+<tr><td>FRANKLIN RICHARDS: WORLD BE WARNED</td><td>FRANK:WBW</td></tr>
+<tr><td>FRED HEMBECK $ELL$ THE MARVEL UNIVERSE</td><td>FHEMSM/U</td></tr>
+<tr><td>FRED HEMBECK DESTROYS THE MARVEL UNIVERSE</td><td>FHEMDM/U</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2009: AVENGERS</td><td>FCBD09:A</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2009: WOLVERINE</td><td>FCBD09:W</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2010: IRON MAN/THOR</td><td>FCBD10:IM/T</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2011: AMAZING SPIDER-MAN</td><td>FCBD11:ASM</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2015: AVENGERS</td><td>FCBD15:A</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2016: CAPTAIN AMERICA</td><td>FCBD16:CA</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2016: CIVIL WAR II</td><td>FCBD16:CWII</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2017: ALL-NEW GUARDIANS OF THE GALAXY</td><td>FCBD17:ANGOTG</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2017: SECRET EMPIRE</td><td>FCBD17:SECEMP</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2018: AVENGERS/CAPTAIN AMERICA</td><td>FCBD18:A/CA</td></tr>
+<tr><td>FREE COMIC BOOK DAY 2018: AMAZING SPIDER-MAN</td><td>FCBD18:ASM</td></tr>
+<tr><td>FREEX</td><td>FREEX</td></tr>
+<tr><td>FRIENDLY NEIGHBORHOOD SPIDER-MAN</td><td>FNSM</td></tr>
+<tr><td>FRIENDLY NEIGHBORHOOD SPIDER-MAN VOL. 2</td><td>FNSM2</td></tr>
+<tr><td>FURTHER ADVENTURES OF CYCLOPS &amp; PHOENIX</td><td>FACY&amp;PHX</td></tr>
+<tr><td>FURY</td><td>F</td></tr>
+<tr><td>FURY VOL. 2</td><td>F2</td></tr>
+<tr><td>FURY MAX</td><td>FMAX</td></tr>
+<tr><td>FURY OF S.H.I.E.L.D.</td><td>FOS</td></tr>
+<tr><td>FURY/AGENT 13</td><td>F/AGENT13</td></tr>
+<tr><td>FURY/BLACK WIDOW: DEATH DUTY</td><td>F/BW:DD</td></tr>
+<tr><td>FURY: PEACEMAKER</td><td>F:PM</td></tr>
+<tr><td>FUTURE IMPERFECT</td><td>FIMP</td></tr>
+<tr><td>FUTURE FIGHT FIRSTS: CRESCENT &amp; IO</td><td>FUFIF:CRSCNT&amp;IO</td></tr>
+<tr><td>FUTURE FIGHT FIRSTS: LUNA SNOW</td><td>FUFIF:LSNOW</td></tr>
+<tr><td>FUTURE FIGHT FIRSTS: WFOX</td><td>FUFIF: WHITE FOX</td></tr>
+<tr><td>FUTURE FOUNDATION</td><td>FFNDTN</td></tr>
+<tr><td>GALACTIC GUARDIANS</td><td>GALG</td></tr>
+<tr><td>GALACTUS: THE DEVOURER</td><td>GLCTS:DEV</td></tr>
+<tr><td>GAMBIT</td><td>GAM</td></tr>
+<tr><td>GAMBIT VOL. 2</td><td>GAM2</td></tr>
+<tr><td>GAMBIT VOL. 3</td><td>GAM3</td></tr>
+<tr><td>GAMBIT VOL. 4</td><td>GAM4</td></tr>
+<tr><td>GAMBIT VOL. 5</td><td>GAM5</td></tr>
+<tr><td>GAMBIT &amp; BISHOP ALPHA</td><td>GAM&amp;BSHP:A</td></tr>
+<tr><td>GAMBIT &amp; BISHOP: SONS OF THE ATOM</td><td>GAM&amp;BSHP:SOA</td></tr>
+<tr><td>GAMBIT &amp; THE X-TERNALS</td><td>GAM&amp;XT</td></tr>
+<tr><td>GAMBIT CYBER COMIC</td><td>GAMCC</td></tr>
+<tr><td>GARGOYLE</td><td>GARG</td></tr>
+<tr><td>GENE DOGS</td><td>GDOGS</td></tr>
+<tr><td>GENERATION HEX</td><td>GENHEX</td></tr>
+<tr><td>GENERATION HOPE</td><td>GENH</td></tr>
+<tr><td>GENERATION M</td><td>GENM</td></tr>
+<tr><td>GENERATION NEXT</td><td>GENNXT</td></tr>
+<tr><td>GENERATION X</td><td>GENX</td></tr>
+<tr><td>GENERATION X VOL. 2</td><td>GENX2</td></tr>
+<tr><td>GENERATION X HOLIDAY SPECIAL</td><td>GENX HSPEC</td></tr>
+<tr><td>GENERATION X UNDERGROUND SPECIAL</td><td>GENXUND</td></tr>
+<tr><td>GENERATION X/DRACULA</td><td>GENX/D</td></tr>
+<tr><td>GENERATION X: OPENING VOLLEY</td><td>GENX:OV</td></tr>
+<tr><td>GENERATIONS: BANNER HULK &amp; TOTALLY AWESOME HULK</td><td>GENS:BH&amp;TAH</td></tr>
+<tr><td>GENERATIONS: CAPTAIN AMERICA SAM WILSON &amp; CAPTAIN AMERICA STEVE ROGERS</td><td>GENS:CASW&amp;CASR</td></tr>
+<tr><td>GENERATIONS: CAPTAIN MARVEL &amp; CAPTAIN MAR-VELL</td><td>GENS:CM&amp;CM</td></tr>
+<tr><td>GENERATIONS: HAWKEYE &amp; HAWKEYE</td><td>GENS:HAWK&amp;HAWK</td></tr>
+<tr><td>GENERATIONS: IRON MAN &amp; IRONHEART</td><td>GENS:IM&amp;IHRT</td></tr>
+<tr><td>GENERATIONS: MILES MORALES SPIDER-MAN &amp; PETER PARKER SPIDER-MAN</td><td>GENS:MIMOSM&amp;PPSM</td></tr>
+<tr><td>GENERATIONS: MS MARVEL &amp; MS MARVEL</td><td>GENS:MSM&amp;MSM</td></tr>
+<tr><td>GENERATIONS: PHOENIX &amp; JEAN GREY</td><td>GENS:PHX&amp;JG</td></tr>
+<tr><td>GENERATIONS: UNWORTHY THOR &amp; MIGHTY THOR</td><td>GENS:UNWT&amp;MT</td></tr>
+<tr><td>GENERATIONS: WOLVERINE &amp; ALL NEW WOLVERINE</td><td>GENS:W&amp;ANW</td></tr>
+<tr><td>GENETIX</td><td>GENE</td></tr>
+<tr><td>GEORGIE COMICS</td><td>GEORGIEC</td></tr>
+<tr><td>GET KRAVEN</td><td>GK</td></tr>
+<tr><td>GHOST RACERS</td><td>GRCRS</td></tr>
+<tr><td>GHOST RIDER (2/67)</td><td>GR</td></tr>
+<tr><td>GHOST RIDER VOL. 2</td><td>GR2</td></tr>
+<tr><td>GHOST RIDER VOL. 3</td><td>GR3</td></tr>
+<tr><td>GHOST RIDER VOL. 4</td><td>GR4</td></tr>
+<tr><td>GHOST RIDER VOL. 5</td><td>GR5</td></tr>
+<tr><td>GHOST RIDER VOL. 6</td><td>GR6</td></tr>
+<tr><td>GHOST RIDER VOL. 7</td><td>GR7</td></tr>
+<tr><td>GHOST RIDER VOL. 8</td><td>GR8</td></tr>
+<tr><td>GHOST RIDER 2099</td><td>GR2099</td></tr>
+<tr><td>GHOST RIDER/BALLISTIC</td><td>GR/BALLISTIC</td></tr>
+<tr><td>GHOST RIDER/BLAZE: SPIRITS OF VENGEANCE</td><td>SOV</td></tr>
+<tr><td>GHOST RIDER/CAPTAIN AMERICA: FEAR</td><td>GR/CA:FEAR</td></tr>
+<tr><td>GHOST RIDER/WOLVERINE/PUNISHER: DARK DESIGN</td><td>GR/W/P:DD</td></tr>
+<tr><td>GHOST RIDER/WOLVERINE/PUNISHER: HEARTS OF DARKNESS</td><td>GR/W/P:HOD</td></tr>
+<tr><td>GHOST RIDER: DANNY KETCH</td><td>GR:DK</td></tr>
+<tr><td>GHOST RIDER: TRAIL OF TEARS</td><td>GR:TT</td></tr>
+<tr><td>GHOST RIDERS: CROSSROADS</td><td>GRS:C</td></tr>
+<tr><td>GHOST RIDERS: HEAVEN'S ON FIRE</td><td>GRS:HOF</td></tr>
+<tr><td>GIANT-MAN</td><td>GIANT</td></tr>
+<tr><td>GIANT-SIZE ASTONISHING X-MEN</td><td>GSASTONX</td></tr>
+<tr><td>GIANT-SIZE AVENGERS</td><td>GSA</td></tr>
+<tr><td>GIANT-SIZE AVENGERS VOL. 2</td><td>GSA2</td></tr>
+<tr><td>GIANT-SIZE CHILLERS</td><td>GSCH</td></tr>
+<tr><td>GIANT-SIZE CONAN</td><td>GSCO</td></tr>
+<tr><td>GIANT-SIZE CREATURES</td><td>GSCR</td></tr>
+<tr><td>GIANT-SIZE DEFENDERS</td><td>GSDEF</td></tr>
+<tr><td>GIANT-SIZE DRACULA</td><td>GSD</td></tr>
+<tr><td>GIANT-SIZE FANTASTIC FOUR</td><td>GSFF</td></tr>
+<tr><td>GIANT-SIZE FREEX</td><td>GSFREEX</td></tr>
+<tr><td>GIANT-SIZE HULK VOL. 2</td><td>GSH2</td></tr>
+<tr><td>GIANT-SIZE INCREDIBLE HULK</td><td>GSIH</td></tr>
+<tr><td>GIANT-SIZE INVADERS</td><td>GSINV</td></tr>
+<tr><td>GIANT-SIZE KID COLT</td><td>GSKC</td></tr>
+<tr><td>GIANT-SIZE LITTLE MARVEL: AVX</td><td>GSLM/:AVX</td></tr>
+<tr><td>GIANT-SIZE MAN-THING</td><td>GSM-T</td></tr>
+<tr><td>GIANT-SIZE MANTRA</td><td>GSMANTRA</td></tr>
+<tr><td>GIANT-SIZE MASTER OF KUNG FU</td><td>GSMOKF</td></tr>
+<tr><td>GIANT-SIZE MINI-MARVELS STARRING SPIDEY</td><td>GSMM/SPIDEY</td></tr>
+<tr><td>GIANT-SIZE MS. MARVEL</td><td>GSMSM</td></tr>
+<tr><td>GIANT-SIZE PROTOTYPE</td><td>GSPRO</td></tr>
+<tr><td>GIANT-SIZE RUNE</td><td>GSRUNE</td></tr>
+<tr><td>GIANT-SIZE SPIDER-MAN</td><td>GSSM</td></tr>
+<tr><td>GIANT-SIZE SPIDER-WOMAN</td><td>GSSW</td></tr>
+<tr><td>GIANT-SIZE SUPER-HEROES</td><td>GSS-H</td></tr>
+<tr><td>GIANT-SIZE SUPER-STARS</td><td>GSSS</td></tr>
+<tr><td>GIANT-SIZE SUPER-VILLAIN TEAM-UP</td><td>GSSVTU</td></tr>
+<tr><td>GIANT-SIZE WARSTRIKE</td><td>GSWSTRK</td></tr>
+<tr><td>GIANT-SIZE WEREWOLF BY NIGHT</td><td>GSWBN</td></tr>
+<tr><td>GIANT-SIZE WOLVERINE</td><td>GSW</td></tr>
+<tr><td>GIANT-SIZE WRATH</td><td>GSWRATH</td></tr>
+<tr><td>GIANT-SIZE X-MEN</td><td>GSX</td></tr>
+<tr><td>GIRL COMICS</td><td>GIRLC</td></tr>
+<tr><td>GIRL COMICS VOL. 2</td><td>GIRLC2</td></tr>
+<tr><td>GLX-MAS</td><td>GLX-MAS</td></tr>
+<tr><td>GODWHEEL</td><td>GODWHEEL</td></tr>
+<tr><td>GODZILLA</td><td>GZILL</td></tr>
+<tr><td>GOLDILUX</td><td>GOLDILUX</td></tr>
+<tr><td>GORILLA-MAN</td><td>GORILLA-MAN</td></tr>
+<tr><td>GRAVITY</td><td>GRAVITY</td></tr>
+<tr><td>GREAT LAKES AVENGERS</td><td>GLA</td></tr>
+<tr><td>GREAT LAKES AVENGERS VOL. 2</td><td>GLA2</td></tr>
+<tr><td>GREEN GOBLIN</td><td>GG</td></tr>
+<tr><td>GREEN LANTERN VOL. 2</td><td>GL2</td></tr>
+<tr><td>GREEN LANTERN/SILVER SURFER</td><td>GL/SS</td></tr>
+<tr><td>GROOT</td><td>GROOT</td></tr>
+<tr><td>GUARDIANS 3000</td><td>G3000</td></tr>
+<tr><td>GUARDIANS OF INFINITY</td><td>GOI</td></tr>
+<tr><td>GUARDIANS OF KNOWHERE</td><td>GOKNWR</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY</td><td>GOTG</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY VOL. 2</td><td>GOTG2</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY VOL. 3</td><td>GOTG3</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY VOL. 4</td><td>GOTG4</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY VOL. 4 1.MU</td><td>GOTG4 1.MU</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY &amp; X-MEN: THE BLACK VORTEX ALPHA</td><td>GOTG&amp;X:BVA</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY &amp; X-MEN: THE BLACK VORTEX OMEGA</td><td>GOTG&amp;X:BVO</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY: DREAM ON</td><td>GOTG:DO</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY: MOTHER ENTROPY</td><td>GOTG:ME</td></tr>
+<tr><td>GUARDIANS OF THE GALAXY: TOMORROW'S AVENGERS</td><td>GOTG:TA</td></tr>
+<tr><td>GUARDIANS TEAM-UP</td><td>GTU</td></tr>
+<tr><td>GUN RUNNER</td><td>GUNR</td></tr>
+<tr><td>GUNHAWKS</td><td>GUN</td></tr>
+<tr><td>GWENPOOL HOLIDAY SPECIAL: MERRY MIX-UP</td><td>GP HSPEC</td></tr>
+<tr><td>GWENPOOL SPECIAL</td><td>GP SPEC</td></tr>
+<tr><td>HAIL HYDRA</td><td>HHYDRA</td></tr>
+<tr><td>HALLOWEEN SPECIAL ISSUE DIGITAL COMIC</td><td>HWEENSPEC DIG</td></tr>
+<tr><td>HANK JOHNSON, AGENT OF HYDRA</td><td>HJAOHYDRA</td></tr>
+<tr><td>HARDCASE</td><td>HARD</td></tr>
+<tr><td>HARDCASE ASHCAN</td><td>HARD ASH</td></tr>
+<tr><td>HAUNT OF HORROR VOL. 2</td><td>HOH2</td></tr>
+<tr><td>HAVOK &amp; WOLVERINE: MELTDOWN</td><td>HVK&amp;W:M</td></tr>
+<tr><td>HAVOK &amp; WOLVERINE: MELTDOWN TRADE PAPERBACK</td><td>HVK&amp;W:M TPB</td></tr>
+<tr><td>HAWKEYE</td><td>HAWK</td></tr>
+<tr><td>HAWKEYE VOL. 2</td><td>HAWK2</td></tr>
+<tr><td>HAWKEYE VOL. 3</td><td>HAWK3</td></tr>
+<tr><td>HAWKEYE VOL. 4</td><td>HAWK4</td></tr>
+<tr><td>HAWKEYE VOL. 5</td><td>HAWK5</td></tr>
+<tr><td>HAWKEYE VS. DEADPOOL</td><td>HAWKV.DP</td></tr>
+<tr><td>HAWKEYE &amp; MOCKINGBIRD</td><td>HAWK&amp;MOCK</td></tr>
+<tr><td>HAWKEYE: BLINDSPOT</td><td>HAWK:BS</td></tr>
+<tr><td>HAWKEYE: EARTH'S MIGHTIEST MARKSMAN</td><td>HAWK:EMM</td></tr>
+<tr><td>HEDY DE VINE COMICS</td><td>HEDYDVC</td></tr>
+<tr><td>HEDY OF HOLLYWOOD</td><td>HEDYOH</td></tr>
+<tr><td>HEDY WOLFE</td><td>HEDYW</td></tr>
+<tr><td>HELL'S ANGEL</td><td>HANGEL</td></tr>
+<tr><td>HELLCAT</td><td>HCAT</td></tr>
+<tr><td>HELLSTORM: PRINCE OF LIES</td><td>HELL:PL</td></tr>
+<tr><td>HERALDS</td><td>HERALDS</td></tr>
+<tr><td>HERC</td><td>HERC</td></tr>
+<tr><td>HERCULES</td><td>HRC</td></tr>
+<tr><td>HERCULES VOL. 2</td><td>HRC2</td></tr>
+<tr><td>HERCULES VOL. 3</td><td>HRC3</td></tr>
+<tr><td>HERCULES VOL. 4</td><td>HRC4</td></tr>
+<tr><td>HERCULES: FALL OF AN AVENGER</td><td>HRC:FA</td></tr>
+<tr><td>HERCULES: HEART OF CHAOS</td><td>HRC:HOC</td></tr>
+<tr><td>HERCULES: TWILIGHT OF A GOD</td><td>HRC:TOG</td></tr>
+<tr><td>HEROES FOR HIRE</td><td>HFH</td></tr>
+<tr><td>HEROES FOR HIRE VOL. 2</td><td>HFH2</td></tr>
+<tr><td>HEROES FOR HIRE VOL. 3</td><td>HFH3</td></tr>
+<tr><td>HEROES FOR HIRE/QUICKSILVER</td><td>HFH/QS</td></tr>
+<tr><td>HEROES FOR HOPE</td><td>HFHOPE</td></tr>
+<tr><td>HEROES REBORN</td><td>HR</td></tr>
+<tr><td>HEROES REBORN: ASHEMA</td><td>HR:ASHEMA</td></tr>
+<tr><td>HEROES REBORN: DOOM</td><td>HR:DOOM</td></tr>
+<tr><td>HEROES REBORN: DOOMSDAY</td><td>HR:DOOMSDAY</td></tr>
+<tr><td>HEROES REBORN: MASTERS OF EVIL</td><td>HR:MOE</td></tr>
+<tr><td>HEROES REBORN: REBEL</td><td>HR:REBEL</td></tr>
+<tr><td>HEROES REBORN: REMNANTS</td><td>HR:REMNANTS</td></tr>
+<tr><td>HEROES REBORN: RETURN</td><td>HR:R</td></tr>
+<tr><td>HEROES REBORN: YOUNG ALLIES</td><td>HR:YALLIES</td></tr>
+<tr><td>HEROIC AGE: PRINCE OF POWER</td><td>HAGE:POP</td></tr>
+<tr><td>HIGH NOON TEX</td><td>HNT</td></tr>
+<tr><td>HIT-MONKEY</td><td>H-M</td></tr>
+<tr><td>HIT-MONKEY VOL. 2</td><td>H-M2</td></tr>
+<tr><td>HOOD</td><td>HOOD</td></tr>
+<tr><td>HOUSE OF HEM</td><td>HOHEM</td></tr>
+<tr><td>HOUSE OF M</td><td>HOM</td></tr>
+<tr><td>HOUSE OF M VOL. 2</td><td>HOM2</td></tr>
+<tr><td>HOUSE OF M: AVENGERS</td><td>HOM:A</td></tr>
+<tr><td>HOUSE OF M: CIVIL WAR</td><td>HOM:CW</td></tr>
+<tr><td>HOUSE OF M: DAY AFTER</td><td>HOM:DA</td></tr>
+<tr><td>HOUSE OF M: MASTERS OF EVIL</td><td>HOM:MOE</td></tr>
+<tr><td>HOWARD THE DUCK</td><td>HTD</td></tr>
+<tr><td>HOWARD THE DUCK VOL. 2</td><td>HTD2</td></tr>
+<tr><td>HOWARD THE DUCK VOL. 3</td><td>HTD3</td></tr>
+<tr><td>HOWARD THE DUCK VOL. 4</td><td>HTD4</td></tr>
+<tr><td>HOWARD THE DUCK VOL. 5</td><td>HTD5</td></tr>
+<tr><td>HOWARD THE DUCK HOLIDAY SPECIAL</td><td>HTD HSPEC</td></tr>
+<tr><td>HOWARD THE DUCK (MAGAZINE)</td><td>HTD MAG</td></tr>
+<tr><td>HOWARD THE HUMAN</td><td>HTH</td></tr>
+<tr><td>HOWLING COMMANDOS OF S.H.I.E.L.D.</td><td>HCSHIELD</td></tr>
+<tr><td>HULK</td><td>H</td></tr>
+<tr><td>HULK VOL. 2</td><td>H2</td></tr>
+<tr><td>HULK VOL. 3</td><td>H3</td></tr>
+<tr><td>HULK VOL. 4</td><td>H4</td></tr>
+<tr><td>HULK &amp; POWER PACK</td><td>H&amp;PP</td></tr>
+<tr><td>HULK 2099</td><td>H2099</td></tr>
+<tr><td>HULK COMIC (British Comic)</td><td>HC</td></tr>
+<tr><td>HULK FAMILY: GREEN GENES</td><td>HF:GG</td></tr>
+<tr><td>HULK MAGAZINE</td><td>HMAG</td></tr>
+<tr><td>HULK MONSTER-SIZE</td><td>HM-S</td></tr>
+<tr><td>HULK SMASH</td><td>HSMASH</td></tr>
+<tr><td>HULK SMASH AVENGERS</td><td>HSMASHA</td></tr>
+<tr><td>HULK TEAM-UP</td><td>HTU</td></tr>
+<tr><td>HULK VS. FIN FANG FOOM</td><td>HV.FFF</td></tr>
+<tr><td>HULK VS. HERCULES: WHEN TITANS COLLIDE</td><td>HV.HRC:WTC</td></tr>
+<tr><td>HULK/THING: HARD KNOCKS</td><td>H/TG:HK</td></tr>
+<tr><td>HULK/WOLVERINE: SIX  HOURS</td><td>H/W:6H</td></tr>
+<tr><td>HULK: BROKEN WORLDS</td><td>H:BW</td></tr>
+<tr><td>HULK: FUTURE IMPERFECT</td><td>H:FIMP</td></tr>
+<tr><td>HULK: GRAY</td><td>H:GRAY</td></tr>
+<tr><td>HULK: LET THE BATTLE BEGIN</td><td>H:LBB</td></tr>
+<tr><td>HULK: NIGHTMERICA</td><td>H:NM</td></tr>
+<tr><td>HULK: RAGING THUNDER</td><td>H:RT</td></tr>
+<tr><td>HULK: WINTER GUARD</td><td>H:WG</td></tr>
+<tr><td>HULKED OUT HEROES</td><td>HOUTH</td></tr>
+<tr><td>HULKVERINES!</td><td>HVRNS</td></tr>
+<tr><td>HUMAN FLY</td><td>HFLY</td></tr>
+<tr><td>HUMAN TORCH VOL. 2</td><td>HT2</td></tr>
+<tr><td>HUMAN TORCH COMICS</td><td>HTC</td></tr>
+<tr><td>HUMAN TORCH COMICS 70TH ANNIVERSARY SPECIAL</td><td>HTC70A</td></tr>
+<tr><td>HUNGER</td><td>HUNGER</td></tr>
+<tr><td>HUNT FOR WOLVERINE</td><td>HFW</td></tr>
+<tr><td>HUNT FOR WOLVERINE: ADAMANTIUM AGENDA</td><td>HFW:AA</td></tr>
+<tr><td>HUNT FOR WOLVERINE: CLAWS OF A KILLER</td><td>HFW:CK</td></tr>
+<tr><td>HUNT FOR WOLVERINE: DEAD ENDS</td><td>HFW:DE</td></tr>
+<tr><td>HUNT FOR WOLVERINE: MYSTERY IN MADRIPOOR</td><td>HFW:MM</td></tr>
+<tr><td>HUNT FOR WOLVERINE: WEAPON LOST</td><td>HFW:WL</td></tr>
+<tr><td>HYPERION</td><td>HYP</td></tr>
+<tr><td>I ♥ MARVEL: AI</td><td>I♥M/:AI</td></tr>
+<tr><td>I ♥ MARVEL: MASKED INTENTIONS</td><td>I♥M/:MI</td></tr>
+<tr><td>I ♥ MARVEL: MY MUTANT HEART</td><td>I♥M/:MMH</td></tr>
+<tr><td>I ♥ MARVEL: OUTLAW LOVE</td><td>I♥M/:OL</td></tr>
+<tr><td>I ♥ MARVEL: WEB OF ROMANCE</td><td>I♥M/:WOR</td></tr>
+<tr><td>I AM AN AVENGER</td><td>IAAA</td></tr>
+<tr><td>ICEMAN</td><td>ICE</td></tr>
+<tr><td>ICEMAN VOL. 2</td><td>ICE2</td></tr>
+<tr><td>ICEMAN VOL. 3</td><td>ICE3</td></tr>
+<tr><td>ICEMAN VOL. 4</td><td>ICE4</td></tr>
+<tr><td>IDEAL</td><td>IDEAL</td></tr>
+<tr><td>IDEAL COMICS</td><td>IDEALC</td></tr>
+<tr><td>IDENTITY DISC</td><td>IDDISC</td></tr>
+<tr><td>IGROOT</td><td>I AM GROOT</td></tr>
+<tr><td>ILLUMINATI</td><td>ILLUM</td></tr>
+<tr><td>IMMORTAL HULK</td><td>IMMH</td></tr>
+<tr><td>IMMORTAL HULK: THE BEST DEFENSE</td><td>IMMH:BD</td></tr>
+<tr><td>IMMORTAL IRON FIST</td><td>IIF</td></tr>
+<tr><td>IMMORTAL IRON FIST: ORIGIN OF DANNY RAND</td><td>IIF:ODANNY</td></tr>
+<tr><td>IMMORTAL IRON FIST: ORSON RANDALL AND THE DEATH QUEEN OF CALIFORNIA</td><td>IIF:DQOC</td></tr>
+<tr><td>IMMORTAL IRON FIST: ORSON RANDALL AND THE GREEN MIST OF DEATH</td><td>IIF:GMOD</td></tr>
+<tr><td>IMMORTAL WEAPONS</td><td>IWEAP</td></tr>
+<tr><td>IMPERIAL GUARD</td><td>IGUARD</td></tr>
+<tr><td>IMPOSSIBLE MAN SUMMER VACATION SPECTACULAR</td><td>IMPMSUMV</td></tr>
+<tr><td>INCOMPLETE DEATH'S HEAD</td><td>IDH</td></tr>
+<tr><td>INCREDIBLE HERCULES</td><td>IHRC</td></tr>
+<tr><td>INCREDIBLE HULK</td><td>IH</td></tr>
+<tr><td>INCREDIBLE HULK VOL. 2</td><td>IH2</td></tr>
+<tr><td>INCREDIBLE HULK VOL. 3</td><td>IH3</td></tr>
+<tr><td>INCREDIBLE HULK VOL. 4</td><td>IH4</td></tr>
+<tr><td>INCREDIBLE HULK VS. VENOM</td><td>IHV.V</td></tr>
+<tr><td>INCREDIBLE HULK/SUB-MARINER</td><td>IH/SUB</td></tr>
+<tr><td>INCREDIBLE HULK: HERCULES UNLEASHED</td><td>IH:HRCU</td></tr>
+<tr><td>INCREDIBLE HULKS</td><td>IHS</td></tr>
+<tr><td>INCREDIBLE HULKS: ENIGMA FORCE</td><td>IHS:ENIGFOR</td></tr>
+<tr><td>INDESTRUCTIBLE HULK</td><td>INDH</td></tr>
+<tr><td>INDESTRUCTIBLE HULK SPECIAL</td><td>INDH SPEC</td></tr>
+<tr><td>INDOMITABLE IRON MAN</td><td>INDIM</td></tr>
+<tr><td>INFAMOUS IRON MAN</td><td>INFIM</td></tr>
+<tr><td>INFERNAL MAN-THING</td><td>INFERNALM-T</td></tr>
+<tr><td>INFERNO</td><td>INFERNO</td></tr>
+<tr><td>INFINITY</td><td>INFINITY</td></tr>
+<tr><td>INFINITY ABYSS</td><td>IA</td></tr>
+<tr><td>INFINITY COUNTDOWN</td><td>ICDWN</td></tr>
+<tr><td>INFINITY COUNTDOWN PRIME</td><td>ICDWNP</td></tr>
+<tr><td>INFINITY COUNTDOWN: ADAM WARLOCK</td><td>ICDWN:AWLOCK</td></tr>
+<tr><td>INFINITY COUNTDOWN: BLACK WIDOW</td><td>ICDWN:BW</td></tr>
+<tr><td>INFINITY COUNTDOWN: CAPTAIN MARVEL</td><td>ICDWN:CM</td></tr>
+<tr><td>INFINITY COUNTDOWN: CHAMPIONS</td><td>ICDWN:CHMPS</td></tr>
+<tr><td>INFINITY COUNTDOWN: DAREDEVIL</td><td>ICDWN:DD</td></tr>
+<tr><td>INFINITY COUNTDOWN: DARKHAWK</td><td>ICDWN:DHAWK</td></tr>
+<tr><td>INFINITY CRUSADE</td><td>IC</td></tr>
+<tr><td>INFINITY GAUNTLET</td><td>IG</td></tr>
+<tr><td>INFINITY GAUNTLET VOL. 2</td><td>IG2</td></tr>
+<tr><td>INFINITY HC</td><td>INFINITY HC</td></tr>
+<tr><td>INFINITY WAR</td><td>IW</td></tr>
+<tr><td>INFINITY WARS</td><td>IWARS</td></tr>
+<tr><td>INFINITY WARS: ARACHKNIGHT</td><td>IWARS:ARAK</td></tr>
+<tr><td>INFINITY WARS: FALLEN GUARDIAN</td><td>IWARS:FG</td></tr>
+<tr><td>INFINITY WARS: GHOST PANTHER</td><td>IWARS:GP</td></tr>
+<tr><td>INFINITY WARS: INFINITY</td><td>IWARS ∞</td></tr>
+<tr><td>INFINITY WARS: INFINITY WARPS</td><td>IWARS:IWARPS</td></tr>
+<tr><td>INFINITY WARS: IRON HAMMER</td><td>IWARS:IHMR</td></tr>
+<tr><td>INFINITY WARS: SLEEPWALKER</td><td>IWARS:SLEEP</td></tr>
+<tr><td>INFINITY WARS: SOLDIER SUPREME</td><td>IWARS:SOLS</td></tr>
+<tr><td>INFINITY WARS: WEAPON HEX</td><td>IWARS:WHEX</td></tr>
+<tr><td>INFINITY WARS PRIME</td><td>IWARSP</td></tr>
+<tr><td>INFINITY: THE HEIST</td><td>INFINITY:HEIST</td></tr>
+<tr><td>INFINITY: THE HUNT</td><td>INFINITY:HUNT</td></tr>
+<tr><td>INHUMAN</td><td>INH</td></tr>
+<tr><td>INHUMAN SPECIAL</td><td>INH SPEC</td></tr>
+<tr><td>INHUMANITY</td><td>INHY</td></tr>
+<tr><td>INHUMANITY: THE AWAKENING</td><td>INHY:A</td></tr>
+<tr><td>INHUMANITY: SUPERIOR SPIDER-MAN</td><td>INHY:SUSM</td></tr>
+<tr><td>INHUMANS</td><td>INHS</td></tr>
+<tr><td>INHUMANS VOL. 2</td><td>INHS2</td></tr>
+<tr><td>INHUMANS VOL. 3</td><td>INHS3</td></tr>
+<tr><td>INHUMANS VOL. 4</td><td>INHS4</td></tr>
+<tr><td>INHUMANS: ATTILAN RISING</td><td>INHS:ATNR</td></tr>
+<tr><td>INHUMANS: GREAT REFUGE</td><td>INHS:GR</td></tr>
+<tr><td>INHUMANS: JUDGEMENT DAY</td><td>INHS:JD</td></tr>
+<tr><td>INHUMANS: ONCE AND FUTURE KINGS</td><td>INHS:OAFK</td></tr>
+<tr><td>INHUMANS: UNTOLD SAGA</td><td>INHS:US</td></tr>
+<tr><td>INHUMANS PRIME</td><td>INHSPRIME</td></tr>
+<tr><td>INTERNATIONAL IRON MAN</td><td>INTIM</td></tr>
+<tr><td>INVADERS</td><td>INV</td></tr>
+<tr><td>INVADERS VOL. 2</td><td>INV2</td></tr>
+<tr><td>INVADERS VOL. 3</td><td>INV3</td></tr>
+<tr><td>INVADERS NOW!</td><td>INVN</td></tr>
+<tr><td>INVINCIBLE IRON MAN</td><td>IIM</td></tr>
+<tr><td>INVINCIBLE IRON MAN VOL. 2</td><td>IIM2</td></tr>
+<tr><td>INVINCIBLE IRON MAN VOL. 3</td><td>IIM3</td></tr>
+<tr><td>IRON AGE</td><td>IAGE</td></tr>
+<tr><td>IRON AGE: ALPHA</td><td>IAGE:A</td></tr>
+<tr><td>IRON AGE: OMEGA</td><td>IAGE:O</td></tr>
+<tr><td>IRON FIST</td><td>IF</td></tr>
+<tr><td>IRON FIST VOL. 2</td><td>IF2</td></tr>
+<tr><td>IRON FIST VOL. 3</td><td>IF3</td></tr>
+<tr><td>IRON FIST VOL. 4</td><td>IF4</td></tr>
+<tr><td>IRON FIST VOL. 5</td><td>IF5</td></tr>
+<tr><td>IRON FIST/WOLVERINE</td><td>IF/W</td></tr>
+<tr><td>IRON FIST: LIVING WEAPON</td><td>IF:LW</td></tr>
+<tr><td>IRON LANTERN</td><td>IL</td></tr>
+<tr><td>IRON MAN</td><td>IM</td></tr>
+<tr><td>IRON MAN VOL. 2</td><td>IM2</td></tr>
+<tr><td>IRON MAN VOL. 3</td><td>IM3</td></tr>
+<tr><td>IRON MAN VOL. 4</td><td>IM4</td></tr>
+<tr><td>IRON MAN VOL. 5</td><td>IM5</td></tr>
+<tr><td>IRON MAN VOL. 5.INH</td><td>IM5.INH</td></tr>
+<tr><td>IRON MAN &amp; POWER PACK</td><td>IM&amp;PP</td></tr>
+<tr><td>IRON MAN &amp; SUB-MARINER</td><td>IM&amp;SUB</td></tr>
+<tr><td>IRON MAN 2.0</td><td>IM2.0</td></tr>
+<tr><td>IRON MAN 2020</td><td>IM2020</td></tr>
+<tr><td>IRON MAN NOIR</td><td>IMNOIR</td></tr>
+<tr><td>IRON MAN SPECIAL</td><td>IM SPEC</td></tr>
+<tr><td>IRON MAN VS. WHIPLASH</td><td>IMV.WL</td></tr>
+<tr><td>IRON MAN/CAPTAIN AMERICA</td><td>IM/CA</td></tr>
+<tr><td>IRON MAN/CAPTAIN AMERICA: CASUALTIES OF WAR</td><td>IM/CA:COW</td></tr>
+<tr><td>IRON MAN/THOR</td><td>IM/T</td></tr>
+<tr><td>IRON MAN: BAD BLOOD</td><td>IM:BB</td></tr>
+<tr><td>IRON MAN: DIRECTOR OF S.H.I.E.L.D.</td><td>IM:DOS</td></tr>
+<tr><td>IRON MAN: ENTER THE MANDARIN</td><td>IM:EM</td></tr>
+<tr><td>IRON MAN: FATAL FRONTIER</td><td>IM:FTLFRONT</td></tr>
+<tr><td>IRON MAN: HOUSE OF M</td><td>IM:HOM</td></tr>
+<tr><td>IRON MAN: HYPERVELOCITY</td><td>IM:HYPER</td></tr>
+<tr><td>IRON MAN: INEVITABLE</td><td>IM:INEV</td></tr>
+<tr><td>IRON MAN: IRON AGE</td><td>IM:IA</td></tr>
+<tr><td>IRON MAN: IRON PROTOCOLS</td><td>IM:IP</td></tr>
+<tr><td>IRON MAN: KISS &amp; KILL</td><td>IM:K&amp;K</td></tr>
+<tr><td>IRON MAN: LEGACY</td><td>IM:LEG</td></tr>
+<tr><td>IRON MAN: LEGACY OF DOOM</td><td>IM:LOD</td></tr>
+<tr><td>IRON MAN: REQUIEM</td><td>IM:REQ</td></tr>
+<tr><td>IRON MAN: TITANIUM</td><td>IM:T</td></tr>
+<tr><td>IRON MEN</td><td>IRONMEN</td></tr>
+<tr><td>IRONHEART</td><td>IHRT</td></tr>
+<tr><td>IRREDEEMABLE ANT-MAN</td><td>IRRANT</td></tr>
+<tr><td>IVX</td><td>IVX</td></tr>
+<tr><td>J2</td><td>J2</td></tr>
+<tr><td>JACK OF HEARTS</td><td>JOH</td></tr>
+<tr><td>JANN OF THE JUNGLE</td><td>JANNJ</td></tr>
+<tr><td>JEAN GREY</td><td>JG</td></tr>
+<tr><td>JEANIE COMICS</td><td>JEANIEC</td></tr>
+<tr><td>JESSICA JONES</td><td>JJ</td></tr>
+<tr><td>JLA/AVENGERS</td><td>JLA/A</td></tr>
+<tr><td>JLX</td><td>JLX</td></tr>
+<tr><td>JLX UNLEASHED</td><td>JLXU</td></tr>
+<tr><td>JOURNEY INTO MYSTERY</td><td>JIM</td></tr>
+<tr><td>JOURNEY INTO MYSTERY: BIRTH OF KRAKOA</td><td>JIM:KRAKOA</td></tr>
+<tr><td>JOURNEY INTO UNKNOWN WORLDS</td><td>JIUW</td></tr>
+<tr><td>JUBILEE</td><td>JUB</td></tr>
+<tr><td>JUGGERNAUT</td><td>JUG</td></tr>
+<tr><td>JUGGERNAUT: EIGHTH DAY</td><td>JUG:ED</td></tr>
+<tr><td>JUNGLE ACTION</td><td>JA</td></tr>
+<tr><td>JUNGLE ACTION VOL. 2</td><td>JA2</td></tr>
+<tr><td>JUNGLE TALES</td><td>JT</td></tr>
+<tr><td>JUSTICE</td><td>JUST</td></tr>
+<tr><td>JUSTICE: FOUR BALANCE</td><td>JUST:4B</td></tr>
+<tr><td>KA-ZAR</td><td>KZ</td></tr>
+<tr><td>KA-ZAR VOL. 2</td><td>KZ2</td></tr>
+<tr><td>KA-ZAR VOL. 3</td><td>KZ3</td></tr>
+<tr><td>KA-ZAR VOL. 4</td><td>KZ4</td></tr>
+<tr><td>KA-ZAR OF THE SAVAGE LAND</td><td>KZSL</td></tr>
+<tr><td>KA-ZAR THE SAVAGE</td><td>KZSAV</td></tr>
+<tr><td>KARNAK</td><td>KARNAK</td></tr>
+<tr><td>KENT BLAKE OF THE SECRET SERVICE</td><td>KBSS</td></tr>
+<tr><td>KICKERS INC.</td><td>KI</td></tr>
+<tr><td>KID COLT</td><td>KC</td></tr>
+<tr><td>KID COLT VOL. 2</td><td>KC2</td></tr>
+<tr><td>KID COLT OUTLAW</td><td>KCOL</td></tr>
+<tr><td>KID KOMICS</td><td>KIDK</td></tr>
+<tr><td>KILLPOWER: EARLY YEARS</td><td>KP:EY</td></tr>
+<tr><td>KING CONAN</td><td>KCO</td></tr>
+<tr><td>KING-SIZE CABLE</td><td>KSC</td></tr>
+<tr><td>KING-SIZE HULK</td><td>KSH</td></tr>
+<tr><td>KINGPIN VOL. 2</td><td>K2</td></tr>
+<tr><td>KISSNATION</td><td>KISSNATION</td></tr>
+<tr><td>KITTY PRYDE &amp; WOLVERINE</td><td>KPRY&amp;W</td></tr>
+<tr><td>KITTY PRYDE, AGENT OF S.H.I.E.L.D.</td><td>KPRYAOS</td></tr>
+<tr><td>KITTY PRYDE: SHADOW &amp; FLAME</td><td>KPRY:S&amp;F</td></tr>
+<tr><td>KLAWS OF THE PANTHER</td><td>KLAWS</td></tr>
+<tr><td>KNIGHTS OF PENDRAGON</td><td>KOP</td></tr>
+<tr><td>KNIGHTS OF PENDRAGON VOL. 2</td><td>KOP2</td></tr>
+<tr><td>KORVAK SAGA</td><td>KS</td></tr>
+<tr><td>KULL AND THE BARBARIANS</td><td>KULLB</td></tr>
+<tr><td>KULL THE CONQUEROR</td><td>KULLC</td></tr>
+<tr><td>KULL THE CONQUEROR VOL. 2</td><td>KULLC2</td></tr>
+<tr><td>KULL THE CONQUEROR VOL. 3</td><td>KULLC3</td></tr>
+<tr><td>KULL THE DESTROYER</td><td>KULLD</td></tr>
+<tr><td>LADYDP</td><td>LADY DEADPOOL</td></tr>
+<tr><td>LANA</td><td>LANA</td></tr>
+<tr><td>LAST DEFENDERS</td><td>LASTDEF</td></tr>
+<tr><td>LAST HERO STANDING</td><td>LHS</td></tr>
+<tr><td>LAST PLANET STANDING</td><td>LPS</td></tr>
+<tr><td>LAWBREAKERS ALWAYS LOSE!</td><td>LBRKRAL</td></tr>
+<tr><td>LEGENDARY STAR-LORD</td><td>LSLORD</td></tr>
+<tr><td>LEGENDS OF THE DARK CLAW</td><td>LDCLW</td></tr>
+<tr><td>LEGION</td><td>LEGION</td></tr>
+<tr><td>LEGION OF MONSTERS (MAGAZINE)</td><td>LOM</td></tr>
+<tr><td>LEGION OF MONSTERS VOL. 2</td><td>LOM2</td></tr>
+<tr><td>LEGION OF MONSTERS: MAN-THING</td><td>LOM:M-T</td></tr>
+<tr><td>LEGION OF MONSTERS: MORBIUS</td><td>LOM:MORB</td></tr>
+<tr><td>LEGION OF MONSTERS: SATANA</td><td>LOM:SAT</td></tr>
+<tr><td>LEGION OF MONSTERS: WEREWOLF BY NIGHT</td><td>LOM:WBN</td></tr>
+<tr><td>LEGION OF NIGHT</td><td>LON</td></tr>
+<tr><td>LETHAL FOES OF SPIDER-MAN (9/93)</td><td>LFSM</td></tr>
+<tr><td>LIFE OF CAPTAIN MARVEL</td><td>LOCM</td></tr>
+<tr><td>LIFE &amp; TIMES OF DEATH'S HEAD TPB</td><td>L&amp;TDH</td></tr>
+<tr><td>LIGHTNING COMICS</td><td>LIGHTNINGC</td></tr>
+<tr><td>LIGHTNING COMICS VOL. 2</td><td>LIGHTNINGC2</td></tr>
+<tr><td>LIGHTNING COMICS VOL. 3</td><td>LIGHTNINGC3</td></tr>
+<tr><td>LINDA CARTER, STUDENT NURSE</td><td>LCSN</td></tr>
+<tr><td>LITTLE LIZZIE</td><td>LLIZZIE</td></tr>
+<tr><td>LIVEWIRES</td><td>LW</td></tr>
+<tr><td>LOBO THE DUCK</td><td>LOBOTD</td></tr>
+<tr><td>LOCKJAW</td><td>LJAW</td></tr>
+<tr><td>LOCKJAW &amp; THE PET AVENGERS</td><td>LJAW&amp;PETA</td></tr>
+<tr><td>LOCKJAW &amp; THE PET AVENGERS UNLEASHED</td><td>LJAW&amp;PETAU</td></tr>
+<tr><td>LOGAN</td><td>L</td></tr>
+<tr><td>LOGAN: PATH OF THE WARLORD</td><td>L:PW</td></tr>
+<tr><td>LOGAN: SHADOW SOCIETY</td><td>L:SS</td></tr>
+<tr><td>LOGAN'S RUN</td><td>LRUN</td></tr>
+<tr><td>LOKI: AGENT OF ASGARD</td><td>LOKI:AOA</td></tr>
+<tr><td>LONERS</td><td>LONERS</td></tr>
+<tr><td>LONGSHOT</td><td>LSHOT</td></tr>
+<tr><td>LONGSHOT VOL. 2</td><td>LSHOT2</td></tr>
+<tr><td>LONGSHOT SAVES THE MARVEL UNIVERSE</td><td>LSHOTSM/U</td></tr>
+<tr><td>LORD PUMPKIN</td><td>LPUMP</td></tr>
+<tr><td>LORD PUMPKIN/NECROMANTRA</td><td>LPUMP/NMANTRA</td></tr>
+<tr><td>LORNA THE JUNGLE GIRL</td><td>LORNAJG</td></tr>
+<tr><td>LORNA THE JUNGLE QUEEN</td><td>LORNAJQ</td></tr>
+<tr><td>LUKE CAGE</td><td>LC</td></tr>
+<tr><td>LUKE CAGE NOIR</td><td>LCNOIR</td></tr>
+<tr><td>LUKE CAGE, HERO FOR HIRE</td><td>LCHFH</td></tr>
+<tr><td>LUKE CAGE, POWER-MAN</td><td>PM</td></tr>
+<tr><td>LUNATIK</td><td>LUNATIK</td></tr>
+<tr><td>M.O.D.O.K.: ASSASSIN</td><td>MODOK:ASSN</td></tr>
+<tr><td>MACHINE MAN</td><td>MM</td></tr>
+<tr><td>MACHINE MAN VOL. 2</td><td>MM2</td></tr>
+<tr><td>MACHINE MAN/BASTION</td><td>MM/BSTN</td></tr>
+<tr><td>MACHINE TEEN</td><td>MTEEN</td></tr>
+<tr><td>MADROX</td><td>MADROX</td></tr>
+<tr><td>MAGIK</td><td>MGK</td></tr>
+<tr><td>MAGIK VOL. 2</td><td>MGK2</td></tr>
+<tr><td>MAGNETIC MEN FEATURING MAGNETO</td><td>MAGMFM</td></tr>
+<tr><td>MAGNETO</td><td>M</td></tr>
+<tr><td>MAGNETO VOL. 2</td><td>M2</td></tr>
+<tr><td>MAGNETO VOL. 3</td><td>M3</td></tr>
+<tr><td>MAGNETO REX</td><td>MR</td></tr>
+<tr><td>MAGNETO: DARK SEDUCTION</td><td>M:DS</td></tr>
+<tr><td>MAGNETO: NOT A HERO</td><td>M:NH</td></tr>
+<tr><td>MAGNETO AND HIS MAGNETIC MEN</td><td>M&amp;MAGM</td></tr>
+<tr><td>MAJOR X</td><td>MAJX</td></tr>
+<tr><td>MAN COMICS</td><td>MANC</td></tr>
+<tr><td>MAN-THING</td><td>M-T</td></tr>
+<tr><td>MAN-THING VOL. 2</td><td>M-T2</td></tr>
+<tr><td>MAN-THING VOL. 3</td><td>M-T3</td></tr>
+<tr><td>MAN-THING VOL. 5</td><td>M-T5</td></tr>
+<tr><td>MANTRA</td><td>MANTRA</td></tr>
+<tr><td>MANTRA VOL. 2</td><td>MANTRA2</td></tr>
+<tr><td>MANTRA ∞</td><td>MANTRA ∞</td></tr>
+<tr><td>MANTRA: SPEAR OF DESTINY</td><td>MANTRA:SOD</td></tr>
+<tr><td>MANY LOVES OF AMAZING SPIDER-MAN</td><td>MLASM</td></tr>
+<tr><td>MARC SPECTOR: MOON KNIGHT</td><td>MSMK</td></tr>
+<tr><td>MARC SPECTOR: MOON KNIGHT SPECIAL EDITION</td><td>MSMKSE</td></tr>
+<tr><td>MARGIE COMICS</td><td>MARGIEC</td></tr>
+<tr><td>MARK HAZZARD: MERC</td><td>MERC</td></tr>
+<tr><td>MARVEL 1602</td><td>1602</td></tr>
+<tr><td>MARVEL 1602: FANTASTICK FOUR</td><td>1602:FF</td></tr>
+<tr><td>MARVEL 1602: NEW WORLD</td><td>1602:NW</td></tr>
+<tr><td>MARVEL 2-IN-ONE</td><td>M/2IO</td></tr>
+<tr><td>MARVEL ADVENTURES SPIDER-MAN</td><td>M/ADVSM</td></tr>
+<tr><td>MARVEL ADVENTURES: AVENERS</td><td>M/ADVA</td></tr>
+<tr><td>MARVEL AGE</td><td>M/AGE</td></tr>
+<tr><td>MARVEL APES</td><td>M/APES</td></tr>
+<tr><td>MARVEL APES DIGITAL COMIC</td><td>M/APES DIG</td></tr>
+<tr><td>MARVEL APES: AMAZING SPIDER-MONKEY</td><td>M/APES:ASM</td></tr>
+<tr><td>MARVEL APES: EVOLUTION STARTS HERE TPB</td><td>M/APES:ESH</td></tr>
+<tr><td>MARVEL APES: GRUNT LINE</td><td>M/APES:GL</td></tr>
+<tr><td>MARVEL APES: SPEEDBALL</td><td>M/APES:SB</td></tr>
+<tr><td>MARVEL ASSISTANT-SIZED SPECTACULAR</td><td>M/ASS</td></tr>
+<tr><td>MARVEL BOY</td><td>MB</td></tr>
+<tr><td>MARVEL BOY VOL. 2</td><td>MB2</td></tr>
+<tr><td>MARVEL BOY: URANIAN</td><td>MB:URAN</td></tr>
+<tr><td>MARVEL CHILLERS</td><td>M/CHL</td></tr>
+<tr><td>MARVEL CLASSICS COMICS</td><td>M/CC</td></tr>
+<tr><td>MARVEL COLLECTOR'S EDITION</td><td>M/CE</td></tr>
+<tr><td>MARVEL COMICS</td><td>M/C</td></tr>
+<tr><td>MARVEL COMICS PRESENTS</td><td>M/CP</td></tr>
+<tr><td>MARVEL COMICS PRESENTS VOL. 2</td><td>M/CP2</td></tr>
+<tr><td>MARVEL COMICS PRESENTS VOL. 3</td><td>M/CP3</td></tr>
+<tr><td>MARVEL DIGITAL HOLIDAY SPECIAL</td><td>M/DIGHOL</td></tr>
+<tr><td>MARVEL DIVAS</td><td>M/DIVAS</td></tr>
+<tr><td>MARVEL DOUBLE FEATURE: AVENGERS</td><td>M/DF2:A</td></tr>
+<tr><td>MARVEL DOUBLE FEATURE: THUNDERSTRIKE</td><td>M/DF:TSTRK</td></tr>
+<tr><td>MARVEL DOUBLE SHOT</td><td>M/DS</td></tr>
+<tr><td>MARVEL EUROPA TPB</td><td>M/EUR</td></tr>
+<tr><td>MARVEL FANFARE</td><td>M/FAN</td></tr>
+<tr><td>MARVEL FANFARE VOL. 2</td><td>M/FAN2</td></tr>
+<tr><td>MARVEL FEATURE</td><td>M/FEA</td></tr>
+<tr><td>MARVEL FEATURE VOL. 2</td><td>M/FEA2</td></tr>
+<tr><td>MARVEL FRONTIER COMICS SPECIAL</td><td>M/FRONTC SPEC</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL</td><td>M/GN</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: AMAZING SPIDER-MAN IN HOOKY</td><td>M/GN:ASMH</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: AMAZING SPIDER-MAN, PARALLEL LIVES</td><td>M/GN:ASMPL</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: CLOAK AND DAGGER</td><td>M/GN:CAD</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: CLOAK AND DAGGER AND POWER PACK: SHELTER FROM THE STORM</td><td>M/GN:CAD/PP</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: CONAN OF THE ISLES</td><td>M/GN:COISLES</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: CONAN THE BARBARIAN IN THE SKULL OF SET</td><td>M/GN:COBSOS</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: CONAN THE REAVER</td><td>M/GN:COR</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: DAREDEVIL</td><td>M/GN:DD</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: DOCTOR STRANGE AND DOCTOR DOOM: TRIUMPH AND TORMENT</td><td>M/GN:DS&amp;DOOM</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: DOCTOR STRANGE INTO SHAMBALLA</td><td>M/GN:DS</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: EMPEROR DOOM</td><td>M/GN:EDOOM</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: HERCULES, PRINCE OF POWER: FULL CIRCLE</td><td>M/GN:HRCPOPFC</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: INCREDIBLE HULK &amp; THING</td><td>M/GN:IH&amp;TG</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: INHUMANS</td><td>M/GN:INHS</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: KULL THE VALE OF SHADOW</td><td>M/GN:KULLVOS</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: PUNISHER, ASSASSIN'S GUILD</td><td>M/GN:PAG</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: PUNISHER: INTRUDER</td><td>M/GN:PINT</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: RICK MASON, THE AGENT</td><td>M/GN:AGENT</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: SILVER SURFER: JUDGMENT DAY</td><td>M/GN:SSJD</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: SQUADRON SUPREME: DEATH OF A UNIVERSE</td><td>M/GN:SQS</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: THOR</td><td>M/GN:T</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: WOLFPACK</td><td>M/GN:WPACK</td></tr>
+<tr><td>MARVEL GRAPHIC NOVEL: WOLVERINE/NICK FURY: SCORPIO CONNECTION</td><td>M/GN:W/NF</td></tr>
+<tr><td>MARVEL HALLWEEN ASHCAN</td><td>M/HWEEN ASH</td></tr>
+<tr><td>MARVEL HEARTBREAKERS</td><td>M/HB</td></tr>
+<tr><td>MARVEL HEROES &amp; LEGENDS</td><td>M/H&amp;L</td></tr>
+<tr><td>MARVEL HOLIDAY SPECIAL</td><td>M/HOL</td></tr>
+<tr><td>MARVEL KNIGHTS</td><td>M/K</td></tr>
+<tr><td>MARVEL KNIGHTS VOL. 2</td><td>M/K2</td></tr>
+<tr><td>MARVEL KNIGHTS 20TH</td><td>M/K20TH</td></tr>
+<tr><td>MARVEL KNIGHTS BLACK PANTHER 2099</td><td>M/KBP2099</td></tr>
+<tr><td>MARVEL KNIGHTS DAREDEVIL 2099</td><td>M/KDD2099</td></tr>
+<tr><td>MARVEL KNIGHTS DOUBLE SHOT</td><td>M/KDS</td></tr>
+<tr><td>MARVEL KNIGHTS INHUMANS 2099</td><td>M/KINHS2099</td></tr>
+<tr><td>MARVEL KNIGHTS MUTANT 2099</td><td>M/KM2099</td></tr>
+<tr><td>MARVEL KNIGHTS PUNISHER 2099</td><td>M/KP2099</td></tr>
+<tr><td>MARVEL KNIGHTS SPIDER-MAN</td><td>M/KSM</td></tr>
+<tr><td>MARVEL KNIGHTS: 4</td><td>FOUR</td></tr>
+<tr><td>MARVEL KNIGHTS: HULK</td><td>M/K:H</td></tr>
+<tr><td>MARVEL KNIGHTS: X-MEN</td><td>M/K:X</td></tr>
+<tr><td>MARVEL MANGAVERSE</td><td>M/MANGA</td></tr>
+<tr><td>MARVEL MANGAVERSE: AVENGERS ASSEMBLE</td><td>M/MANGA:AASS</td></tr>
+<tr><td>MARVEL MANGAVERSE: ETERNITY TWILIGHT</td><td>M/MANGA:ET</td></tr>
+<tr><td>MARVEL MANGAVERSE: FANTASTIC FOUR</td><td>M/MANGA:FF</td></tr>
+<tr><td>MARVEL MANGAVERSE: GHOST RIDERS</td><td>M/MANGA:GRS</td></tr>
+<tr><td>MARVEL MANGAVERSE: NEW DAWN</td><td>M/MANGA:ND</td></tr>
+<tr><td>MARVEL MANGAVERSE: PUNISHER</td><td>M/MANGA:P</td></tr>
+<tr><td>MARVEL MANGAVERSE: SPIDER-MAN</td><td>M/MANGA:SM</td></tr>
+<tr><td>MARVEL MANGAVERSE: X-MEN</td><td>M/MANGA:X</td></tr>
+<tr><td>MARVEL MONSTERS: DEVIL DINOSAUR</td><td>M/M:DDINO</td></tr>
+<tr><td>MARVEL MONSTERS: FIN FANG FOUR</td><td>M/M:FFF</td></tr>
+<tr><td>MARVEL MONSTERS: MONSTERS ON THE PROWL</td><td>M/M:MOTP</td></tr>
+<tr><td>MARVEL MONSTERS: WHERE MONSTERS DWELL</td><td>M/M:WMD</td></tr>
+<tr><td>MARVEL MYSTERY COMICS</td><td>M/MC</td></tr>
+<tr><td>MARVEL MYSTERY COMICS 70TH ANNIVERSARY SPECIAL</td><td>M/MC70A</td></tr>
+<tr><td>MARVEL NOW! POINT ONE</td><td>M/NPO</td></tr>
+<tr><td>MARVEL PREMIERE</td><td>M/PRM</td></tr>
+<tr><td>MARVEL PRESENTS</td><td>M/PRS</td></tr>
+<tr><td>MARVEL PREVIEW</td><td>M/PRV</td></tr>
+<tr><td>MARVEL PREVIEWS</td><td>M/PRVS</td></tr>
+<tr><td>MARVEL RISING</td><td>M/R</td></tr>
+<tr><td>MARVEL RISING: ALPHA</td><td>M/R:A</td></tr>
+<tr><td>MARVEL RISING: MS. MARVEL &amp; SQUIRREL GIRL</td><td>M/R:MSM/SQG</td></tr>
+<tr><td>MARVEL RISING: OMEGA</td><td>M/R:O</td></tr>
+<tr><td>MARVEL RISING: SQUIRREL GIRL &amp; MS. MARVEL</td><td>M/R:SQG/MSM</td></tr>
+<tr><td>MARVEL SAGA</td><td>M/SAGA</td></tr>
+<tr><td>MARVEL SHADOWS &amp; LIGHT</td><td>M/S&amp;L</td></tr>
+<tr><td>MARVEL SPOTLIGHT</td><td>M/SPT</td></tr>
+<tr><td>MARVEL SPOTLIGHT VOLUME 2</td><td>M/SPT2</td></tr>
+<tr><td>MARVEL SUPER HERO CONTEST OF CHAMPIONS</td><td>M/S-HCOC</td></tr>
+<tr><td>MARVEL SUPER-ACTION (MAGAZINE)</td><td>M/SA</td></tr>
+<tr><td>MARVEL SUPER-HEROES</td><td>M/S-H</td></tr>
+<tr><td>MARVEL SUPER-HEROES VOL. 2 (British Magazine)</td><td>M/S-H2</td></tr>
+<tr><td>MARVEL SUPER-HEROES VOL. 3</td><td>M/S-H3</td></tr>
+<tr><td>MARVEL SUPER-HEROES SECRET WARS</td><td>M/S-HSECWARS</td></tr>
+<tr><td>MARVEL SUPER-SPECIAL</td><td>M/SSPEC</td></tr>
+<tr><td>MARVEL TAILS</td><td>M/TAILS</td></tr>
+<tr><td>MARVEL TALES</td><td>M/TALES</td></tr>
+<tr><td>MARVEL TALES VOL. 2</td><td>M/TALES2</td></tr>
+<tr><td>MARVEL TEAM-UP</td><td>M/TU</td></tr>
+<tr><td>MARVEL TEAM-UP VOL. 2</td><td>M/TU2</td></tr>
+<tr><td>MARVEL TEAM-UP VOL. 3</td><td>M/TU3</td></tr>
+<tr><td>MARVEL TEAM-UP VOL. 4</td><td>M/TU4</td></tr>
+<tr><td>MARVEL TOP 6: WILD ANGELS</td><td>M/TOP</td></tr>
+<tr><td>MARVEL TREASURY EDITION</td><td>M/TE</td></tr>
+<tr><td>MARVEL TRIPLE ACTION</td><td>M/TA</td></tr>
+<tr><td>MARVEL TSUM TSUM</td><td>M/TSUM</td></tr>
+<tr><td>MARVEL TV: GALACTUS</td><td>M/TV:GLCTS</td></tr>
+<tr><td>MARVEL TWO-IN-ONE</td><td>M/TIO</td></tr>
+<tr><td>MARVEL UNIVERSE</td><td>M/U</td></tr>
+<tr><td>MARVEL UNIVERSE ACCORDING TO HEMBECK TPB</td><td>M/UACCHEM</td></tr>
+<tr><td>MARVEL VALENTINE SPECIAL</td><td>M/VAL SPEC</td></tr>
+<tr><td>MARVEL VAULT: DEFENDERS</td><td>M/VAULT:DEF</td></tr>
+<tr><td>MARVEL VAULT: DOCTOR STRANGE</td><td>M/VAULT:DS</td></tr>
+<tr><td>MARVEL VAULT: GAMBIT &amp; THE CHAMPIONS</td><td>M/VAULT:GAM&amp;CHMPS</td></tr>
+<tr><td>MARVEL VAULT: INCREDIBLE HULK &amp; HUMAN TORCH</td><td>M/VAULT:IH&amp;HT</td></tr>
+<tr><td>MARVEL VAULT: THUNDERBOLTS</td><td>M/VAULT:TB</td></tr>
+<tr><td>MARVEL VS. DC</td><td>DCVM</td></tr>
+<tr><td>MARVEL WESTERNS: KID COLT &amp; THE ARIZONA GIRL</td><td>M/W:KC&amp;AG</td></tr>
+<tr><td>MARVEL WESTERNS: STRANGE WESTERNS</td><td>M/W:SW</td></tr>
+<tr><td>MARVEL WESTERNS: TWO-GUN KID</td><td>M/W:TGK</td></tr>
+<tr><td>MARVEL WESTERNS: WESTERN LEGENDS</td><td>M/W:WL</td></tr>
+<tr><td>MARVEL YEAR IN REVIEW</td><td>M/YIR</td></tr>
+<tr><td>MARVEL ZOMBIES</td><td>M/Z</td></tr>
+<tr><td>MARVEL ZOMBIES 2</td><td>M/Z2</td></tr>
+<tr><td>MARVEL ZOMBIES 3</td><td>M/Z3</td></tr>
+<tr><td>MARVEL ZOMBIES 4</td><td>M/Z4</td></tr>
+<tr><td>MARVEL ZOMBIES 5</td><td>M/Z5</td></tr>
+<tr><td>MARVEL ZOMBIES VOL. 6</td><td>M/Z6</td></tr>
+<tr><td>MARVEL ZOMBIES HALLOWEEN</td><td>M/ZHWEEN</td></tr>
+<tr><td>MARVEL ZOMBIES RETURN</td><td>M/ZR</td></tr>
+<tr><td>MARVEL ZOMBIES SUPREME</td><td>M/ZS</td></tr>
+<tr><td>MARVEL ZOMBIES VS. ARMY OF DARKNESS</td><td>M/ZV.AOD</td></tr>
+<tr><td>MARVEL ZOMBIES: DEAD DAYS</td><td>M/Z:DD</td></tr>
+<tr><td>MARVEL ZOMBIES: EVIL EVOLUTION</td><td>M/Z:EE</td></tr>
+<tr><td>MARVEL: LEGACY</td><td>M/:LEG</td></tr>
+<tr><td>MARVEL: LOST GENERATION</td><td>M/:LG</td></tr>
+<tr><td>MARVELS</td><td>MARVELS</td></tr>
+<tr><td>MARVELS PROJECT</td><td>M/PROJECT</td></tr>
+<tr><td>MARVELS: EYE OF THE CAMERA</td><td>MARVELS:EYE</td></tr>
+<tr><td>MARVILLE</td><td>MARVILLE</td></tr>
+<tr><td>MASTER OF KUNG FU</td><td>MOKF</td></tr>
+<tr><td>MASTER OF KUNG FU VOL. 2</td><td>MOKF2</td></tr>
+<tr><td>MASTER OF KUNG FU: BLEEDING BLACK</td><td>MOKF:BB</td></tr>
+<tr><td>MATT SLADE, GUNFIGHTER</td><td>MSG</td></tr>
+<tr><td>MAVERICK</td><td>MAV</td></tr>
+<tr><td>MAVERICK VOL. 2</td><td>MAV2</td></tr>
+<tr><td>MAXIMUM SECURITY</td><td>MAXSEC</td></tr>
+<tr><td>MAXIMUM SECURITY: DANGEROUS PLANET</td><td>MAXSEC:DP</td></tr>
+<tr><td>MCP BOARD OF DIRECTORS</td><td>MCPBOD</td></tr>
+<tr><td>MEET THE SKRULLS</td><td>MSKRULLS</td></tr>
+<tr><td>MERRY X-MEN HOLIDAY SPECIAL</td><td>MERRYX HSPEC</td></tr>
+<tr><td>MEKANIX</td><td>MEKANIX</td></tr>
+<tr><td>MEN'S ADVENTURES</td><td>MENADV</td></tr>
+<tr><td>MENACE</td><td>MENACE</td></tr>
+<tr><td>MEPHISTO VS. ...</td><td>MEPHV.</td></tr>
+<tr><td>MICRONAUTS</td><td>MICRO</td></tr>
+<tr><td>MICRONAUTS: NEW VOYAGES</td><td>MICRO2</td></tr>
+<tr><td>MIDNIGHT SUNS UNLIMITED</td><td>MSU</td></tr>
+<tr><td>MIGHTY AVENGERS</td><td>MA</td></tr>
+<tr><td>MIGHTY AVENGERS VOL. 2</td><td>MA2</td></tr>
+<tr><td>MIGHTY CAPTAIN MARVEL</td><td>MCM</td></tr>
+<tr><td>MIGHTY THOR</td><td>MT</td></tr>
+<tr><td>MIGHTY THOR VOL. 2</td><td>MT2</td></tr>
+<tr><td>MIGHTY THOR: AT THE GATES OF VALHALLA</td><td>MT:GATES</td></tr>
+<tr><td>MIGHTY WORLD OF MARVEL VOL. 2</td><td>MWM/2</td></tr>
+<tr><td>MILES MORALES: SPIDER-MAN</td><td>MIMOSM</td></tr>
+<tr><td>MILES MORALES: ULTIMATE SPIDER-MAN</td><td>MM:ULTSM</td></tr>
+<tr><td>MILLIE THE MODEL</td><td>MILLIEM</td></tr>
+<tr><td>MINI-MARVELS: SECRET INVASION TPB</td><td>MM/:SECINV</td></tr>
+<tr><td>MINIMUM CARNAGE: ALPHA</td><td>MINCRNG:ALPHA</td></tr>
+<tr><td>MINIMUM CARNAGE: OMEGA</td><td>MINCRNG:OMEGA</td></tr>
+<tr><td>MISS AMERICA</td><td>MISSA</td></tr>
+<tr><td>MISS AMERICA COMICS</td><td>MISSAC</td></tr>
+<tr><td>MISS AMERICA COMICS 70TH ANNIVERSARY SPECIAL</td><td>MISSAC70A</td></tr>
+<tr><td>MISS AMERICA MAGAZINE</td><td>MISSAMAG</td></tr>
+<tr><td>MISS AMERICA MAGAZINE VOL. 2</td><td>MISSAMAG2</td></tr>
+<tr><td>MISS AMERICA MAGAZINE VOL. 3</td><td>MISSAMAG3</td></tr>
+<tr><td>MISS AMERICA MAGAZINE VOL. 4</td><td>MISSAMAG4</td></tr>
+<tr><td>MISS AMERICA MAGAZINE VOL. 5</td><td>MISSAMAG5</td></tr>
+<tr><td>MISS AMERICA MAGAZINE VOL. 6</td><td>MISSAMAG6</td></tr>
+<tr><td>MISS AMERICA MAGAZINE VOL. 7</td><td>MISSAMAG7</td></tr>
+<tr><td>MISS FURY</td><td>MISSF</td></tr>
+<tr><td>MOCKINGBIRD</td><td>MOCK</td></tr>
+<tr><td>MODELS INC.</td><td>MODELS</td></tr>
+<tr><td>MODOK: ASSASSIN</td><td>MODOK:ASSN</td></tr>
+<tr><td>MONSTER OF FRANKENSTEIN</td><td>MONF</td></tr>
+<tr><td>MONSTERS ON THE PROWL</td><td>MOTP</td></tr>
+<tr><td>MONSTERS UNLEASHED!</td><td>MU</td></tr>
+<tr><td>MONSTERS UNLEASHED! VOL. 2</td><td>MU2</td></tr>
+<tr><td>MONSTERS UNLEASHED! VOL. 3</td><td>MU3</td></tr>
+<tr><td>MONTHLY BESSATSU SHONEN MAGAZINE</td><td>MONTHLY BESSATSU SHONEN MAG</td></tr>
+<tr><td>MOON GIRL &amp; DEVIL DINOSAUR</td><td>MG&amp;DDINO</td></tr>
+<tr><td>MOON KNIGHT</td><td>MK</td></tr>
+<tr><td>MOON KNIGHT VOL. 2</td><td>MK2</td></tr>
+<tr><td>MOON KNIGHT VOL. 3</td><td>MK3</td></tr>
+<tr><td>MOON KNIGHT VOL. 4</td><td>MK4</td></tr>
+<tr><td>MOON KNIGHT VOL. 5</td><td>MK5</td></tr>
+<tr><td>MOON KNIGHT VOL. 6</td><td>MK6</td></tr>
+<tr><td>MOON KNIGHT VOL. 7</td><td>MK7</td></tr>
+<tr><td>MOON KNIGHT VOL. 8</td><td>MK8</td></tr>
+<tr><td>MOON KNIGHT: DIVIDED WE FALL</td><td>MK:DWF</td></tr>
+<tr><td>MOON KNIGHT: SILENT KNIGHT</td><td>MK:SK</td></tr>
+<tr><td>MORBIUS: LIVING VAMPIRE</td><td>MORB:LV</td></tr>
+<tr><td>MORBIUS: LIVING VAMPIRE VOL. 2</td><td>MORB:LV2</td></tr>
+<tr><td>MORLOCKS</td><td>MORLOCKS</td></tr>
+<tr><td>MORTIGAN GOTH: IMMORTALIS</td><td>MG:I</td></tr>
+<tr><td>MOSAIC</td><td>MOSAIC</td></tr>
+<tr><td>MOTION PICTURES FUNNIES WEEKLY</td><td>MOTION PICTURES FUNNIES WEEKLY</td></tr>
+<tr><td>MOTORMOUTH</td><td>MMOUTH</td></tr>
+<tr><td>MOTORMOUTH &amp; KILLPOWER</td><td>MMOUTH&amp;KP</td></tr>
+<tr><td>MR. AND MRS. X</td><td>MR&amp;MRSX</td></tr>
+<tr><td>MRS. DEADPOOL &amp; HOWLING COMMANDOS</td><td>MRSDP&amp;HC</td></tr>
+<tr><td>MS. MARVEL</td><td>MSM</td></tr>
+<tr><td>MS. MARVEL VOL. 2</td><td>MSM2</td></tr>
+<tr><td>MS. MARVEL VOL. 3</td><td>MSM3</td></tr>
+<tr><td>MS. MARVEL VOL. 4</td><td>MSM4</td></tr>
+<tr><td>MS. MARVEL SPECIAL</td><td>MSM SPEC</td></tr>
+<tr><td>MS. MARVEL:STORYTELLER</td><td>MSM:S</td></tr>
+<tr><td>MULTIPLE MAN</td><td>MULTM</td></tr>
+<tr><td>MUTANT MISADVENTURES OF CLOAK &amp; DAGGER</td><td>MMACAD</td></tr>
+<tr><td>MUTANT X</td><td>MX</td></tr>
+<tr><td>MUTIES</td><td>MUTIES</td></tr>
+<tr><td>MUTOPIA X</td><td>MUTOPIA</td></tr>
+<tr><td>MYS-TECH WARS</td><td>MTW</td></tr>
+<tr><td>MYSTERY MEN</td><td>MMEN</td></tr>
+<tr><td>MYSTERY TALES</td><td>MTALES</td></tr>
+<tr><td>MYSTIC</td><td>MYS</td></tr>
+<tr><td>MYSTIC ARCANA: BLACK KNIGHT</td><td>MYSARC:BK</td></tr>
+<tr><td>MYSTIC ARCANA: MAGIK</td><td>MYSARC:M</td></tr>
+<tr><td>MYSTIC ARCANA: SCARLET WITCH</td><td>MYSARC:SCRW</td></tr>
+<tr><td>MYSTIC ARCANA: SISTER GRIMM</td><td>MYSARC:SGRIMM</td></tr>
+<tr><td>MYSTIC COMICS</td><td>MYSC</td></tr>
+<tr><td>MYSTIC COMICS VOL. 2</td><td>MYSC2</td></tr>
+<tr><td>MYSTIC COMICS 70TH ANNIVERSARY SPECIAL</td><td>MYSC70A</td></tr>
+<tr><td>MYSTIC HANDS OF DOCTOR STRANGE</td><td>MHDS</td></tr>
+<tr><td>MYSTIQUE</td><td>MSTQ</td></tr>
+<tr><td>'NAM</td><td>NAM</td></tr>
+<tr><td>NAMOR</td><td>N</td></tr>
+<tr><td>NAMOR, THE SUB-MARINER</td><td>NSUB</td></tr>
+<tr><td>NAMOR: THE BEST DEFENSE</td><td>N:BD</td></tr>
+<tr><td>NAMOR: THE FIRST MUTANT</td><td>N:FM</td></tr>
+<tr><td>NAMORA</td><td>NAMORA</td></tr>
+<tr><td>NAMORA VOL. 2</td><td>NAMORA2</td></tr>
+<tr><td>NATION X</td><td>NATX</td></tr>
+<tr><td>NATION X: X-FACTOR</td><td>NATX:XF</td></tr>
+<tr><td>NEW AVENGERS</td><td>NA</td></tr>
+<tr><td>NEW AVENGERS VOL. 2</td><td>NA2</td></tr>
+<tr><td>NEW AVENGERS VOL. 3</td><td>NA3</td></tr>
+<tr><td>NEW AVENGERS VOL. 4</td><td>NA4</td></tr>
+<tr><td>NEW AVENGERS: FINALE</td><td>NA:FINALE</td></tr>
+<tr><td>NEW AVENGERS: ILLUMINATI</td><td>NA:ILLUM</td></tr>
+<tr><td>NEW AVENGERS: ILLUMINATI VOL. 2</td><td>NA:ILLUM2</td></tr>
+<tr><td>NEW AVENGERS: LUKE CAGE</td><td>NA:LC</td></tr>
+<tr><td>NEW AVENGERS: MOST WANTED FILES</td><td>NA:MWF</td></tr>
+<tr><td>NEW AVENGERS: REUNION</td><td>NA:R</td></tr>
+<tr><td>NEW DEFENDERS</td><td>NDEF</td></tr>
+<tr><td>NEW EXCALIBUR</td><td>NXCAL</td></tr>
+<tr><td>NEW EXILES</td><td>NEX</td></tr>
+<tr><td>NEW INVADERS</td><td>NINV</td></tr>
+<tr><td>NEW MANGAVERSE</td><td>NMANGA</td></tr>
+<tr><td>NEW MUTANTS</td><td>NM</td></tr>
+<tr><td>NEW MUTANTS VOL. 2</td><td>NM2</td></tr>
+<tr><td>NEW MUTANTS VOL. 3</td><td>NM3</td></tr>
+<tr><td>NEW MUTANTS SPECIAL EDITION</td><td>NMSE</td></tr>
+<tr><td>NEW MUTANTS SUMMER SPECIAL</td><td>NMSUM</td></tr>
+<tr><td>NEW MUTANTS: DEAD SOULS</td><td>NM:DS</td></tr>
+<tr><td>NEW MUTANTS: TRUTH OR DEATH</td><td>NM:TD</td></tr>
+<tr><td>NEW MUTANTS: WAR CHILDREN</td><td>NM:WC</td></tr>
+<tr><td>NEW THUNDERBOLTS</td><td>NTB</td></tr>
+<tr><td>NEW WARRIORS</td><td>NW</td></tr>
+<tr><td>NEW WARRIORS VOL. 2</td><td>NW2</td></tr>
+<tr><td>NEW WARRIORS VOL. 3</td><td>NW3</td></tr>
+<tr><td>NEW WARRIORS VOL. 4</td><td>NW4</td></tr>
+<tr><td>NEW WARRIORS VOL. 5</td><td>NW5</td></tr>
+<tr><td>NEW X-MEN</td><td>NX</td></tr>
+<tr><td>NEW X-MEN VOL. 2</td><td>NX2</td></tr>
+<tr><td>NEW X-MEN: ACADEMY X</td><td>NX2</td></tr>
+<tr><td>NEW X-MEN: ACADEMY X YEARBOOK</td><td>NX:ACADXYB</td></tr>
+<tr><td>NEW X-MEN: HELLIONS</td><td>NX:HLNS</td></tr>
+<tr><td>NEXT WAVE: AGENTS OF HATE</td><td>NXTW:AOH</td></tr>
+<tr><td>NICK FURY</td><td>NF</td></tr>
+<tr><td>NICK FURY VS. S.H.I.E.L.D.</td><td>NFV.SHIELD</td></tr>
+<tr><td>NICK FURY, AGENT OF S.H.I.E.L.D.</td><td>NFAOS</td></tr>
+<tr><td>NICK FURY, AGENT OF S.H.I.E.L.D. VOL. 3</td><td>NFAOS3</td></tr>
+<tr><td>NICK FURY'S HOWLING COMMANDOS</td><td>NFHC</td></tr>
+<tr><td>NIGHT MAN</td><td>NMAN</td></tr>
+<tr><td>NIGHT MAN VOL. 2</td><td>NMAN2</td></tr>
+<tr><td>NIGHT MAN ∞</td><td>NMAN ∞</td></tr>
+<tr><td>NIGHT MAN VS. WOLVERINE</td><td>NMANV.W</td></tr>
+<tr><td>NIGHT MAN/GAMBIT</td><td>NMAN/GAM</td></tr>
+<tr><td>NIGHT NURSE</td><td>NN</td></tr>
+<tr><td>NIGHT RAVEN: HOUSE OF CARDS</td><td>NRAVEN:HOC</td></tr>
+<tr><td>NIGHT THRASHER</td><td>NT</td></tr>
+<tr><td>NIGHT THRASHER: FOUR CONTROL</td><td>NT:4C</td></tr>
+<tr><td>NIGHTCAT</td><td>NCAT</td></tr>
+<tr><td>NIGHTCRAWLER</td><td>NC</td></tr>
+<tr><td>NIGHTCRAWLER VOL. 2</td><td>NC2</td></tr>
+<tr><td>NIGHTCRAWLER VOL. 3</td><td>NC3</td></tr>
+<tr><td>NIGHTCRAWLER VOL. 4</td><td>NC4</td></tr>
+<tr><td>NIGHTHAWK</td><td>NHAWK</td></tr>
+<tr><td>NIGHTHAWK VOL. 2</td><td>NHAWK2</td></tr>
+<tr><td>NIGHTMARE</td><td>NMARE</td></tr>
+<tr><td>NIGHTMASK</td><td>NMASK</td></tr>
+<tr><td>NIGHTSTALKERS</td><td>NS</td></tr>
+<tr><td>NIGHTWATCH</td><td>NIGHTW</td></tr>
+<tr><td>NOMAD</td><td>NOM</td></tr>
+<tr><td>NOMAD VOL. 2</td><td>NOM2</td></tr>
+<tr><td>NOMAD: GIRL WITHOUT A WORLD</td><td>NOM:GIRL</td></tr>
+<tr><td>NORTHSTAR</td><td>NORTH</td></tr>
+<tr><td>NOT BRAND ECHH</td><td>NBE</td></tr>
+<tr><td>NOVA</td><td>NO</td></tr>
+<tr><td>NOVA VOL. 2</td><td>NO2</td></tr>
+<tr><td>NOVA VOL. 3</td><td>NO3</td></tr>
+<tr><td>NOVA VOL. 4</td><td>NO4</td></tr>
+<tr><td>NOVA VOL. 5</td><td>NO5</td></tr>
+<tr><td>NOVA VOL. 6</td><td>NO6</td></tr>
+<tr><td>NOVA VOL. 7</td><td>NO7</td></tr>
+<tr><td>NOVA SPECIAL</td><td>NO SPEC</td></tr>
+<tr><td>NOVA: ORIGIN OF RICHARD RIDER</td><td>NO:ORICH</td></tr>
+<tr><td>Nth MAN</td><td>NTHMAN</td></tr>
+<tr><td>NYX</td><td>NYX</td></tr>
+<tr><td>NYX: NO WAY HOME</td><td>NYX:NWH</td></tr>
+<tr><td>OBNOXIO</td><td>OBNOXIO</td></tr>
+<tr><td>OCCUPY AVENGERS</td><td>OCCA</td></tr>
+<tr><td>OLD MAN HAWKEYE</td><td>OMHAWK</td></tr>
+<tr><td>OLD MAN LOGAN</td><td>OML</td></tr>
+<tr><td>OLD MAN LOGAN VOL. 2</td><td>OML2</td></tr>
+<tr><td>OLD MAN QUILL</td><td>OMQUL</td></tr>
+<tr><td>OMEGA FLIGHT</td><td>OF</td></tr>
+<tr><td>OMEGA THE UNKNOWN</td><td>OU</td></tr>
+<tr><td>ONE MONTH TO LIVE</td><td>OMTL</td></tr>
+<tr><td>ONSLAUGHT UNLEASHED</td><td>ONSU</td></tr>
+<tr><td>ONSLAUGHT: EPILOG</td><td>ONS:E</td></tr>
+<tr><td>ONSLAUGHT: MARVEL UNIVERSE</td><td>ONS:M/U</td></tr>
+<tr><td>ONSLAUGHT: REBORN</td><td>ONS:R</td></tr>
+<tr><td>ONSLAUGHT: X-MEN</td><td>ONS:X</td></tr>
+<tr><td>ORDER</td><td>ORDER</td></tr>
+<tr><td>ORDER VOL. 2</td><td>ORDER2</td></tr>
+<tr><td>ORIGIN</td><td>ORGN</td></tr>
+<tr><td>ORIGIN II</td><td>ORGNII</td></tr>
+<tr><td>ORIGINAL GHOST RIDER</td><td>OGR</td></tr>
+<tr><td>ORIGINAL SIN</td><td>OSIN</td></tr>
+<tr><td>ORIGINAL SINS</td><td>OSINS</td></tr>
+<tr><td>ORIGINS OF SIEGE</td><td>OSIEGE</td></tr>
+<tr><td>ORORO: BEFORE THE STORM</td><td>ORORO</td></tr>
+<tr><td>OSBORN</td><td>OSBORN</td></tr>
+<tr><td>OUTLAW KID</td><td>OK</td></tr>
+<tr><td>OUTLAW KID VOL. 2</td><td>OK2</td></tr>
+<tr><td>OVER THE EDGE</td><td>OEDGE</td></tr>
+<tr><td>PARADISE X</td><td>PARX</td></tr>
+<tr><td>PARADISE X A</td><td>PARX A</td></tr>
+<tr><td>PARADISE X X</td><td>PARX X</td></tr>
+<tr><td>PARADISE X: HERALDS</td><td>PARX:H</td></tr>
+<tr><td>PARADISE X: RAGNAROK</td><td>PARX:R</td></tr>
+<tr><td>PATSY AND HEDY</td><td>PATSY&amp;HEDY</td></tr>
+<tr><td>PATSY AND HER PALS</td><td>PATSY&amp;PALS</td></tr>
+<tr><td>PATSY WALKER</td><td>PATSYW</td></tr>
+<tr><td>PATSY WALKER, A.K.A. HELLCAT</td><td>PATSYWAHCAT</td></tr>
+<tr><td>PATSY WALKER: HELLCAT</td><td>PATSYW:HCAT</td></tr>
+<tr><td>PATSY WALKER'S FASHION PARADE</td><td>PATSYWFP</td></tr>
+<tr><td>PENANCE: RELENTLESS</td><td>PEN:REL</td></tr>
+<tr><td>PETER PARKER</td><td>PARKER</td></tr>
+<tr><td>PETER PARKER, SPIDER-MAN</td><td>PPSM</td></tr>
+<tr><td>PETER PARKER, SPIDER-MAN/ELEKTRA</td><td>PPSM/EL</td></tr>
+<tr><td>PETER PARKER, THE SPECTACULAR SPIDER-MAN</td><td>PPSSM</td></tr>
+<tr><td>PETER PARKER, THE SPECTACULAR SPIDER-MAN VOL. 2</td><td>PPSSM2</td></tr>
+<tr><td>PETER PORKER, THE SPECTACULAR SPIDER-HAM</td><td>PPSSHAM</td></tr>
+<tr><td>PHOENIX (UNTOLD STORY)</td><td>PHX</td></tr>
+<tr><td>PHOENIX RESURRECTION</td><td>PHXR</td></tr>
+<tr><td>PHOENIX RESURRECTION: AFTERMATH</td><td>PHXR:A</td></tr>
+<tr><td>PHOENIX RESURRECTION: GENESIS</td><td>PHXR:G</td></tr>
+<tr><td>PHOENIX RESURRECTION: REVELATIONS</td><td>PHXR:R</td></tr>
+<tr><td>PHOENIX RESURRECTION: THE RETURN OF JEAN GREY</td><td>PHXR:ROJG</td></tr>
+<tr><td>PITT</td><td>PITT</td></tr>
+<tr><td>PLANET HULK</td><td>PH</td></tr>
+<tr><td>PLANET SKAAR: PROLOGUE</td><td>PS:PROLOGUE</td></tr>
+<tr><td>PLASMER</td><td>PLASMER</td></tr>
+<tr><td>POINT ONE</td><td>PO</td></tr>
+<tr><td>POWER LINE</td><td>PLINE</td></tr>
+<tr><td>POWER OF PRIME</td><td>POPRIME</td></tr>
+<tr><td>POWER OF WARLOCK</td><td>WLOCK</td></tr>
+<tr><td>POWER PACK</td><td>PP</td></tr>
+<tr><td>POWER PACK VOL. 2</td><td>PP2</td></tr>
+<tr><td>POWER PACK VOL. 3</td><td>PP3</td></tr>
+<tr><td>POWER PACK HOLIDAY SPECIAL</td><td>PP HSPEC</td></tr>
+<tr><td>POWER PACK: DAY ONE</td><td>PP:DO</td></tr>
+<tr><td>POWER-MAN</td><td>PM</td></tr>
+<tr><td>POWER-MAN &amp; IRON FIST</td><td>PM&amp;IF</td></tr>
+<tr><td>POWER-MAN &amp; IRON FIST VOL. 2</td><td>PM&amp;IF2</td></tr>
+<tr><td>POWER-MAN &amp; IRON FIST VOL. 3</td><td>PM&amp;IF3</td></tr>
+<tr><td>PRELUDE TO DEADPOOL CORPS</td><td>PDPCORPS</td></tr>
+<tr><td>PRIME</td><td>PRIME</td></tr>
+<tr><td>PRIME VOL. 2</td><td>PRIME2</td></tr>
+<tr><td>PRIME ∞</td><td>PRIME ∞</td></tr>
+<tr><td>PRIME VS. INCREDIBLE HULK</td><td>PRIMEV.IH</td></tr>
+<tr><td>PRIME/CAPTAIN AMERICA</td><td>PRIME/CA</td></tr>
+<tr><td>PRINCE NAMOR, THE SUB-MARINER</td><td>PNSUB</td></tr>
+<tr><td>PROTOTYPE</td><td>PRO</td></tr>
+<tr><td>PROWLER</td><td>PROWL</td></tr>
+<tr><td>PROWLER VOL. 2</td><td>PROWL2</td></tr>
+<tr><td>PRYDE &amp; WISDOM</td><td>PRY&amp;WSDM</td></tr>
+<tr><td>PSI-FORCE</td><td>PF</td></tr>
+<tr><td>PSYLOCKE</td><td>PSYLOCKE</td></tr>
+<tr><td>PULSE</td><td>PULSE</td></tr>
+<tr><td>PULSE:HOUSE OF M</td><td>PULSE: HOM</td></tr>
+<tr><td>PUNISHER</td><td>P</td></tr>
+<tr><td>PUNISHER VOL. 2</td><td>P2</td></tr>
+<tr><td>PUNISHER VOL. 3</td><td>P3</td></tr>
+<tr><td>PUNISHER VOL. 4</td><td>P4</td></tr>
+<tr><td>PUNISHER VOL. 5</td><td>P5</td></tr>
+<tr><td>PUNISHER VOL. 6</td><td>P6</td></tr>
+<tr><td>PUNISHER VOL. 7</td><td>P7</td></tr>
+<tr><td>PUNISHER VOL. 8</td><td>P8</td></tr>
+<tr><td>PUNISHER VOL. 9</td><td>P9</td></tr>
+<tr><td>PUNISHER VOL. 10</td><td>P10</td></tr>
+<tr><td>PUNISHER VOL. 11</td><td>P11</td></tr>
+<tr><td>PUNISHER VOL. 12</td><td>P12</td></tr>
+<tr><td>PUNISHER 2099</td><td>P2099</td></tr>
+<tr><td>PUNISHER BACK TO SCHOOL SPECIAL</td><td>PBSS</td></tr>
+<tr><td>PUNISHER HOLIDAY SPECIAL</td><td>PHOL</td></tr>
+<tr><td>PUNISHER INVADES THE 'NAM</td><td>PNAM</td></tr>
+<tr><td>PUNISHER MAX</td><td>PMAX</td></tr>
+<tr><td>PUNISHER MAX: BUTTERFLY</td><td>PMAX:BUTTERFLY</td></tr>
+<tr><td>PUNISHER MAX: GET CASTLE</td><td>PMAX:GC</td></tr>
+<tr><td>PUNISHER MAX: HAPPY ENDING</td><td>PMAX:HE</td></tr>
+<tr><td>PUNISHER MAX: HOT RODS OF DEATH</td><td>PMAX:HROD</td></tr>
+<tr><td>PUNISHER MAX: PLATOON</td><td>PMAX:PLTN</td></tr>
+<tr><td>PUNISHER MAX: TINY UGLY WORLD</td><td>PMAX:TUW</td></tr>
+<tr><td>PUNISHER NOIR</td><td>PNOIR</td></tr>
+<tr><td>PUNISHER PRESENTS: BARRACUDA</td><td>P:BARRACUDA</td></tr>
+<tr><td>PUNISHER SUMMER SPECIAL</td><td>PSS</td></tr>
+<tr><td>PUNISHER VS. BULLSEYE</td><td>PV.BULL</td></tr>
+<tr><td>PUNISHER WAR JOURNAL</td><td>PWJ</td></tr>
+<tr><td>PUNISHER WAR JOURNAL VOL. 2</td><td>PWJ2</td></tr>
+<tr><td>PUNISHER WAR ZONE</td><td>PWZ</td></tr>
+<tr><td>PUNISHER WAR ZONE VOL. 2</td><td>PWZ2</td></tr>
+<tr><td>PUNISHER WAR ZONE VOL. 3</td><td>PWZ3</td></tr>
+<tr><td>PUNISHER/BLACK WIDOW: SPINNING DOOMSDAY'S WEB</td><td>P/BW:SDW</td></tr>
+<tr><td>PUNISHER/CAPTAIN AMERICA: BLOOD &amp; GLORY</td><td>PUN/CA:B&amp;G</td></tr>
+<tr><td>PUNISHER: BLOOD ON THE MOORS</td><td>P:MOORS</td></tr>
+<tr><td>PUNISHER: BLOODLINES</td><td>P:B</td></tr>
+<tr><td>PUNISHER: BLOODY VALENTINE</td><td>P:BV</td></tr>
+<tr><td>PUNISHER: THE CELL</td><td>P:CELL</td></tr>
+<tr><td>PUNISHER: DIE HARD IN THE BIG EASY</td><td>P:DHBE</td></tr>
+<tr><td>PUNISHER: EMPTY QUARTER</td><td>P:EQ</td></tr>
+<tr><td>PUNISHER: FORCE OF NATURE</td><td>P:FON</td></tr>
+<tr><td>PUNISHER: FRANK CASTLE</td><td>P:FC</td></tr>
+<tr><td>PUNISHER: G FORCE</td><td>P:GF</td></tr>
+<tr><td>PUNISHER: GHOSTS OF INNOCENTS</td><td>P:GI</td></tr>
+<tr><td>PUNISHER: IN THE BLOOD</td><td>P:ITB</td></tr>
+<tr><td>PUNISHER: KINGDOM GONE</td><td>P:KG</td></tr>
+<tr><td>PUNISHER: LITTLE BLACK BOOK</td><td>P:LBB</td></tr>
+<tr><td>PUNISHER: NAKED KILL</td><td>P:NAKED</td></tr>
+<tr><td>PUNISHER: NIGHTMARE</td><td>P:NM</td></tr>
+<tr><td>PUNISHER: NO ESCAPE</td><td>P:NE</td></tr>
+<tr><td>PUNISHER: ORIGIN OF MICROCHIP</td><td>MICROCHIP</td></tr>
+<tr><td>PUNISHER: P.O.V.</td><td>P:POV</td></tr>
+<tr><td>PUNISHER: PRIZE</td><td>P:P</td></tr>
+<tr><td>PUNISHER: RED X-MAS</td><td>P:RX</td></tr>
+<tr><td>PUNISHER: SILENT NIGHT</td><td>P:SN</td></tr>
+<tr><td>PUNISHER: SOVIET</td><td>P:SOVIET</td></tr>
+<tr><td>PUNISHER: TRIAL OF PUNISHER</td><td>P:TOP</td></tr>
+<tr><td>PUNISHER: THE TYGER</td><td>P:TYGER</td></tr>
+<tr><td>PUNISHER: XMAS</td><td>P:XMAS</td></tr>
+<tr><td>PUNISHER: XMAS SPECIAL</td><td>P:XMAS SPEC</td></tr>
+<tr><td>PUNISHER: YEAR ONE</td><td>P:YO</td></tr>
+<tr><td>QUAKE: SHIELD 50TH ANNIVERSARY</td><td>QUAKE:SHIELD50A</td></tr>
+<tr><td>QUASAR</td><td>Q</td></tr>
+<tr><td>QUESTPROBE</td><td>QP</td></tr>
+<tr><td>QUICKSILVER</td><td>QS</td></tr>
+<tr><td>QUICKSILVER: NO SURRENDER</td><td>QS:NS</td></tr>
+<tr><td>RAMPAGING HULK</td><td>RAMH</td></tr>
+<tr><td>RAMPAGING HULK VOL. 2</td><td>RAMH2</td></tr>
+<tr><td>RAMPAGING WOLVERINE</td><td>RAMW</td></tr>
+<tr><td>RAVAGE 2099</td><td>RAV2099</td></tr>
+<tr><td>RAWHIDE KID</td><td>RK</td></tr>
+<tr><td>RAWHIDE KID VOL. 2</td><td>RK2</td></tr>
+<tr><td>RAWHIDE KID VOL. 3</td><td>RK3</td></tr>
+<tr><td>RAWHIDE KID VOL. 4</td><td>RK4</td></tr>
+<tr><td>REALM OF KINGS</td><td>ROK</td></tr>
+<tr><td>REALM OF KINGS: IMPERIAL GUARD</td><td>ROK:IGUARD</td></tr>
+<tr><td>REALM OF KINGS: INHUMANS</td><td>ROK:INHS</td></tr>
+<tr><td>REALM OF KINGS: SON OF HULK</td><td>ROK:SOH</td></tr>
+<tr><td>RED GOBLIN:RED DEATH</td><td>RG:RD</td></tr>
+<tr><td>RED RAVEN COMICS</td><td>RRAVENC</td></tr>
+<tr><td>RED SHE-HULK</td><td>RSH</td></tr>
+<tr><td>RED SKULL</td><td>RSKULL</td></tr>
+<tr><td>RED SKULL INCARNATE</td><td>RSKULLI</td></tr>
+<tr><td>RED SONJA</td><td>RS</td></tr>
+<tr><td>RED SONJA VOL. 2</td><td>RS2</td></tr>
+<tr><td>RED SONJA VOL. 3</td><td>RS3</td></tr>
+<tr><td>RED SONJA: SCAVENGER HUNT</td><td>RS:SH</td></tr>
+<tr><td>RED WOLF</td><td>RW</td></tr>
+<tr><td>RED WOLF VOL. 2</td><td>RW2</td></tr>
+<tr><td>RESCUE</td><td>RESCUE</td></tr>
+<tr><td>RETURN OF WOLVERINE</td><td>ROW</td></tr>
+<tr><td>REVOLUTIONARY WAR: ALPHA</td><td>REVWAR:A</td></tr>
+<tr><td>REVOLUTIONARY WAR: DARK ANGEL</td><td>REVWAR:DANGEL</td></tr>
+<tr><td>REVOLUTIONARY WAR: DEATH'S HEAD II</td><td>REVWAR:DHII</td></tr>
+<tr><td>REVOLUTIONARY WAR: KNIGHTS OF PENDRAGON</td><td>REVWAR:KOP</td></tr>
+<tr><td>REVOLUTIONARY WAR: MOTORMOUTH</td><td>REVWAR:MMOUTH</td></tr>
+<tr><td>REVOLUTIONARY WAR: OMEGA</td><td>REVWAR:O</td></tr>
+<tr><td>REVOLUTIONARY WAR: SUPERSOLDIERS</td><td>REVWAR:SSOLS</td></tr>
+<tr><td>REVOLUTIONARY WAR: WARHEADS</td><td>REVWAR:WARH</td></tr>
+<tr><td>RIPFIRE</td><td>RIPFIRE</td></tr>
+<tr><td>RISE OF APOCALYPSE</td><td>ROA</td></tr>
+<tr><td>ROCKET</td><td>ROCKET</td></tr>
+<tr><td>ROCKET RACCOON</td><td>RR</td></tr>
+<tr><td>ROCKET RACCOON VOL. 2</td><td>RR2</td></tr>
+<tr><td>ROCKET RACCOON VOL. 3</td><td>RR3</td></tr>
+<tr><td>ROCKET RACCOON AND GROOT</td><td>RR&amp;GROOT</td></tr>
+<tr><td>ROGUE</td><td>RG</td></tr>
+<tr><td>ROGUE VOL. 3</td><td>RG3</td></tr>
+<tr><td>ROGUE &amp; GAMBIT</td><td>RG&amp;GAM</td></tr>
+<tr><td>ROM, SPACEKNIGHT</td><td>ROM</td></tr>
+<tr><td>ROYALS</td><td>ROYALS</td></tr>
+<tr><td>RUNAWAYS</td><td>RUN</td></tr>
+<tr><td>RUNAWAYS VOL. 2</td><td>RUN2</td></tr>
+<tr><td>RUNAWAYS VOL. 3</td><td>RUN3</td></tr>
+<tr><td>RUNAWAYS VOL. 4</td><td>RUN4</td></tr>
+<tr><td>RUNAWAYS VOL. 5</td><td>RUN5</td></tr>
+<tr><td>RUNAWAYS SAGA</td><td>RUNSAGA</td></tr>
+<tr><td>RUNE</td><td>RUNE</td></tr>
+<tr><td>RUNE VOL. 2</td><td>RUNE2</td></tr>
+<tr><td>RUNE ∞</td><td>RUNE ∞</td></tr>
+<tr><td>RUNE VS. VENOM</td><td>RUNEV.V</td></tr>
+<tr><td>RUNE/SILVER SURFER</td><td>RUNE/SS</td></tr>
+<tr><td>RUNE: HEARTS OF DARKNESS</td><td>RUNE:HOD</td></tr>
+<tr><td>S.H.I.E.L.D.</td><td>SHIELD</td></tr>
+<tr><td>S.H.I.E.L.D. VOL. 2</td><td>SHIELD2</td></tr>
+<tr><td>S.H.I.E.L.D. VOL. 3</td><td>SHIELD3</td></tr>
+<tr><td>S.H.I.E.L.D. ∞</td><td>SHIELD ∞</td></tr>
+<tr><td>SABLE &amp; FORTUNE</td><td>SBL&amp;FORTUNE</td></tr>
+<tr><td>SABRETOOTH</td><td>SABRE</td></tr>
+<tr><td>SABRETOOTH VOL. 2</td><td>SABRE2</td></tr>
+<tr><td>SABRETOOTH &amp; MYSTIQUE</td><td>SABRE&amp;MSTQ</td></tr>
+<tr><td>SABRETOOTH: BACK TO NATURE</td><td>SABRE:BN</td></tr>
+<tr><td>SABRETOOTH: IN THE RED ZONE</td><td>SABRE:RZ</td></tr>
+<tr><td>SABRETOOTH: MARY SHELLEY OVERDRIVE</td><td>SABRE:MSO</td></tr>
+<tr><td>SAGA OF THE ORIGINAL HUMAN TORCH</td><td>SAGAHT</td></tr>
+<tr><td>SAGA OF THE SUB-MARINER</td><td>SAGASUB</td></tr>
+<tr><td>SAVAGE AXE OF ARES</td><td>SAVAXEARES</td></tr>
+<tr><td>SAVAGE HULK</td><td>SAVH</td></tr>
+<tr><td>SAVAGE HULK VOL. 2</td><td>SAVH2</td></tr>
+<tr><td>SAVAGE SHE-HULK</td><td>SAVSH</td></tr>
+<tr><td>SAVAGE SWORD OF CONAN</td><td>SAVSCO</td></tr>
+<tr><td>SAVAGE TALES</td><td>SAVT</td></tr>
+<tr><td>SAVAGE TALES VOL. 2</td><td>SAVT2</td></tr>
+<tr><td>SAVAGE WOLVERINE</td><td>SAVW</td></tr>
+<tr><td>SCARLET SPIDER</td><td>SCRS</td></tr>
+<tr><td>SCARLET SPIDER VOL. 2</td><td>SCRS2</td></tr>
+<tr><td>SCARLET SPIDERS</td><td>SCRSS</td></tr>
+<tr><td>SCARLET SPIDER UNLIMITED</td><td>SCRSU</td></tr>
+<tr><td>SCARLET WITCH</td><td>SCRW</td></tr>
+<tr><td>SCARLET WITCH VOL. 2</td><td>SCRW2</td></tr>
+<tr><td>SEASON'S BEATINGS</td><td>SEASBTGS</td></tr>
+<tr><td>SECRET AVENGERS</td><td>SECA</td></tr>
+<tr><td>SECRET DEFENDERS</td><td>SECDEF</td></tr>
+<tr><td>SECRET EMPIRE</td><td>SECEMP</td></tr>
+<tr><td>SECRET EMPIRE: BRAVE NEW WORLD</td><td>SECEMP:BNW</td></tr>
+<tr><td>SECRET EMPIRE: OMEGA</td><td>SECEMP:O</td></tr>
+<tr><td>SECRET EMPIRE: UNDERGROUND</td><td>SECEMP:UND</td></tr>
+<tr><td>SECRET EMPIRE: UNITED</td><td>SECEMP:UNI</td></tr>
+<tr><td>SECRET EMPIRE: UPRISING</td><td>SECEMP:UPR</td></tr>
+<tr><td>SECRET INVASION</td><td>SECINV</td></tr>
+<tr><td>SECRET INVASION AFTERMATH: BETA RAY BILL</td><td>SECINVA:BRB</td></tr>
+<tr><td>SECRET INVASION SAGA</td><td>SECINVSAGA</td></tr>
+<tr><td>SECRET INVASION: AMAZING SPIDER-MAN</td><td>SECINV:ASM</td></tr>
+<tr><td>SECRET INVASION: DARK REIGN</td><td>SECINV:DR</td></tr>
+<tr><td>SECRET INVASION: DIRECTORS CUT</td><td>SECINV:DC</td></tr>
+<tr><td>SECRET INVASION: FANTASTIC FOUR</td><td>SECINV:FF</td></tr>
+<tr><td>SECRET INVASION: FRONT LINE</td><td>SECINV:FL</td></tr>
+<tr><td>SECRET INVASION: HOME INVASION</td><td>SECINV:HI</td></tr>
+<tr><td>SECRET INVASION: INHUMANS</td><td>SECINV:INHS</td></tr>
+<tr><td>SECRET INVASION: REQUIEM</td><td>SECINV:REQ</td></tr>
+<tr><td>SECRET INVASION: RUNAWAYS/YOUNG AVENGERS</td><td>SECINV:RUN/YA</td></tr>
+<tr><td>SECRET INVASION: THOR</td><td>SECINV:T</td></tr>
+<tr><td>SECRET INVASION: WAR OF KINGS</td><td>SECINV:WOK</td></tr>
+<tr><td>SECRET INVASION: WHO DO YOU TRUST?</td><td>SECINV:WHO?</td></tr>
+<tr><td>SECRET INVASION: X-MEN</td><td>SECINV:X</td></tr>
+<tr><td>SECRET WAR</td><td>SECWAR</td></tr>
+<tr><td>SECRET WAR: FROM THE FILES OF NICK FURY</td><td>SECWAR:FNF</td></tr>
+<tr><td>SECRET WARPS: ARACHKNIGHT</td><td>SWARPS:ARAK</td></tr>
+<tr><td>SECRET WARPS: GHOST PANTHER</td><td>SWARPS:GP</td></tr>
+<tr><td>SECRET WARPS: IRON HAMMER</td><td>SWARPS:IHMR</td></tr>
+<tr><td>SECRET WARPS: SOLDIER SUPREME</td><td>SWARPS:SOLS</td></tr>
+<tr><td>SECRET WARPS: WEAPON HEX</td><td>SWARPS:WHEX</td></tr>
+<tr><td>SECRET WARRIORS</td><td>SECWARR</td></tr>
+<tr><td>SECRET WARRIORS VOL. 2</td><td>SECWARR2</td></tr>
+<tr><td>SECRET WARS</td><td>SECWARS</td></tr>
+<tr><td>SECRET WARS 2099</td><td>SECWARS2099</td></tr>
+<tr><td>SECRET WARS II</td><td>SECWARSII</td></tr>
+<tr><td>SECRET WARS JOURNAL</td><td>SECWARSJ</td></tr>
+<tr><td>SECRET WARS TOO</td><td>SECWARSTOO</td></tr>
+<tr><td>SECRET WARS: AGENTS OF ATLAS</td><td>SECWARS:AOATLAS</td></tr>
+<tr><td>SECRET WARS: BATTLEWORLD</td><td>SECWARS:BWORLD</td></tr>
+<tr><td>SECRET WARS: SECRET LOVE</td><td>SECWARS:SECL</td></tr>
+<tr><td>SECRETS OF HOUSE OF M</td><td>SECHOM</td></tr>
+<tr><td>SEEKER 3000</td><td>SEEKER3000</td></tr>
+<tr><td>SENSATIONAL SHE-HULK</td><td>SENSH</td></tr>
+<tr><td>SENSATIONAL SPIDER-MAN</td><td>SENSM</td></tr>
+<tr><td>SENSATIONAL SPIDER-MAN VOL. 2</td><td>SENSM2</td></tr>
+<tr><td>SENTINEL</td><td>SENTINEL</td></tr>
+<tr><td>SENTINEL VOL. 2</td><td>SENTINEL2</td></tr>
+<tr><td>SENTINEL SQUAD O*N*E</td><td>SSONE</td></tr>
+<tr><td>SENTRY</td><td>SENTRY</td></tr>
+<tr><td>SENTRY VOL. 2</td><td>SENTRY2</td></tr>
+<tr><td>SENTRY VOL. 3</td><td>SENTRY3</td></tr>
+<tr><td>SENTRY/FANTASTIC FOUR</td><td>SENTRY/FF</td></tr>
+<tr><td>SENTRY/HULK</td><td>SENTRY/H</td></tr>
+<tr><td>SENTRY/SPIDER-MAN</td><td>SENTRY/SM</td></tr>
+<tr><td>SENTRY/VOID</td><td>SENTRY/VOID</td></tr>
+<tr><td>SENTRY/X-MEN</td><td>SENTRY/X</td></tr>
+<tr><td>SENTRY: FALLEN SUN</td><td>SENTRY:FS</td></tr>
+<tr><td>SGT. FURY &amp; HIS HOWLIN' COMMANDOS</td><td>SGTF</td></tr>
+<tr><td>SGT. FURY &amp; HIS HOWLIN' COMMANDOS VOL. 2</td><td>SGTF2</td></tr>
+<tr><td>SHADOW RIDERS</td><td>SHDWR</td></tr>
+<tr><td>SHADOWLAND</td><td>SHDWL</td></tr>
+<tr><td>SHADOWLAND: AFTER THE FALL</td><td>SHDWL:AF</td></tr>
+<tr><td>SHADOWLAND: BLOOD ON THE STREETS</td><td>SHDWL:BOS</td></tr>
+<tr><td>SHADOWLAND: BULLSEYE</td><td>SHDWL:BULL</td></tr>
+<tr><td>SHADOWLAND: DAUGHTERS OF THE SHADOW</td><td>SHDWL:DSHDW</td></tr>
+<tr><td>SHADOWLAND: ELEKTRA</td><td>SHDWL:EL</td></tr>
+<tr><td>SHADOWLAND: GHOST RIDER</td><td>SHDWL:GR</td></tr>
+<tr><td>SHADOWLAND: MOON KNIGHT</td><td>SHDWL:MK</td></tr>
+<tr><td>SHADOWLAND: POWER MAN</td><td>SHDWL:PM</td></tr>
+<tr><td>SHADOWLAND: SPIDER-MAN</td><td>SHDWL:SM</td></tr>
+<tr><td>SHADOWMASTERS</td><td>SHDWM</td></tr>
+<tr><td>SHADOWS &amp; LIGHT</td><td>S&amp;L</td></tr>
+<tr><td>SHANG-CHI: MASTER OF KUNG FU</td><td>SCHI:MOKF</td></tr>
+<tr><td>SHANG-CHI: MASTER OF KUNG FU VOL. 2</td><td>SCHI:MOKF2</td></tr>
+<tr><td>SHANNA THE SHE-DEVIL</td><td>SSD</td></tr>
+<tr><td>SHATTERSTAR</td><td>SRSTAR</td></tr>
+<tr><td>SHE-HULK</td><td>SH</td></tr>
+<tr><td>SHE-HULK VOL. 2</td><td>SH2</td></tr>
+<tr><td>SHE-HULK VOL. 3</td><td>SH3</td></tr>
+<tr><td>SHE-HULK SENSATIONAL</td><td>SHSEN</td></tr>
+<tr><td>SHE-HULK: CEREMONY</td><td>SH:C</td></tr>
+<tr><td>SHE-HULK: COSMIC COLLISION</td><td>SH:CC</td></tr>
+<tr><td>SHE-HULKS</td><td>SHS</td></tr>
+<tr><td>SHOGUN WARRIORS</td><td>SHOWAR</td></tr>
+<tr><td>SHROUD (3/94)</td><td>SHROUD</td></tr>
+<tr><td>SHURI</td><td>SHURI</td></tr>
+<tr><td>SIEGE</td><td>SIEGE</td></tr>
+<tr><td>SIEGE VOL. 2</td><td>SIEGE2</td></tr>
+<tr><td>SIEGE: CABAL</td><td>SIEGE:CABAL</td></tr>
+<tr><td>SIEGE: CAPTAIN AMERICA</td><td>SIEGE:CA</td></tr>
+<tr><td>SIEGE: EMBEDDED</td><td>SIEGE:EMB</td></tr>
+<tr><td>SIEGE: LOKI</td><td>SIEGE:LOKI</td></tr>
+<tr><td>SIEGE: SECRET WARRIORS</td><td>SIEGE:SECWARR</td></tr>
+<tr><td>SIEGE: SPIDER-MAN</td><td>SIEGE:SM</td></tr>
+<tr><td>SIEGE: YOUNG AVENGERS</td><td>SIEGE:YA</td></tr>
+<tr><td>SIF</td><td>SIF</td></tr>
+<tr><td>SILENT WAR</td><td>SILWAR</td></tr>
+<tr><td>SILK</td><td>SILK</td></tr>
+<tr><td>SILK VOL. 2</td><td>SILK2</td></tr>
+<tr><td>SILVER SABLE &amp; THE WILD PACK</td><td>SSBL&amp;WP</td></tr>
+<tr><td>SILVER SURFER</td><td>SS</td></tr>
+<tr><td>SILVER SURFER VOL. 2</td><td>SS2</td></tr>
+<tr><td>SILVER SURFER VOL. 3</td><td>SS3</td></tr>
+<tr><td>SILVER SURFER VOL. 4</td><td>SS4</td></tr>
+<tr><td>SILVER SURFER VOL. 5</td><td>SS5</td></tr>
+<tr><td>SILVER SURFER VOL. 6</td><td>SS6</td></tr>
+<tr><td>SILVER SURFER VOL. 7</td><td>SS7</td></tr>
+<tr><td>SILVER SURFER GRAPHIC NOVEL</td><td>SSGN</td></tr>
+<tr><td>SILVER SURFER/RUNE</td><td>SS/RUNE</td></tr>
+<tr><td>SILVER SURFER/SUPERMAN</td><td>SS/SUPERMAN</td></tr>
+<tr><td>SILVER SURFER/THOR</td><td>SS/T</td></tr>
+<tr><td>SILVER SURFER/WARLOCK: RESURRECTION</td><td>SS/WLOCK:R</td></tr>
+<tr><td>SILVER SURFER/WEAPON 0</td><td>SS/WEAPON0</td></tr>
+<tr><td>SILVER SURFER/WITCHBLADE</td><td>SS/WITCHBLADE</td></tr>
+<tr><td>SILVER SURFER: DANGEROUS ARTIFACTS</td><td>SS:DA</td></tr>
+<tr><td>SILVER SURFER: HOMECOMING</td><td>SS: HOMECOMING</td></tr>
+<tr><td>SILVER SURFER: IN THY NAME</td><td>SS:ITN</td></tr>
+<tr><td>SILVER SURFER: PARABLE</td><td>SS:P</td></tr>
+<tr><td>SILVER SURFER: THE BEST DEFENSE</td><td>SS:BD</td></tr>
+<tr><td>SIREN</td><td>SIREN</td></tr>
+<tr><td>SIREN ∞</td><td>SIREN ∞</td></tr>
+<tr><td>SIREN SPECIAL</td><td>SIREN SPEC</td></tr>
+<tr><td>SIX GUNS</td><td>SIXGUNS</td></tr>
+<tr><td>SKAAR SON OF HULK: SAVAGE WORLD OF SAKAAR</td><td>SKAAR:SWS</td></tr>
+<tr><td>SKAAR: KING OF THE SAVAGE LAND</td><td>SKAAR:KSL</td></tr>
+<tr><td>SKAAR: SON OF HULK</td><td>SKAAR:SOH</td></tr>
+<tr><td>SKRULL KILL KREW</td><td>SKK</td></tr>
+<tr><td>SKRULL KILL KREW VOL. 2</td><td>SKK2</td></tr>
+<tr><td>SKRULLS VS. POWER PACK</td><td>SKRULLSV.PP</td></tr>
+<tr><td>SKRULLS!</td><td>SKRULLS</td></tr>
+<tr><td>SKULL THE SLAYER</td><td>SKLSLR</td></tr>
+<tr><td>SLAPSTICK</td><td>SLAP</td></tr>
+<tr><td>SLAPSTICK VOL. 2</td><td>SLAP2</td></tr>
+<tr><td>SLEEPWALKER</td><td>SLEEP</td></tr>
+<tr><td>SLEEPWALKER HOLIDAY SPECIAL</td><td>SLEEP HSPEC</td></tr>
+<tr><td>SLINGERS</td><td>SL</td></tr>
+<tr><td>SLINGERS: DUSK</td><td>SL:DUSK</td></tr>
+<tr><td>SLINGERS: HORNET</td><td>SL:HRNT</td></tr>
+<tr><td>SLINGERS: PRODIGY</td><td>SL:PROD</td></tr>
+<tr><td>SLINGERS: RICOCHET</td><td>SL:RICO</td></tr>
+<tr><td>SLUDGE</td><td>SLUDGE</td></tr>
+<tr><td>SLUDGE: RED X-MAS</td><td>SLUDGE:RX</td></tr>
+<tr><td>SMASH!</td><td>SMASH</td></tr>
+<tr><td>SOLDIER X</td><td>SOLX</td></tr>
+<tr><td>SOLITAIRE</td><td>SOLITAIRE</td></tr>
+<tr><td>SOLO</td><td>SOLO</td></tr>
+<tr><td>SOLO VOL. 2</td><td>SOLO2</td></tr>
+<tr><td>SOLO AVENGERS</td><td>SOLOA</td></tr>
+<tr><td>SOLOMON KANE</td><td>SKANE</td></tr>
+<tr><td>SOLUTION</td><td>SOLUTION</td></tr>
+<tr><td>SON OF HULK</td><td>SOH</td></tr>
+<tr><td>SON OF M</td><td>SOM</td></tr>
+<tr><td>SON OF SATAN</td><td>SOS</td></tr>
+<tr><td>SOVIET SUPER SOLDIERS</td><td>SOVSSOULS</td></tr>
+<tr><td>SPACEKNIGHTS</td><td>SK</td></tr>
+<tr><td>SPECIAL EDITION: X-MEN</td><td>SEX</td></tr>
+<tr><td>SPECIAL MARVEL EDITION</td><td>SPECM/E</td></tr>
+<tr><td>SPECTACULAR SCARLET SPIDER</td><td>SSCRS</td></tr>
+<tr><td>SPECTACULAR SPIDER-GIRL</td><td>SSG</td></tr>
+<tr><td>SPECTACULAR SPIDER-MAN</td><td>SSM</td></tr>
+<tr><td>SPECTACULAR SPIDER-MAN VOL. 2</td><td>SSM2</td></tr>
+<tr><td>SPECTACULAR SPIDER-MAN MAGAZINE</td><td>SSMMAG</td></tr>
+<tr><td>SPECTACULAR SPIDER-MAN SUPER SPECIAL</td><td>SSM SSPEC</td></tr>
+<tr><td>SPEED DEMON</td><td>SDEMON</td></tr>
+<tr><td>SPEEDBALL</td><td>SB</td></tr>
+<tr><td>SPELLBINDERS</td><td>SPELLB</td></tr>
+<tr><td>SPELLBOUND</td><td>SPELL</td></tr>
+<tr><td>SPELLBOUND VOL. 2</td><td>SPELL2</td></tr>
+<tr><td>SPIDER-BOY</td><td>SBOY</td></tr>
+<tr><td>SPIDER-BOY TEAM-UP</td><td>SBOYTU</td></tr>
+<tr><td>SPIDER-FORCE</td><td>SFOR</td></tr>
+<tr><td>SPIDER-GEDDON</td><td>SGEDDON</td></tr>
+<tr><td>SPIDER-GIRL</td><td>SG</td></tr>
+<tr><td>SPIDER-GIRL VOL. 2</td><td>SG2</td></tr>
+<tr><td>SPIDER-GIRL: END</td><td>SG:END</td></tr>
+<tr><td>SPIDER-GIRLS</td><td>SGIRLS</td></tr>
+<tr><td>SPIDER-GWEN</td><td>SGWEN</td></tr>
+<tr><td>SPIDER-GWEN VOL. 2</td><td>SGWEN2</td></tr>
+<tr><td>SPIDER-GWEN: GHOST-SPIDER</td><td>SGWEN:G-S</td></tr>
+<tr><td>SPIDER-HAM 25TH ANNIVERSARY SPECIAL</td><td>SHAM25A</td></tr>
+<tr><td>SPIDER-ISLAND:</td><td>SI</td></tr>
+<tr><td>SPIDER-ISLAND: AVENGERS</td><td>SI:A</td></tr>
+<tr><td>SPIDER-ISLAND: CLOAK AND DAGGER</td><td>SI:CAD</td></tr>
+<tr><td>SPIDER-ISLAND: DEADLY FOES</td><td>SI:DF</td></tr>
+<tr><td>SPIDER-ISLAND: DEADLY HANDS OF KUNG FU</td><td>SI:DHKF</td></tr>
+<tr><td>SPIDER-ISLAND: EMERGENCE OF EVIL - JACKAL &amp; HOBGOBLIN</td><td>SI:EEJ&amp;HOBG</td></tr>
+<tr><td>SPIDER-ISLAND: HEROES FOR HIRE</td><td>SI:HFH</td></tr>
+<tr><td>SPIDER-ISLAND: I LOVE NEW YORK CITY</td><td>SI:I♥NYC</td></tr>
+<tr><td>SPIDER-ISLAND: SPIDER-GIRL</td><td>SI:SG</td></tr>
+<tr><td>SPIDER-ISLAND: SPIDER-WOMAN</td><td>SI:SW</td></tr>
+<tr><td>SPIDER-MAN</td><td>SM</td></tr>
+<tr><td>SPIDER-MAN VOL. 2</td><td>SM2</td></tr>
+<tr><td>SPIDER-MAN &amp; ARANA SPECIAL: HUNTER REVEALED</td><td>SM&amp;ARANA:HR</td></tr>
+<tr><td>SPIDER-MAN &amp; FANTASTIC FOUR</td><td>SM&amp;FF</td></tr>
+<tr><td>SPIDER-MAN &amp; FANTASTIC FOUR VOL. 2</td><td>SM&amp;FF2</td></tr>
+<tr><td>SPIDER-MAN &amp; HIS AMAZING FRIENDS</td><td>SM&amp;HAF</td></tr>
+<tr><td>SPIDER-MAN &amp; HUMAN TORCH: BAHIA DE LOS MUERTOS</td><td>SM&amp;HT:BDLM</td></tr>
+<tr><td>SPIDER-MAN &amp; JAY LENO</td><td>SM&amp;JL</td></tr>
+<tr><td>SPIDER-MAN &amp; POWER PACK</td><td>SM&amp;PP</td></tr>
+<tr><td>SPIDER-MAN &amp; THE X-MEN</td><td>SM&amp;X</td></tr>
+<tr><td>SPIDER-MAN &amp; WOLVERINE</td><td>SM&amp;W</td></tr>
+<tr><td>SPIDER-MAN 1602</td><td>1602:SM</td></tr>
+<tr><td>SPIDER-MAN 2099</td><td>SM2099</td></tr>
+<tr><td>SPIDER-MAN 2099 VOL. 2</td><td>SM2099V2</td></tr>
+<tr><td>SPIDER-MAN 2099 VOL. 3</td><td>SM2099V3</td></tr>
+<tr><td>SPIDER-MAN 2099 MEETS SPIDER-MAN</td><td>SM2099SM</td></tr>
+<tr><td>SPIDER-MAN 2099 SPECIAL</td><td>SM2099 SPEC</td></tr>
+<tr><td>SPIDER-MAN FAIRY TALES</td><td>SMFT</td></tr>
+<tr><td>SPIDER-MAN FAMILY</td><td>SMF</td></tr>
+<tr><td>SPIDER-MAN FAMILY VOL. 2</td><td>SMF2</td></tr>
+<tr><td>SPIDER-MAN FAMILY FEATURING SPIDER-CLAN</td><td>SMFFSC</td></tr>
+<tr><td>SPIDER-MAN FAMILY: AMAZING FRIENDS</td><td>SMF:AF</td></tr>
+<tr><td>SPIDER-MAN HOLIDAY SPECIAL</td><td>SM HSPEC</td></tr>
+<tr><td>SPIDER-MAN MADE MEN</td><td>SMMM</td></tr>
+<tr><td>SPIDER-MAN NOIR</td><td>SMNOIR</td></tr>
+<tr><td>SPIDER-MAN NOIR: EYES WITHOUT A FACE</td><td>SMNOIR:EYES</td></tr>
+<tr><td>SPIDER-MAN SPECIAL EDITION: TRIAL OF VENOM</td><td>SMSE:TV</td></tr>
+<tr><td>SPIDER-MAN SUPER SPECIAL</td><td>SM SSPEC</td></tr>
+<tr><td>SPIDER-MAN TEAM-UP</td><td>SMTU</td></tr>
+<tr><td>SPIDER-MAN UNLIMITED</td><td>SMU</td></tr>
+<tr><td>SPIDER-MAN UNLIMITED VOL. 2</td><td>SMU2</td></tr>
+<tr><td>SPIDER-MAN UNLIMITED VOL. 3</td><td>SMU3</td></tr>
+<tr><td>SPIDER-MAN VS. VAMPIRES</td><td>SMV.V</td></tr>
+<tr><td>SPIDER-MAN VS. WOLVERINE</td><td>SMV.W</td></tr>
+<tr><td>SPIDER-MAN, STORM &amp; POWER-MAN</td><td>SM/STORM/PM</td></tr>
+<tr><td>SPIDER-MAN/BLACK CAT: EVIL THAT MEN DO</td><td>SM/BCAT:EVIL</td></tr>
+<tr><td>SPIDER-MAN/DAREDEVIL</td><td>SM/DD</td></tr>
+<tr><td>SPIDER-MAN/DEADPOOL</td><td>SM/DP</td></tr>
+<tr><td>SPIDER-MAN/DEADPOOL 1.MU</td><td>SM/DP 1.MU</td></tr>
+<tr><td>SPIDER-MAN/DOCTOR OCTOPUS: NEGATIVE EXPOSURE</td><td>SM/DO:NE</td></tr>
+<tr><td>SPIDER-MAN/DOCTOR OCTOPUS: OUT OF REACH</td><td>SM/DO:OOR</td></tr>
+<tr><td>SPIDER-MAN/DOCTOR STRANGE: WAY TO DUSTY DEATH</td><td>SM/DS:WDD</td></tr>
+<tr><td>SPIDER-MAN/HUMAN TORCH</td><td>SM/HT</td></tr>
+<tr><td>SPIDER-MAN/KINGPIN: TO THE DEATH</td><td>SM/K:TD</td></tr>
+<tr><td>SPIDER-MAN/MARROW</td><td>SM/MARROW</td></tr>
+<tr><td>SPIDER-MAN/PUNISHER/SABRETOOTH: DESIGNER GENES</td><td>SM/P/SABRE:DG</td></tr>
+<tr><td>SPIDER-MAN/PUNISHER: FAMILY PLOT</td><td>SM/P:FP</td></tr>
+<tr><td>SPIDER-MAN/RED SONJA</td><td>SM/RS</td></tr>
+<tr><td>SPIDER-MAN/X-FACTOR: SHADOWGAMES</td><td>SM/XF:SG</td></tr>
+<tr><td>SPIDER-MAN: ARACHNIS PROJECT (8/94)</td><td>SM:AP</td></tr>
+<tr><td>SPIDER-MAN: BLACK &amp; BLUE &amp; READ ALL OVER</td><td>SM:BBRAO</td></tr>
+<tr><td>SPIDER-MAN: BLUE</td><td>SM:BLUE</td></tr>
+<tr><td>SPIDER-MAN: BREAKOUT</td><td>SM:BREAK</td></tr>
+<tr><td>SPIDER-MAN: CLONE JOURNAL</td><td>SM:CJ</td></tr>
+<tr><td>SPIDER-MAN: DEAD MAN'S HAND</td><td>SM:DMH</td></tr>
+<tr><td>SPIDER-MAN: DEATH &amp; DESTINY</td><td>SM:D&amp;D</td></tr>
+<tr><td>SPIDER-MAN: FEAR ITSELF</td><td>SM:FI</td></tr>
+<tr><td>SPIDER-MAN: FEVER</td><td>SM:FEVER</td></tr>
+<tr><td>SPIDER-MAN: FINAL ADVENTURE</td><td>SM:FA</td></tr>
+<tr><td>SPIDER-MAN: FUNERAL FOR AN OCTOPUS</td><td>SM:FO</td></tr>
+<tr><td>SPIDER-MAN: HOBGOBLIN LIVES</td><td>SM:HOBGL</td></tr>
+<tr><td>SPIDER-MAN: HOUSE OF M</td><td>SM:HOM</td></tr>
+<tr><td>SPIDER-MAN: INDIA</td><td>SM:INDIA</td></tr>
+<tr><td>SPIDER-MAN: JACKAL FILES</td><td>SM:JF</td></tr>
+<tr><td>SPIDER-MAN: LEGACY OF EVIL</td><td>SM:LOE</td></tr>
+<tr><td>SPIDER-MAN: LEGEND OF THE SPIDER-CLAN</td><td>SM:LSC</td></tr>
+<tr><td>SPIDER-MAN: LIFELINE</td><td>SM:L</td></tr>
+<tr><td>SPIDER-MAN: LOST YEARS</td><td>SM:LY</td></tr>
+<tr><td>SPIDER-MAN: THE MANGA</td><td>SM:MANGA</td></tr>
+<tr><td>SPIDER-MAN: MASTER PLAN</td><td>SM:MP</td></tr>
+<tr><td>SPIDER-MAN: MAXIMUM CLONAGE ALPHA</td><td>SM:MAXCA</td></tr>
+<tr><td>SPIDER-MAN: MAXIMUM CLONAGE OMEGA</td><td>SM:MAXCO</td></tr>
+<tr><td>SPIDER-MAN: MUTANT AGENDA</td><td>SM:MA</td></tr>
+<tr><td>SPIDER-MAN: MYSTERIO MANIFESTO</td><td>SM:MM</td></tr>
+<tr><td>SPIDER-MAN: OSBORN JOURNAL</td><td>SM:OSBORNJ</td></tr>
+<tr><td>SPIDER-MAN: PARKER YEARS</td><td>SM:PY</td></tr>
+<tr><td>SPIDER-MAN: POWER OF TERROR (1/95)</td><td>SM:PT</td></tr>
+<tr><td>SPIDER-MAN: QUALITY OF LIFE</td><td>SM:QL</td></tr>
+<tr><td>SPIDER-MAN: REDEMPTION</td><td>SM:R</td></tr>
+<tr><td>SPIDER-MAN: REIGN</td><td>SM:REIGN</td></tr>
+<tr><td>SPIDER-MAN: REVELATIONS</td><td>SM:REVELATIONS TPB</td></tr>
+<tr><td>SPIDER-MAN: REVENGE OF THE GREEN GOBLIN</td><td>SM:RGG</td></tr>
+<tr><td>SPIDER-MAN: SWEET CHARITY</td><td>SM:SC</td></tr>
+<tr><td>SPIDER-MAN: VENOM AGENDA</td><td>SM:VA</td></tr>
+<tr><td>SPIDER-MAN: WEB OF DOOM (8/94)</td><td>SM:WD</td></tr>
+<tr><td>SPIDER-MAN: WITH GREAT POWER</td><td>SM:WGP</td></tr>
+<tr><td>SPIDER-MAN'S TANGLED WEB</td><td>SMTGLW</td></tr>
+<tr><td>SPIDER-MEN</td><td>SMEN</td></tr>
+<tr><td>SPIDER-MEN II</td><td>SMENII</td></tr>
+<tr><td>SPIDER-VERSE</td><td>SVERSE</td></tr>
+<tr><td>SPIDER-VERSE VOL. 2</td><td>SVERSE2</td></tr>
+<tr><td>SPIDER-VERSE TEAM-UP</td><td>SVERSETU</td></tr>
+<tr><td>SPIDER-WOMAN</td><td>SW</td></tr>
+<tr><td>SPIDER-WOMAN VOL. 2</td><td>SW2</td></tr>
+<tr><td>SPIDER-WOMAN VOL. 3</td><td>SW3</td></tr>
+<tr><td>SPIDER-WOMAN VOL. 4</td><td>SW4</td></tr>
+<tr><td>SPIDER-WOMAN VOL. 5</td><td>SW5</td></tr>
+<tr><td>SPIDER-WOMAN VOL. 6</td><td>SW6</td></tr>
+<tr><td>SPIDER-WOMEN: ALPHA</td><td>SWMEN:A</td></tr>
+<tr><td>SPIDER-WOMEN: OMEGA</td><td>SWMEN:O</td></tr>
+<tr><td>SPIDEY</td><td>SPIDEY</td></tr>
+<tr><td>SPIDEY2</td><td>SPIDEY VOL. 2</td></tr>
+<tr><td>SPIDEY:SO</td><td>SPIDEY: SCHOOL'S OUT</td></tr>
+<tr><td>SPIDEY &amp; THE MINI-MARVELS</td><td>SPIDEY&amp;MM/</td></tr>
+<tr><td>SPIRITS OF VENGEANCE VOL. 2</td><td>SOV2</td></tr>
+<tr><td>SPITFIRE</td><td>SFIRE</td></tr>
+<tr><td>SPITFIRE &amp; THE TROUBLESHOOTERS</td><td>SFIRE&amp;TRBL</td></tr>
+<tr><td>SQUADRON SINISTER</td><td>SQSIN</td></tr>
+<tr><td>SQUADRON SUPREME</td><td>SQS</td></tr>
+<tr><td>SQUADRON SUPREME VOL. 2</td><td>SQS2</td></tr>
+<tr><td>SQUADRON SUPREME VOL. 3</td><td>SQS3</td></tr>
+<tr><td>SQUADRON SUPREME VOL. 4</td><td>SQS4</td></tr>
+<tr><td>SQUADRON SUPREME: HYPERION VS. NIGHTHAWK</td><td>SQS:HYPV.NHAWK</td></tr>
+<tr><td>SQUADRON SUPREME: NEW WORLD ORDER</td><td>SQS:NWO</td></tr>
+<tr><td>ST. GEORGE</td><td>STGEORGE</td></tr>
+<tr><td>STAN LEE MEETS DOCTOR STRANGE</td><td>STAN/DS</td></tr>
+<tr><td>STAN LEE MEETS SPIDER-MAN</td><td>STAN/SM</td></tr>
+<tr><td>STAR BRAND</td><td>SBRAND</td></tr>
+<tr><td>STAR MASTERS (12/95)</td><td>STARMAS</td></tr>
+<tr><td>STAR TREK/X-MEN</td><td>TREK/X</td></tr>
+<tr><td>STAR TREK/X-MEN: SECOND CONTACT</td><td>TREK/X:SC</td></tr>
+<tr><td>STAR-LORD</td><td>SLORD</td></tr>
+<tr><td>STAR-LORD VOL. 2</td><td>SLORD2</td></tr>
+<tr><td>STAR-LORD &amp; KITTY PRYDE</td><td>SLORD&amp;KPRY</td></tr>
+<tr><td>STAR-LORD: SPECIAL EDITION</td><td>SLORD:SE</td></tr>
+<tr><td>STARBLAST</td><td>STARBLAST</td></tr>
+<tr><td>STARBRAND &amp; NIGHTMASK</td><td>SBRAND&amp;NMASK</td></tr>
+<tr><td>STARJAMMERS</td><td>SJAM</td></tr>
+<tr><td>STARJAMMERS VOL. 2</td><td>SJAM2</td></tr>
+<tr><td>STARLORD</td><td>STARLORD</td></tr>
+<tr><td>STARTLING STORIES: THE THING</td><td>STRTLS:TG</td></tr>
+<tr><td>STEELTOWN ROCKERS</td><td>STLTNRKRS</td></tr>
+<tr><td>STEVE ROGERS: SUPER SOLDIER</td><td>SR:SSOL</td></tr>
+<tr><td>STOKER'S DRACULA</td><td>SD</td></tr>
+<tr><td>STORM</td><td>STORM</td></tr>
+<tr><td>STORM VOL. 2</td><td>STORM2</td></tr>
+<tr><td>STORM VOL. 3</td><td>STORM3</td></tr>
+<tr><td>STORMBREAKER: SAGA OF BETA RAY BILL</td><td>SBKR:BRB</td></tr>
+<tr><td>STRANGE VOL. 2</td><td>STRANGE2</td></tr>
+<tr><td>STRANGE COMBAT TALES</td><td>SCT</td></tr>
+<tr><td>STRANGE TALES</td><td>ST</td></tr>
+<tr><td>STRANGE TALES VOL. 2</td><td>ST2</td></tr>
+<tr><td>STRANGE TALES VOL. 3</td><td>ST3</td></tr>
+<tr><td>STRANGE TALES VOL. 4</td><td>ST4</td></tr>
+<tr><td>STRANGE TALES: DARK CORNERS</td><td>ST:DC</td></tr>
+<tr><td>STRANGERS</td><td>STRANGERS</td></tr>
+<tr><td>STRONG GUY REBORN</td><td>STRONG</td></tr>
+<tr><td>STRYFE'S STRIKE FILE</td><td>STRYFE</td></tr>
+<tr><td>SUB-MARINER</td><td>SUB</td></tr>
+<tr><td>SUB-MARINER VOL. 2</td><td>SUB2</td></tr>
+<tr><td>SUB-MARINER COMICS</td><td>SUBC</td></tr>
+<tr><td>SUB-MARINER COMICS 70TH ANNIVERSARY SPECIAL</td><td>SUBC70A</td></tr>
+<tr><td>SUBURBAN JERSEY NINJA SHE-DEVILS</td><td>SJNS</td></tr>
+<tr><td>SUNFIRE &amp; BIG HERO 6</td><td>SUNF&amp;BH6</td></tr>
+<tr><td>SUPER MYSTERY VOL. 3</td><td>SUPER MYSTERY3</td></tr>
+<tr><td>SUPER MYSTERY VOL. 4</td><td>SUPER MYSTERY4</td></tr>
+<tr><td>SUPER SPIDER-MAN &amp; CAPTAIN BRITAIN (British Comic)</td><td>SUPSM&amp;CB</td></tr>
+<tr><td>SUPER-SOLDIER</td><td>SSOL</td></tr>
+<tr><td>SUPER-SOLDIER: MAN OF WAR</td><td>SSOL:MWAR</td></tr>
+<tr><td>SUPER-VILLAIN CLASSICS</td><td>SVC</td></tr>
+<tr><td>SUPER-VILLAIN TEAM-UP</td><td>SVTU</td></tr>
+<tr><td>SUPER-VILLAIN TEAM-UP: MODOK'S 11</td><td>SVTU:MODOK</td></tr>
+<tr><td>SUPERIOR CARNAGE</td><td>SUCRNG</td></tr>
+<tr><td>SUPERIOR IRON MAN</td><td>SUIM</td></tr>
+<tr><td>SUPERIOR FOES OF SPIDER-MAN</td><td>SUFSM</td></tr>
+<tr><td>SUPERIOR OCTOPUS</td><td>SUOCT</td></tr>
+<tr><td>SUPERIOR SPIDER-MAN</td><td>SUSM</td></tr>
+<tr><td>SUPERIOR SPIDER-MAN VOL. 2</td><td>SUSM2</td></tr>
+<tr><td>SUPERIOR SPIDER-MAN 6AU</td><td>SUSM 6AU</td></tr>
+<tr><td>SUPERIOR SPIDER-MAN TEAM-UP</td><td>SUSMTU</td></tr>
+<tr><td>SUPERIOR SPIDER-MAN TEAM-UP SPECIAL</td><td>SUSMTU SPEC</td></tr>
+<tr><td>SUPERMAN/FANTASTIC FOUR</td><td>SUPERMAN/FF</td></tr>
+<tr><td>SUPERNATURAL THRILLERS</td><td>SUPTHR</td></tr>
+<tr><td>SUPERSOLDIERS</td><td>SSOLS</td></tr>
+<tr><td>SUPREME POWER</td><td>SP</td></tr>
+<tr><td>SUPREME POWER VOL. 2</td><td>SP2</td></tr>
+<tr><td>SUPREME POWER: HYPERION</td><td>SP:HYP</td></tr>
+<tr><td>SUPREME POWER: NIGHTHAWK</td><td>SP:NHAWK</td></tr>
+<tr><td>SURE ARE A LOTTA BOOKS</td><td>SALB</td></tr>
+<tr><td>SURVIVE!</td><td>SURVIVE</td></tr>
+<tr><td>SUSPENSE</td><td>SUSPENSE</td></tr>
+<tr><td>SWORD</td><td>SWORD</td></tr>
+<tr><td>TACO BELL: AVENGERS</td><td>TACO:A</td></tr>
+<tr><td>TACO BELL: CAPTAIN AMERICA</td><td>TACO:CA</td></tr>
+<tr><td>TACO BELL: FANTASTIC FOUR</td><td>TACO:FF</td></tr>
+<tr><td>TACO BELL: THOR</td><td>TACO:T</td></tr>
+<tr><td>TAILS OF THE PET AVENGERS</td><td>TPETA</td></tr>
+<tr><td>TAILS OF THE PET AVENGERS: THE DOGS OF SUMMER</td><td>TPETA:DOGS</td></tr>
+<tr><td>TALES OF SUSPENSE</td><td>TOS</td></tr>
+<tr><td>TALES OF SUSPENSE VOL. 2</td><td>TOS2</td></tr>
+<tr><td>TALES OF THE MARVEL UNIVERSE</td><td>TM/U</td></tr>
+<tr><td>TALES OF THE MARVELS: BLOCKBUSTER</td><td>TM/:BB</td></tr>
+<tr><td>TALES OF THE MARVELS: INNER DEMONS</td><td>TM/:ID</td></tr>
+<tr><td>TALES OF THE MARVELS: WONDER YEARS</td><td>TM/:WY</td></tr>
+<tr><td>TALES OF THE ZOMBIE</td><td>TOTZ</td></tr>
+<tr><td>TALES TO ASTONISH</td><td>TTA</td></tr>
+<tr><td>TALES TO ASTONISH VOL. 2</td><td>TTA2</td></tr>
+<tr><td>TALES TO ASTONISH VOL. 3</td><td>TTA3</td></tr>
+<tr><td>TANGLED WEB</td><td>TGLW</td></tr>
+<tr><td>TARZAN</td><td>TZ</td></tr>
+<tr><td>TASKMASTER</td><td>TASK</td></tr>
+<tr><td>TASKMASTER VOL. 2</td><td>TASK2</td></tr>
+<tr><td>TEAM AMERICA</td><td>TA</td></tr>
+<tr><td>TEAM X 2000</td><td>TX2K</td></tr>
+<tr><td>TERROR, INC.</td><td>TER</td></tr>
+<tr><td>TEXAS KID</td><td>TEXK</td></tr>
+<tr><td>THANOS</td><td>THANOS</td></tr>
+<tr><td>THANOS VOL. 2</td><td>THANOS2</td></tr>
+<tr><td>THANOS VOL. 3</td><td>THANOS3</td></tr>
+<tr><td>THANOS IMPERATIVE</td><td>THANOSIMP</td></tr>
+<tr><td>THANOS IMPERATIVE DEVESTATION</td><td>THANOSIMPDEV</td></tr>
+<tr><td>THANOS IMPERATIVE IGNITION</td><td>THANOSIMPIGN</td></tr>
+<tr><td>THANOS INFINITY RELATIVITY</td><td>THANOSIREL</td></tr>
+<tr><td>THANOS INFINITY REVELATION</td><td>THANOSIREV</td></tr>
+<tr><td>THANOS LEGACY</td><td>THANOSLEG</td></tr>
+<tr><td>THANOS QUEST</td><td>THANOSQ</td></tr>
+<tr><td>THANOS RISING</td><td>THANOSR</td></tr>
+<tr><td>THANOS VS. HULK</td><td>THANOSV.H</td></tr>
+<tr><td>THANOS: A GOD UP THERE LISTENIN</td><td>THANOS:AGUTL</td></tr>
+<tr><td>THING</td><td>TG</td></tr>
+<tr><td>THING VOL. 2</td><td>TG2</td></tr>
+<tr><td>THING &amp; SHE-HULK: LONG NIGHT</td><td>TG&amp;SH:LN</td></tr>
+<tr><td>THING: FREAKSHOW</td><td>TG:FREAK</td></tr>
+<tr><td>THOR</td><td>T</td></tr>
+<tr><td>THOR VOL. 2</td><td>T2</td></tr>
+<tr><td>THOR VOL. 3</td><td>T3</td></tr>
+<tr><td>THOR VOL. 4</td><td>T4</td></tr>
+<tr><td>THOR VOL. 5</td><td>T5</td></tr>
+<tr><td>THOR &amp; THE WARRIORS FOUR</td><td>T&amp;WF</td></tr>
+<tr><td>THOR CORPS</td><td>TCORPS</td></tr>
+<tr><td>THOR GOD-SIZE</td><td>TG-S</td></tr>
+<tr><td>THOR: AGES OF THUNDER</td><td>T:AGES</td></tr>
+<tr><td>THOR: BLOOD OATH</td><td>T:BO</td></tr>
+<tr><td>THOR: DEVIANTS SAGA</td><td>T:DEVIANTS</td></tr>
+<tr><td>THOR: FINALE</td><td>T:FINALE</td></tr>
+<tr><td>THOR: GOD OF THUNDER</td><td>T:GOT</td></tr>
+<tr><td>THOR: GODSTORM</td><td>T:G</td></tr>
+<tr><td>THOR: HEAVEN &amp; EARTH</td><td>T:H&amp;E</td></tr>
+<tr><td>THOR: LEGEND</td><td>T:LEGEND</td></tr>
+<tr><td>THOR: MAN OF WAR</td><td>T:MAN</td></tr>
+<tr><td>THOR: RAGE OF THOR</td><td>T:RAGE</td></tr>
+<tr><td>THOR: REIGN OF BLOOD</td><td>T:REIGN</td></tr>
+<tr><td>THOR: SON OF ASGARD</td><td>T:SOA</td></tr>
+<tr><td>THOR: TRIAL OF THOR</td><td>T:TRIAL</td></tr>
+<tr><td>THOR: TRUTH OF HISTORY</td><td>T:TOH</td></tr>
+<tr><td>THOR: VIKINGS</td><td>T:V</td></tr>
+<tr><td>THOR: WHERE WALK THE FROST GIANTS</td><td>T:WWTFG</td></tr>
+<tr><td>THOR: WOLVES OF THE NORTH</td><td>T:WOLVES</td></tr>
+<tr><td>THORION OF THE NEW ASGODS</td><td>THORION</td></tr>
+<tr><td>THORS</td><td>TS</td></tr>
+<tr><td>THUNDERBOLTS</td><td>TB</td></tr>
+<tr><td>THUNDERBOLTS VOL. 2</td><td>TB2</td></tr>
+<tr><td>THUNDERBOLTS VOL. 3</td><td>TB3</td></tr>
+<tr><td>THUNDERBOLTS PRESENTS: ZEMO - BORN BETTER</td><td>TBP:ZBB</td></tr>
+<tr><td>THUNDERBOLTS: BREAKING POINT</td><td>TB:BP</td></tr>
+<tr><td>THUNDERBOLTS: DESPERATE MEASURES</td><td>TB:DM</td></tr>
+<tr><td>THUNDERBOLTS: INTERNATIONAL INCIDENT</td><td>TB:II</td></tr>
+<tr><td>THUNDERBOLTS: LIFE SENTENCES</td><td>TB:LS</td></tr>
+<tr><td>THUNDERBOLTS: REASON IN MADNESS</td><td>TB:RM</td></tr>
+<tr><td>THUNDERSTRIKE</td><td>TSTRK</td></tr>
+<tr><td>THUNDERSTRIKE VOL. 2</td><td>TSTRK2</td></tr>
+<tr><td>TIGRA</td><td>TIGRA</td></tr>
+<tr><td>TIMESLIP: COMING OF THE AVENGERS</td><td>TSLIP</td></tr>
+<tr><td>TIMESTORM: 2009-2099</td><td>TIME2099</td></tr>
+<tr><td>TIMESTORM: 2009-2099 SPIDER-MAN</td><td>TIME2099SM</td></tr>
+<tr><td>TIMESTORM: 2009-2099 X-MEN</td><td>TIME2099X</td></tr>
+<tr><td>TOMB OF DRACULA</td><td>TOD</td></tr>
+<tr><td>TOMB OF DRACULA VOL. 2 (MAGAZINE)</td><td>TOD2</td></tr>
+<tr><td>TOMB OF DRACULA VOL. 3</td><td>TOD3</td></tr>
+<tr><td>TOMB OF DRACULA VOL. 4</td><td>TOD4</td></tr>
+<tr><td>TOMB OF DRACULA: THRONE OF BLOOD</td><td>TOD:TOB</td></tr>
+<tr><td>TOMB OF TERROR</td><td>TOT</td></tr>
+<tr><td>TONY STARK IRON MAN</td><td>TSIM</td></tr>
+<tr><td>TORCH</td><td>TORCH</td></tr>
+<tr><td>TOTALLY AWESOME HULK</td><td>TAH</td></tr>
+<tr><td>TOTALLY AWESOME HULK 1.MU</td><td>TAH 1.MU</td></tr>
+<tr><td>TOUGH KID SQUAD COMICS</td><td>TKIDSQC</td></tr>
+<tr><td>TOWER OF SHADOWS</td><td>TOWER</td></tr>
+<tr><td>TOXIN</td><td>TOXIN</td></tr>
+<tr><td>TRANSFORMERS UK</td><td>TRUK</td></tr>
+<tr><td>TRUE BELIEVERS</td><td>TRUEB</td></tr>
+<tr><td>TRUE COMPLETE MYSTERY</td><td>TCMPLTM</td></tr>
+<tr><td>TRUTH: RED WHITE &amp; BLACK</td><td>TRUTH</td></tr>
+<tr><td>TWELVE</td><td>TWELVE</td></tr>
+<tr><td>TWELVE: SPEARHEAD</td><td>TWELVE:SH</td></tr>
+<tr><td>TWO-GUN KID</td><td>TGK</td></tr>
+<tr><td>TWO-GUN KID: SUNSET RIDERS</td><td>TGK:SR</td></tr>
+<tr><td>TWO-GUN WESTERN</td><td>TGW</td></tr>
+<tr><td>TWO-GUN WESTERN NOVELS MAGAZINE VOL. 2</td><td>TGWNMAG2</td></tr>
+<tr><td>TYPHOID</td><td>TYPHOID</td></tr>
+<tr><td>TYPHOID FEVER: IRON FIST</td><td>TYPHOIDF:IF</td></tr>
+<tr><td>TYPHOID FEVER: SPIDER-MAN</td><td>TYPHOIDF:SM</td></tr>
+<tr><td>TYPHOID FEVER: X-MEN</td><td>TYPHOIDF:X</td></tr>
+<tr><td>U.S. 1</td><td>US1</td></tr>
+<tr><td>U.S.AVENGERS</td><td>U.S.A</td></tr>
+<tr><td>ULTIMATE ADVENTURES</td><td>ULTADV</td></tr>
+<tr><td>ULTIMATE ARMOR WARS</td><td>ULTARMOR</td></tr>
+<tr><td>ULTIMATE AVENGERS</td><td>ULTA</td></tr>
+<tr><td>ULTIMATE AVENGERS 2</td><td>ULTA2</td></tr>
+<tr><td>ULTIMATE AVENGERS 3</td><td>ULTA3</td></tr>
+<tr><td>ULTIMATE AVENGERS VS. NEW ULTIMATES</td><td>ULTAV.NULTS</td></tr>
+<tr><td>ULTIMATE CAPTAIN AMERICA</td><td>ULTCA</td></tr>
+<tr><td>ULTIMATE COMICS HAWKEYE</td><td>ULTCHAWK</td></tr>
+<tr><td>ULTIMATE COMICS IRON MAN</td><td>ULTCIM</td></tr>
+<tr><td>ULTIMATE COMICS SPIDER-MAN</td><td>ULTCSM</td></tr>
+<tr><td>ULTIMATE COMICS ULTIMATES</td><td>ULTCULTS</td></tr>
+<tr><td>ULTIMATE COMICS WOLVERINE</td><td>ULTCW</td></tr>
+<tr><td>ULTIMATE COMICS X-MEN</td><td>ULTCXM</td></tr>
+<tr><td>ULTIMATE DAREDEVIL &amp; ELEKTRA</td><td>ULTDD&amp;EL</td></tr>
+<tr><td>ULTIMATE DOOM</td><td>ULTDOOM</td></tr>
+<tr><td>ULTIMATE ELEKTRA</td><td>ULTEL</td></tr>
+<tr><td>ULTIMATE END</td><td>ULTEND</td></tr>
+<tr><td>ULTIMATE ENEMY</td><td>ULTENEMY</td></tr>
+<tr><td>ULTIMATE EXTINCTION</td><td>ULTEXT</td></tr>
+<tr><td>ULTIMATE FALLOUT</td><td>ULTFALL</td></tr>
+<tr><td>ULTIMATE FANTASTIC FOUR</td><td>ULTFF</td></tr>
+<tr><td>ULTIMATE FANTASTIC FOUR/X-MEN</td><td>ULTFF/XM</td></tr>
+<tr><td>ULTIMATE FF</td><td>ULTF.F.</td></tr>
+<tr><td>ULTIMATE HULK</td><td>ULTH</td></tr>
+<tr><td>ULTIMATE HUMAN</td><td>ULTHUMAN</td></tr>
+<tr><td>ULTIMATE MARVEL TEAM-UP</td><td>ULTM/TU</td></tr>
+<tr><td>ULTIMATE MYSTERY</td><td>ULTMYST</td></tr>
+<tr><td>ULTIMATE NEW ULTIMATES</td><td>ULTNULTS</td></tr>
+<tr><td>ULTIMATE NIGHTMARE</td><td>ULTNM</td></tr>
+<tr><td>ULTIMATE ORIGINS</td><td>ULTO</td></tr>
+<tr><td>ULTIMATE POWER</td><td>ULTP</td></tr>
+<tr><td>ULTIMATE SECRET</td><td>ULTSEC</td></tr>
+<tr><td>ULTIMATE SIX</td><td>ULTSIX</td></tr>
+<tr><td>ULTIMATE SPIDER-MAN</td><td>ULTSM</td></tr>
+<tr><td>ULTIMATE SPIDER-MAN VOL. 2</td><td>ULTSM2</td></tr>
+<tr><td>ULTIMATE THOR</td><td>ULTT</td></tr>
+<tr><td>ULTIMATE VISION</td><td>ULTVIS</td></tr>
+<tr><td>ULTIMATE WAR</td><td>ULTWAR</td></tr>
+<tr><td>ULTIMATE WOLVERINE VS. HULK</td><td>ULTWV.H</td></tr>
+<tr><td>ULTIMATE X</td><td>ULTX</td></tr>
+<tr><td>ULTIMATE X/4</td><td>ULTX/4</td></tr>
+<tr><td>ULTIMATE X-MEN</td><td>ULTXM</td></tr>
+<tr><td>ULTIMATE X-MEN/FANTASTIC FOUR</td><td>ULTXM/FF</td></tr>
+<tr><td>ULTIMATES</td><td>ULTS</td></tr>
+<tr><td>ULTIMATES 2</td><td>ULTS2</td></tr>
+<tr><td>ULTIMATES 3</td><td>ULTS3</td></tr>
+<tr><td>ULTIMATES VOL. 4</td><td>ULTS4</td></tr>
+<tr><td>ULTIMATES SAGA</td><td>ULTSSAGA</td></tr>
+<tr><td>ULTIMATES²</td><td>ULTS²</td></tr>
+<tr><td>ULTIMATUM</td><td>ULTIMATUM</td></tr>
+<tr><td>ULTIMATUM: FANTASTIC FOUR REQUIEM</td><td>ULTIMATUM:FFR</td></tr>
+<tr><td>ULTIMATUM: SPIDER-MAN REQUIEM</td><td>ULTIMATUM:SMR</td></tr>
+<tr><td>ULTIMATUM: X-MEN REQUIEM</td><td>ULTIMATUM:XMR</td></tr>
+<tr><td>ULTRA GIRL</td><td>UG</td></tr>
+<tr><td>ULTRAFORCE</td><td>ULTRAF</td></tr>
+<tr><td>ULTRAFORCE VOL. 2</td><td>ULTRAF2</td></tr>
+<tr><td>ULTRAFORCE ∞</td><td>ULTRAF ∞</td></tr>
+<tr><td>ULTRAFORCE/AVENGERS</td><td>ULTRAF/A</td></tr>
+<tr><td>ULTRAFORCE/AVENGERS PRELUDE</td><td>ULTRAF/AP</td></tr>
+<tr><td>ULTRAFORCE/SPIDER-MAN</td><td>ULTRAF/SM</td></tr>
+<tr><td>ULTRAVERSE DOUBLE FEATURE</td><td>ULTRAVDF</td></tr>
+<tr><td>ULTRAVERSE PREMIERE</td><td>ULTRAVP</td></tr>
+<tr><td>ULTRAVERSE UNLIMITED</td><td>ULTRAVU</td></tr>
+<tr><td>ULTRAVERSE YEAR ZERO: DEATH OF THE SQUAD</td><td>ULTRAVYZ</td></tr>
+<tr><td>ULTRAVERSE: FUTURE SHOCK</td><td>ULTRAV:FS</td></tr>
+<tr><td>ULTRON 1AU</td><td>ULTRON 1AU</td></tr>
+<tr><td>UNBEATABLE SQUIRREL GIRL</td><td>USQG</td></tr>
+<tr><td>UNBEATABLE SQUIRREL GIRL VOL. 2</td><td>USQG2</td></tr>
+<tr><td>UNBEATABLE SQUIRREL GIRL BEATS UP THE MARVEL UNIVERSE</td><td>USQGBUM/U</td></tr>
+<tr><td>UNBELIEVABLE GWENPOOL</td><td>UGP</td></tr>
+<tr><td>UNCANNY AVENGERS</td><td>UA</td></tr>
+<tr><td>UNCANNY AVENGERS VOL. 2</td><td>UA2</td></tr>
+<tr><td>UNCANNY AVENGERS VOL. 3</td><td>UA3</td></tr>
+<tr><td>UNCANNY AVENGERS 8AU</td><td>UA 8AU</td></tr>
+<tr><td>UNCANNY INHUMANS</td><td>UINHS</td></tr>
+<tr><td>UNCANNY INHUMANS 1.MU</td><td>UINHS 1.MU</td></tr>
+<tr><td>UNCANNY ORIGINS</td><td>UO</td></tr>
+<tr><td>UNCANNY TALES</td><td>UTALES</td></tr>
+<tr><td>UNCANNY X-FORCE</td><td>UXFOR</td></tr>
+<tr><td>UNCANNY X-FORCE VOL. 2</td><td>UXFOR2</td></tr>
+<tr><td>UNCANNY X-MEN</td><td>UX</td></tr>
+<tr><td>UNCANNY X-MEN VOL. 2</td><td>UX2</td></tr>
+<tr><td>UNCANNY X-MEN VOL. 3</td><td>UX3</td></tr>
+<tr><td>UNCANNY X-MEN VOL. 4</td><td>UX4</td></tr>
+<tr><td>UNCANNY X-MEN VOL. 5</td><td>UX5</td></tr>
+<tr><td>UNCANNY X-MEN SPECIAL</td><td>UX SPEC</td></tr>
+<tr><td>UNCANNY X-MEN/FANTASTIC FOUR</td><td>UX/FF</td></tr>
+<tr><td>UNCANNY X-MEN: HEROIC AGE</td><td>UX:HAGE</td></tr>
+<tr><td>UNCANNY X-MEN: WINTER'S END</td><td>UX:WEND</td></tr>
+<tr><td>UNDERWORLD</td><td>UW</td></tr>
+<tr><td>UNION JACK</td><td>UJ</td></tr>
+<tr><td>UNION JACK VOL. 2</td><td>UJ2</td></tr>
+<tr><td>UNIVERSE X</td><td>UNIX</td></tr>
+<tr><td>UNIVERSE X X</td><td>UNIX X</td></tr>
+<tr><td>UNLIMITED ACCESS</td><td>UACC</td></tr>
+<tr><td>UNSTOPPABLE WASP</td><td>UWASP</td></tr>
+<tr><td>UNSTOPPABLE WASP VOL. 2</td><td>UWASP2</td></tr>
+<tr><td>UNTOLD LEGEND OF CAPTAIN MARVEL</td><td>ULCM</td></tr>
+<tr><td>UNTOLD TALES OF PUNISHER MAX</td><td>UTPMAX</td></tr>
+<tr><td>UNTOLD TALES OF SPIDER-MAN</td><td>UTSM</td></tr>
+<tr><td>UNTOLD TALES OF SPIDER-MAN: STRANGE ENCOUNTERS</td><td>UTSM:SE</td></tr>
+<tr><td>UNTOLD TALES OF THE NEW UNIVERSE: D.P.7</td><td>UTNU:D.P.7</td></tr>
+<tr><td>UNTOLD TALES OF THE NEW UNIVERSE: JUSTICE</td><td>UTNU:JUST</td></tr>
+<tr><td>UNTOLD TALES OF THE NEW UNIVERSE: NIGHTMASK</td><td>UTNU:NMASK</td></tr>
+<tr><td>UNTOLD TALES OF THE NEW UNIVERSE: PSI-FORCE</td><td>UTNU:PF</td></tr>
+<tr><td>UNTOLD TALES OF THE NEW UNIVERSE: STAR BRAND</td><td>UTNU:SBRAND</td></tr>
+<tr><td>UNWORTHY THOR</td><td>UNWT</td></tr>
+<tr><td>USA COMICS</td><td>USAC</td></tr>
+<tr><td>USA COMICS 70TH ANNIVERSARY SPECIAL</td><td>USAC70A</td></tr>
+<tr><td>USAGENT</td><td>USA</td></tr>
+<tr><td>USAGENT VOL. 2</td><td>USA2</td></tr>
+<tr><td>VALKYRIE</td><td>VAL</td></tr>
+<tr><td>VALKYRIE VOL. 2</td><td>VAL2</td></tr>
+<tr><td>VAMPIRE TALES</td><td>VT</td></tr>
+<tr><td>VAULT OF SPIDERS</td><td>VAULTOS</td></tr>
+<tr><td>VENGEANCE</td><td>VENGEANCE</td></tr>
+<tr><td>VENGEANCE OF THE MOON KNIGHT</td><td>VOMK</td></tr>
+<tr><td>VENOM</td><td>V</td></tr>
+<tr><td>VENOM VOL. 2</td><td>V2</td></tr>
+<tr><td>VENOM VOL. 3</td><td>V3</td></tr>
+<tr><td>VENOM VOL. 4</td><td>V4</td></tr>
+<tr><td>VENOM SUPER SPECIAL</td><td>V SSPEC</td></tr>
+<tr><td>VENOM VS. CARNAGE</td><td>VV.CRNG</td></tr>
+<tr><td>VENOM: ALONG CAME A SPIDER</td><td>V:ACS</td></tr>
+<tr><td>VENOM: CARNAGE UNLEASHED</td><td>V:CRNGU</td></tr>
+<tr><td>VENOM: DARK ORIGIN</td><td>V:DO</td></tr>
+<tr><td>VENOM: ENEMY WITHIN</td><td>V:EW</td></tr>
+<tr><td>VENOM: FINALE</td><td>V:F</td></tr>
+<tr><td>VENOM: FIRST HOST</td><td>V:FH</td></tr>
+<tr><td>VENOM: FUNERAL PYRE</td><td>V:FP</td></tr>
+<tr><td>VENOM: HUNGER</td><td>V:HUNGER</td></tr>
+<tr><td>VENOM: HUNTED</td><td>V:HUNTED</td></tr>
+<tr><td>VENOM: LETHAL PROTECTOR</td><td>V:LP</td></tr>
+<tr><td>VENOM: LICENSE TO KILL</td><td>V:LTK</td></tr>
+<tr><td>VENOM: MACE</td><td>V:MACE</td></tr>
+<tr><td>VENOM: MADNESS</td><td>V:MADNESS</td></tr>
+<tr><td>VENOM: NIGHTS OF VENGEANCE</td><td>V:NOV</td></tr>
+<tr><td>VENOM: ON TRIAL</td><td>V:OT</td></tr>
+<tr><td>VENOM: SEED OF DARKNESS</td><td>V:SOD</td></tr>
+<tr><td>VENOM: SEPARATION ANXIETY</td><td>V:SA</td></tr>
+<tr><td>VENOM: SIGN OF THE BOSS</td><td>V:SB</td></tr>
+<tr><td>VENOM: SINNER TAKES ALL</td><td>V:STA</td></tr>
+<tr><td>VENOM: SPACE KNIGHT</td><td>V:SK</td></tr>
+<tr><td>VENOM: TOOTH &amp; CLAW</td><td>V:TC</td></tr>
+<tr><td>VENOMIZED</td><td>VIZED</td></tr>
+<tr><td>VENOMVERSE</td><td>VVERSE</td></tr>
+<tr><td>VENOMVERSE: WAR STORIES</td><td>VVERSE:WS</td></tr>
+<tr><td>VENUS</td><td>VENUS</td></tr>
+<tr><td>VILLAINS FOR HIRE</td><td>VFH</td></tr>
+<tr><td>VISION</td><td>VIS</td></tr>
+<tr><td>VISION VOL. 2</td><td>VIS2</td></tr>
+<tr><td>VISION VOL. 3</td><td>VIS3</td></tr>
+<tr><td>VISION &amp; SCARLET WITCH</td><td>VIS&amp;SCRW</td></tr>
+<tr><td>VISION &amp; SCARLET WITCH VOL. 2</td><td>VIS&amp;SCRW2</td></tr>
+<tr><td>VOTE LOKI</td><td>VLOKI</td></tr>
+<tr><td>WAKANDA FOREVER: AMAZING SPIDER-MAN</td><td>WKNDFVR:ASM</td></tr>
+<tr><td>WAKANDA FOREVER: AVENGERS</td><td>WKNDFVR:A</td></tr>
+<tr><td>WAKANDA FOREVER: X-MEN</td><td>WKNDFVR:X</td></tr>
+<tr><td>WAR</td><td>WAR</td></tr>
+<tr><td>WAR COMICS</td><td>WARC</td></tr>
+<tr><td>WAR IS HELL</td><td>WIH</td></tr>
+<tr><td>WAR IS HELL: PHANTOM EAGLE</td><td>WIH:PE</td></tr>
+<tr><td>WAR MACHINE</td><td>WARM</td></tr>
+<tr><td>WAR MACHINE VOL. 2</td><td>WARM2</td></tr>
+<tr><td>WAR MACHINE ASHCAN</td><td>WARM ASH</td></tr>
+<tr><td>WAR OF KINGS</td><td>WOK</td></tr>
+<tr><td>WAR OF KINGS: ASCENSION</td><td>WOK:A</td></tr>
+<tr><td>WAR OF KINGS: DARKHAWK</td><td>WOK:DHAWK</td></tr>
+<tr><td>WAR OF KINGS: SAVAGE WORLD OF SKAAR</td><td>WOK:SAVWSKAAR</td></tr>
+<tr><td>WAR OF KINGS: WARRIORS</td><td>WOK:WARR</td></tr>
+<tr><td>WAR OF KINGS: WHO WILL RULE?</td><td>WOK:WWR?</td></tr>
+<tr><td>WAR OF THE REALMS</td><td>WOTR</td></tr>
+<tr><td>WAR OF THE REALMS: JOURNEY INTO MYSTERY</td><td>WOTR:JIM</td></tr>
+<tr><td>WAR OF THE REALMS: NEW AGENTS OF ATLAS</td><td>WOTR:NAOATLAS</td></tr>
+<tr><td>WAR OF THE REALMS: OMEGA</td><td>WOTR:O</td></tr>
+<tr><td>WAR OF THE REALMS: PUNISHER</td><td>WOTR:P</td></tr>
+<tr><td>WAR OF THE REALMS: SPIDER-MAN &amp; THE LEAGUE OF REALMS</td><td>WOTR:SM&amp;LOR</td></tr>
+<tr><td>WAR OF THE REALMS: UNCANNY X-MEN</td><td>WOTR:UX</td></tr>
+<tr><td>WAR OF THE REALMS: WAR SCROLLS</td><td>WOTR:WS</td></tr>
+<tr><td>WAR OF THE REALMS STRIKEFORCE: DARK ELF REALM</td><td>WOTRS:DER</td></tr>
+<tr><td>WAR OF THE REALMS STRIKEFORCE: THE LAND OF GIANTS</td><td>WOTRS:LOG</td></tr>
+<tr><td>WAR OF THE REALMS STRIKEFORCE: WAR AVENGERS</td><td>WOTRS:WA</td></tr>
+<tr><td>WARHEADS</td><td>WARH</td></tr>
+<tr><td>WARHEADS: BLACK DAWN</td><td>WARH:BD</td></tr>
+<tr><td>WARLOCK</td><td>WLOCK</td></tr>
+<tr><td>WARLOCK VOL. 3</td><td>WLOCK3</td></tr>
+<tr><td>WARLOCK VOL. 4</td><td>WLOCK4</td></tr>
+<tr><td>WARLOCK VOL. 5</td><td>WLOCK5</td></tr>
+<tr><td>WARLOCK &amp; THE INFINITY WATCH</td><td>WLOCK&amp;TIW</td></tr>
+<tr><td>WARLOCK CHRONICLES</td><td>WLOCKC</td></tr>
+<tr><td>WARRIORS THREE</td><td>WARRSTHREE</td></tr>
+<tr><td>WARSTRIKE</td><td>WSTRK</td></tr>
+<tr><td>WEAPON 0/SILVER SURFER</td><td>WEAPON0/SS</td></tr>
+<tr><td>WEAPON H</td><td>WH</td></tr>
+<tr><td>WEAPON X</td><td>WX</td></tr>
+<tr><td>WEAPON X VOL. 2</td><td>WX2</td></tr>
+<tr><td>WEAPON X VOL. 3</td><td>WX3</td></tr>
+<tr><td>WEAPON X NOIR</td><td>WXNOIR</td></tr>
+<tr><td>WEAPON X: DAYS OF FUTURE NOW</td><td>WX:DOFN</td></tr>
+<tr><td>WEAPON X: DRAFT - AGENT ZERO</td><td>WX:DAZERO</td></tr>
+<tr><td>WEAPON X: KANE</td><td>WX:KANE</td></tr>
+<tr><td>WEAPON X: MARROW</td><td>WX:MARROW</td></tr>
+<tr><td>WEAPON X: SAURON</td><td>WX:SAURON</td></tr>
+<tr><td>WEAPON X: WILD CHILD</td><td>WX:WC</td></tr>
+<tr><td>WEAPONS OF MUTANT DESTRUCTION: ALPHA</td><td>WMD:A</td></tr>
+<tr><td>WEB OF SCARLET SPIDER</td><td>WOSCRS</td></tr>
+<tr><td>WEB OF SPIDER-MAN</td><td>WOSM</td></tr>
+<tr><td>WEB OF SPIDER-MAN VOL. 2</td><td>WOSM2</td></tr>
+<tr><td>WEB OF SPIDER-MAN SUPER SPECIAL</td><td>WOSM SSPEC</td></tr>
+<tr><td>WEB OF VENOM: CARNAGE BORN</td><td>WOV:CRNGB</td></tr>
+<tr><td>WEB OF VENOM: FUNERAL PYRE</td><td>WOV:FP</td></tr>
+<tr><td>WEB OF VENOM: VENOM UNLEASHED</td><td>WOV:VU</td></tr>
+<tr><td>WEB WARRIORS</td><td>WWARR</td></tr>
+<tr><td>WEBSPINNERS: TALES OF SPIDER-MAN</td><td>WTSM</td></tr>
+<tr><td>WEDDING OF DRACULA</td><td>WEDOD</td></tr>
+<tr><td>WEIRD WONDER TALES</td><td>WWT</td></tr>
+<tr><td>WEIRDWORLD</td><td>WWORLD</td></tr>
+<tr><td>WEIRDWORLD VOL. 2</td><td>WWORLD2</td></tr>
+<tr><td>WEREWOLF BY NIGHT</td><td>WBN</td></tr>
+<tr><td>WEST COAST AVENGERS</td><td>WCA</td></tr>
+<tr><td>WEST COAST AVENGERS VOL. 2</td><td>WCA2</td></tr>
+<tr><td>WEST COAST AVENGERS VOL. 3</td><td>WCA3</td></tr>
+<tr><td>WESTERN GUNFIGHTERS</td><td>WG</td></tr>
+<tr><td>WESTERN GUNFIGHTERS VOL. 2</td><td>WG2</td></tr>
+<tr><td>WESTERN TEAM-UP</td><td>WTU</td></tr>
+<tr><td>WHAT IF?</td><td>WI?</td></tr>
+<tr><td>WHAT IF? VOL. 2</td><td>WI?2</td></tr>
+<tr><td>WHAT IF? AMAZING SPIDER-MAN: GRIM HUNT</td><td>WI?ASM:GH</td></tr>
+<tr><td>WHAT IF? ANNIHILATION</td><td>WI?ANNI</td></tr>
+<tr><td>WHAT IF? ASTONISHING X-MEN</td><td>WI?ASTONX</td></tr>
+<tr><td>WHAT IF? AVENGERS DISASSEMBLED</td><td>WI?AD</td></tr>
+<tr><td>WHAT IF? CAPTAIN AMERICA</td><td>WI?CA</td></tr>
+<tr><td>WHAT IF? CIVIL WAR</td><td>WI?CW</td></tr>
+<tr><td>WHAT IF? DAREDEVIL</td><td>WI?DD</td></tr>
+<tr><td>WHAT IF? DARK REIGN</td><td>WI?DR</td></tr>
+<tr><td>WHAT IF? DOCTOR DOOM HAD BECOME THE THING?</td><td>WI?DOOMTG</td></tr>
+<tr><td>WHAT IF? FALLEN SON</td><td>WI?FS</td></tr>
+<tr><td>WHAT IF? FANTASTIC FOUR</td><td>WI?FF</td></tr>
+<tr><td>WHAT IF? GENERAL ROSS HAD BECOME THE HULK?</td><td>WI?GENRH</td></tr>
+<tr><td>WHAT IF? IRON MAN: DEMON IN AN ARMOR</td><td>WI?IM</td></tr>
+<tr><td>WHAT IF? JESSICA JONES HAD JOINED THE AVENGERS?</td><td>WI?JJA</td></tr>
+<tr><td>WHAT IF? KAREN PAGE HAD LIVED?</td><td>WI?KPL</td></tr>
+<tr><td>WHAT IF? MAGNETO HAD FORMED THE X-MEN WITH PROFESSOR X?</td><td>WI?MPX</td></tr>
+<tr><td>WHAT IF? MIKE WIERINGO</td><td>WI?WIERINGO</td></tr>
+<tr><td>WHAT IF? NEWER FANTASTIC FOUR</td><td>WI?NFF</td></tr>
+<tr><td>WHAT IF? SECRET INVASION</td><td>WI?SECINV</td></tr>
+<tr><td>WHAT IF? SPECIAL</td><td>WI? SPEC</td></tr>
+<tr><td>WHAT IF? SPIDER-MAN THE OTHER</td><td>WI?SMO</td></tr>
+<tr><td>WHAT IF? SPIDER-MAN VS. WOLVERINE</td><td>WI?SMV.W</td></tr>
+<tr><td>WHAT IF? SUB-MARINER</td><td>WI?SUB</td></tr>
+<tr><td>WHAT IF? THOR</td><td>WI?T</td></tr>
+<tr><td>WHAT IF? WOLVERINE</td><td>WI?W</td></tr>
+<tr><td>WHAT IF? WOLVERINE: FATHER</td><td>WI?W:F</td></tr>
+<tr><td>WHAT IF? WORLD WAR HULK</td><td>WI?WWH</td></tr>
+<tr><td>WHAT IF? X-MEN AGE OF APOCALYPSE</td><td>WI?XAOA</td></tr>
+<tr><td>WHAT IF? X-MEN: RISE AND FALL OF THE SHI'AR EMPIRE</td><td>WI?XRFSE</td></tr>
+<tr><td>WHAT THE--?!</td><td>WT?</td></tr>
+<tr><td>WHERE MONSTERS DWELL</td><td>WMD</td></tr>
+<tr><td>WHERE MONSTERS DWELL VOL. 2</td><td>WMD2</td></tr>
+<tr><td>WHITE TIGER</td><td>WT</td></tr>
+<tr><td>WIDOWMAKER</td><td>WMAKER</td></tr>
+<tr><td>WILD THING</td><td>WILDT</td></tr>
+<tr><td>WILD THING VOL. 2</td><td>WILDT2</td></tr>
+<tr><td>WILD WESTERN</td><td>WWESTERN</td></tr>
+<tr><td>WINTER SOLDIER</td><td>WSOL</td></tr>
+<tr><td>WINTER SOLDIER VOL. 2</td><td>WSOL2</td></tr>
+<tr><td>WINTER SOLDIER: BITTER MARCH</td><td>WSOL:BM</td></tr>
+<tr><td>WINTER SOLDIER: WINTER KILLS</td><td>WSOL:WK</td></tr>
+<tr><td>WISDOM</td><td>WSDM</td></tr>
+<tr><td>WITCH HUNTER</td><td>WHUNT</td></tr>
+<tr><td>WITCHBLADE</td><td>WITCHBLADE</td></tr>
+<tr><td>WITCHBLADE/ELEKTRA</td><td>WITCHBLADE/EL</td></tr>
+<tr><td>WITCHES</td><td>WITCHES</td></tr>
+<tr><td>WIZARD MINI-COMIC</td><td>WMC</td></tr>
+<tr><td>WOLFPACK</td><td>WPACK</td></tr>
+<tr><td>WOLVERINE</td><td>W</td></tr>
+<tr><td>WOLVERINE VOL. 2</td><td>W2</td></tr>
+<tr><td>WOLVERINE VOL. 3</td><td>W3</td></tr>
+<tr><td>WOLVERINE VOL. 4</td><td>W4</td></tr>
+<tr><td>WOLVERINE VOL. 5</td><td>W5</td></tr>
+<tr><td>WOLVERINE VOL. 6</td><td>W6</td></tr>
+<tr><td>WOLVERINE &amp; BLACK CAT: CLAWS II</td><td>W&amp;BCAT:CLAWSII</td></tr>
+<tr><td>WOLVERINE &amp; JUBILEE</td><td>W&amp;JUB</td></tr>
+<tr><td>WOLVERINE &amp; POWER PACK</td><td>W&amp;PP</td></tr>
+<tr><td>WOLVERINE &amp; X-MEN</td><td>W&amp;X</td></tr>
+<tr><td>WOLVERINE &amp; X-MEN VOL. 2</td><td>W&amp;X2</td></tr>
+<tr><td>WOLVERINE &amp; X-MEN 27AU</td><td>W&amp;X 27AU</td></tr>
+<tr><td>WOLVERINE &amp; X-MEN: ALPHA &amp; OMEGA</td><td>W&amp;X:A&amp;O</td></tr>
+<tr><td>WOLVERINE NOIR</td><td>WNOIR</td></tr>
+<tr><td>WOLVERINE/CABLE: GUTS AND GLORY</td><td>W/C</td></tr>
+<tr><td>WOLVERINE/CAPTAIN AMERICA</td><td>W/CA</td></tr>
+<tr><td>WOLVERINE/DEADPOOL: DECOY</td><td>W/DP:D</td></tr>
+<tr><td>WOLVERINE/DOOP</td><td>W/DOOP</td></tr>
+<tr><td>WOLVERINE/GAMBIT: VICTIMS</td><td>W/GAM:VIC</td></tr>
+<tr><td>WOLVERINE/HERCULES: MYTHS, MONSTERS &amp; MUTANTS</td><td>W/HRC:MMM</td></tr>
+<tr><td>WOLVERINE/HULK</td><td>W/H</td></tr>
+<tr><td>WOLVERINE/NICK FURY: SCORPIO RISING</td><td>W/NF:SR</td></tr>
+<tr><td>WOLVERINE/PUNISHER</td><td>W/P</td></tr>
+<tr><td>WOLVERINE/PUNISHER DAMAGING EVIDENCE</td><td>W/P:DE</td></tr>
+<tr><td>WOLVERINE/PUNISHER REVELATION</td><td>W/P:R</td></tr>
+<tr><td>WOLVERINE/WITCHBLADE</td><td>W/WITCHBLADE</td></tr>
+<tr><td>WOLVERINE: AMAZING IMMORTAL MAN &amp; OTHER BLOODY TALES</td><td>W:AIM</td></tr>
+<tr><td>WOLVERINE: AMAZING IMMORTAL MAN &amp; OTHER BLOODY TALES (TPB)</td><td>W:AIM TPB</td></tr>
+<tr><td>WOLVERINE: ANNIVERSARY</td><td>W:ANN</td></tr>
+<tr><td>WOLVERINE: BEST THERE IS</td><td>W:BEST</td></tr>
+<tr><td>WOLVERINE: BLACK RIO</td><td>W:BR</td></tr>
+<tr><td>WOLVERINE: BLOODLUST</td><td>W:BLOODLUST</td></tr>
+<tr><td>WOLVERINE: BLOODY CHOICES</td><td>W:BC</td></tr>
+<tr><td>WOLVERINE: CHOP SHOP</td><td>W:CS</td></tr>
+<tr><td>WOLVERINE: DANGEROUS GAMES</td><td>W:DG</td></tr>
+<tr><td>WOLVERINE: DAYS OF FUTURE PAST</td><td>W:DOFP</td></tr>
+<tr><td>WOLVERINE: DEBT OF DEATH</td><td>W:DOD</td></tr>
+<tr><td>WOLVERINE: DOOMBRINGER</td><td>W:DB</td></tr>
+<tr><td>WOLVERINE: END</td><td>W:E</td></tr>
+<tr><td>WOLVERINE: EVILUTION</td><td>W:EVIL</td></tr>
+<tr><td>WOLVERINE: FIREBREAK</td><td>W:FB</td></tr>
+<tr><td>WOLVERINE: FIRST CLASS</td><td>W:FC</td></tr>
+<tr><td>WOLVERINE: FLIES TO A SPIDER</td><td>W:FTS</td></tr>
+<tr><td>WOLVERINE: GLOBAL JEOPARDY</td><td>W:GJ</td></tr>
+<tr><td>WOLVERINE: IN THE FLESH</td><td>W:FLESH</td></tr>
+<tr><td>WOLVERINE: INFINITY WATCH</td><td>W:IW</td></tr>
+<tr><td>WOLVERINE: INNER FURY</td><td>W:IF</td></tr>
+<tr><td>WOLVERINE: JAPAN'S MOST WANTED</td><td>W:JMW</td></tr>
+<tr><td>WOLVERINE: JUNGLE ADVENTURE</td><td>W:JA</td></tr>
+<tr><td>WOLVERINE: KILLING</td><td>W:KILLING</td></tr>
+<tr><td>WOLVERINE: KILLING MADE SIMPLE</td><td>W:KMS</td></tr>
+<tr><td>WOLVERINE: KNIGHT OF TERRA</td><td>W:KT</td></tr>
+<tr><td>WOLVERINE: MANIFEST DESTINY</td><td>W:MD</td></tr>
+<tr><td>WOLVERINE: MR. X</td><td>W:MRX</td></tr>
+<tr><td>WOLVERINE: NETSUKE</td><td>W:NETSUKE</td></tr>
+<tr><td>WOLVERINE: OLD MAN LOGAN GIANT-SIZE</td><td>W:OML</td></tr>
+<tr><td>WOLVERINE: ORIGIN</td><td>O</td></tr>
+<tr><td>WOLVERINE: ORIGINS</td><td>W:O</td></tr>
+<tr><td>WOLVERINE: RAHNE OF TERRA</td><td>W:RT</td></tr>
+<tr><td>WOLVERINE: REVOLVER</td><td>W:REV</td></tr>
+<tr><td>WOLVERINE: ROAD TO HELL</td><td>W:RTH</td></tr>
+<tr><td>WOLVERINE: SAUDADE</td><td>W:SAUDADE</td></tr>
+<tr><td>WOLVERINE: SAVAGE</td><td>W:SAV</td></tr>
+<tr><td>WOLVERINE: SNIKT</td><td>W:SNIKT</td></tr>
+<tr><td>WOLVERINE: SON OF CANADA</td><td>W:SOC</td></tr>
+<tr><td>WOLVERINE: SOULTAKER</td><td>W:SOUL</td></tr>
+<tr><td>WOLVERINE: SWITCHBACK</td><td>W:SB</td></tr>
+<tr><td>WOLVERINE: UNDER THE BOARDWALK</td><td>W:UB</td></tr>
+<tr><td>WOLVERINE: WEAPON X</td><td>W:WX</td></tr>
+<tr><td>WOLVERINE: WENDIGO!</td><td>W:WEN</td></tr>
+<tr><td>WOLVERINE: XISLE</td><td>W:XISLE</td></tr>
+<tr><td>WOLVERINES</td><td>WS</td></tr>
+<tr><td>WOMEN OF MARVEL</td><td>WOM/</td></tr>
+<tr><td>WONDER MAN</td><td>WM</td></tr>
+<tr><td>WONDER MAN VOL. 2</td><td>WM2</td></tr>
+<tr><td>WONDER MAN VOL. 3</td><td>WM3</td></tr>
+<tr><td>WORLD WAR HULK</td><td>WWH</td></tr>
+<tr><td>WORLD WAR HULK AFTERSMASH: WARBOUND</td><td>WWHA:WARB</td></tr>
+<tr><td>WORLD WAR HULK PROLOGUE: WORLD BREAKER</td><td>WWHP:WB</td></tr>
+<tr><td>WORLD WAR HULK: AFTERSMASH</td><td>WWH:A</td></tr>
+<tr><td>WORLD WAR HULK: AFTERSMASH! DAMAGE CONTROL</td><td>WWHA:DAMCON</td></tr>
+<tr><td>WORLD WAR HULK: FRONT LINE</td><td>WWH:FL</td></tr>
+<tr><td>WORLD WAR HULK: GAMMA CORPS</td><td>WWH:GC</td></tr>
+<tr><td>WORLD WAR HULK: X-MEN</td><td>WWH:X</td></tr>
+<tr><td>WORLD WAR HULKS</td><td>WWHS</td></tr>
+<tr><td>WORLD WAR HULKS: CAPTAIN AMERICA VS. WOLVERINE</td><td>WWHS:CAV.W</td></tr>
+<tr><td>WORLD WAR HULKS: SPIDER-MAN VS. THOR</td><td>WWHS:SMV.T</td></tr>
+<tr><td>WRATH</td><td>WRATH</td></tr>
+<tr><td>WYATT EARP</td><td>WEARP</td></tr>
+<tr><td>X/4</td><td>X/FF</td></tr>
+<tr><td>X-23</td><td>X-23</td></tr>
+<tr><td>X-23 VOL. 2</td><td>X-23V2</td></tr>
+<tr><td>X-23 VOL. 3</td><td>X-23V3</td></tr>
+<tr><td>X-23 VOL. 4</td><td>X-23V4</td></tr>
+<tr><td>X-23: TARGET X</td><td>X-23:TX</td></tr>
+<tr><td>X-51</td><td>X51</td></tr>
+<tr><td>X-BABIES</td><td>XB</td></tr>
+<tr><td>X-BABIES VOL. 2</td><td>XB2</td></tr>
+<tr><td>X-BABIES REBORN</td><td>XBR</td></tr>
+<tr><td>X-CALIBRE</td><td>X-CAL</td></tr>
+<tr><td>X-CLUB</td><td>XCLUB</td></tr>
+<tr><td>X-FACTOR</td><td>XF</td></tr>
+<tr><td>X-FACTOR VOL. 2</td><td>XF2</td></tr>
+<tr><td>X-FACTOR VOL. 3</td><td>XF3</td></tr>
+<tr><td>X-FACTOR: LAYLA MILLER</td><td>XF:LM</td></tr>
+<tr><td>X-FACTOR: PRISONER OF LOVE</td><td>XF:PL</td></tr>
+<tr><td>X-FACTOR: QUICK &amp; THE DEAD</td><td>XF:Q&amp;D</td></tr>
+<tr><td>X-FORCE</td><td>XFOR</td></tr>
+<tr><td>X-FORCE VOL. 2</td><td>XFOR2</td></tr>
+<tr><td>X-FORCE VOL. 3</td><td>XFOR3</td></tr>
+<tr><td>X-FORCE VOL. 4</td><td>XFOR4</td></tr>
+<tr><td>X-FORCE VOL. 5</td><td>XFOR5</td></tr>
+<tr><td>X-FORCE &amp; CABLE</td><td>XFOR&amp;C</td></tr>
+<tr><td>X-FORCE/CABLE: MESSIAH WAR</td><td>XFOR/C:MW</td></tr>
+<tr><td>X-FORCE/CHAMPIONS</td><td>XFOR/CHMPS</td></tr>
+<tr><td>X-FORCE/YOUNGBLOOD</td><td>XFOR/YOUNGBLOOD</td></tr>
+<tr><td>X-FORCE: AIN'T NO DOG</td><td>XFOR:AND</td></tr>
+<tr><td>X-FORCE: SEX &amp; VIOLENCE</td><td>XFOR:S&amp;V</td></tr>
+<tr><td>X-FORCE: SHATTERSTAR</td><td>XFOR:SRSTAR</td></tr>
+<tr><td>X-INFERNUS</td><td>XINF</td></tr>
+<tr><td>X-MAN</td><td>XM</td></tr>
+<tr><td>X-MAN/INCREDIBLE HULK</td><td>XM/IH</td></tr>
+<tr><td>X-MAN: ALL SAINTS DAY</td><td>XM:ASD</td></tr>
+<tr><td>X-MEN</td><td>X</td></tr>
+<tr><td>X-MEN VOL. 2</td><td>X2</td></tr>
+<tr><td>X-MEN VOL. 3</td><td>X3</td></tr>
+<tr><td>X-MEN VOL. 4</td><td>X4</td></tr>
+<tr><td>X-MEN '92</td><td>X92</td></tr>
+<tr><td>X-MEN '92 VOL. 2</td><td>X92V2</td></tr>
+<tr><td>X-MEN 2099</td><td>X2099</td></tr>
+<tr><td>X-MEN 2099 SPECIAL</td><td>X2099 SPEC</td></tr>
+<tr><td>X-MEN 2099: OASIS</td><td>X2099:O</td></tr>
+<tr><td>X-MEN &amp; ALPHA FLIGHT</td><td>X&amp;AF</td></tr>
+<tr><td>X-MEN &amp; ALPHA FLIGHT VOL. 2</td><td>X&amp;AF2</td></tr>
+<tr><td>X-MEN &amp; CLAN DESTINE</td><td>X&amp;CLAN</td></tr>
+<tr><td>X-MEN &amp; MICRONAUTS</td><td>X&amp;MICRO</td></tr>
+<tr><td>X-MEN &amp; POWER PACK</td><td>X&amp;PP</td></tr>
+<tr><td>X-MEN &amp; SPIDER-MAN</td><td>X&amp;SM</td></tr>
+<tr><td>X-MEN CHRONICLES</td><td>XCHRON</td></tr>
+<tr><td>X-MEN FOREVER</td><td>XFVR</td></tr>
+<tr><td>X-MEN GIANT-SIZE</td><td>XGS</td></tr>
+<tr><td>X-MEN GOLD</td><td>XG</td></tr>
+<tr><td>X-MEN NOIR</td><td>XNOIR</td></tr>
+<tr><td>X-MEN NOIR: MARK OF CAIN</td><td>XNOIR:CAIN</td></tr>
+<tr><td>X-MEN ORIGINS: COLOSSUS</td><td>XO:COL</td></tr>
+<tr><td>X-MEN ORIGINS: CYCLOPS</td><td>XO:CY</td></tr>
+<tr><td>X-MEN ORIGINS: DEADPOOL</td><td>XO:DP</td></tr>
+<tr><td>X-MEN ORIGINS: EMMA FROST</td><td>XO:EFROST</td></tr>
+<tr><td>X-MEN ORIGINS: GAMBIT</td><td>XO:GAM</td></tr>
+<tr><td>X-MEN ORIGINS: ICEMAN</td><td>XO:ICE</td></tr>
+<tr><td>X-MEN ORIGINS: JEAN GREY</td><td>XO:JG</td></tr>
+<tr><td>X-MEN ORIGINS: SABRETOOTH</td><td>XO:SABRE</td></tr>
+<tr><td>X-MEN ORIGINS: WOLVERINE</td><td>XO:W</td></tr>
+<tr><td>X-MEN PRIME</td><td>XPRIME</td></tr>
+<tr><td>X-MEN SECOND COMING: PREPARE</td><td>SECCOM:P</td></tr>
+<tr><td>X-MEN SPOTLIGHT ON STARJAMMERS</td><td>XSOSJAM</td></tr>
+<tr><td>X-MEN UNLIMITED</td><td>XU</td></tr>
+<tr><td>X-MEN UNLIMITED VOL. 2</td><td>XU2</td></tr>
+<tr><td>X-MEN VS. AGENTS OF ATLAS</td><td>XV.AOATLAS</td></tr>
+<tr><td>X-MEN VS. AVENGERS</td><td>XV.A</td></tr>
+<tr><td>X-MEN VS. BROOD</td><td>XV.BROOD</td></tr>
+<tr><td>X-MEN VS. HULK</td><td>XV.H</td></tr>
+<tr><td>X-MEN/DOCTOR DOOM</td><td>X/DOOM</td></tr>
+<tr><td>X-MEN/FANTASTIC FOUR</td><td>X/FF</td></tr>
+<tr><td>X-MEN/RUNAWAYS</td><td>X/RUN</td></tr>
+<tr><td>X-MEN: 198</td><td>X:198</td></tr>
+<tr><td>X-MEN: ALPHA</td><td>X:ALPHA</td></tr>
+<tr><td>X-MEN: APOCALYPSE VS. DRACULA</td><td>X:AV.D</td></tr>
+<tr><td>X-MEN: BATTLE OF THE ATOM</td><td>X:BOTA</td></tr>
+<tr><td>X-MEN: BLACK - EMMA FROST</td><td>X:BLK-EFROST</td></tr>
+<tr><td>X-MEN: BLACK - JUGGERNAUT</td><td>X:BLK-JUG</td></tr>
+<tr><td>X-MEN: BLACK - MAGNETO</td><td>X:BLK-M</td></tr>
+<tr><td>X-MEN: BLACK - MOJO</td><td>X:BLK-MOJO</td></tr>
+<tr><td>X-MEN: BLACK - MYSTIQUE</td><td>X:BLK-MSTQ</td></tr>
+<tr><td>X-MEN: BLIND SCIENCE</td><td>X:BS</td></tr>
+<tr><td>X-MEN: BLUE</td><td>X:B</td></tr>
+<tr><td>X-MEN: COLOSSUS BLOODLINE</td><td>X:COLB</td></tr>
+<tr><td>X-MEN: DEADLY GENESIS</td><td>X:DG</td></tr>
+<tr><td>X-MEN: DECLASSIFIED</td><td>X:D</td></tr>
+<tr><td>X-MEN: DIE BY THE SWORD</td><td>X:DBS</td></tr>
+<tr><td>X-MEN: DIVIDED WE STAND</td><td>X:DWS</td></tr>
+<tr><td>X-MEN: EMPEROR VULCAN</td><td>X:EV</td></tr>
+<tr><td>X-MEN: ENDANGERED SPECIES</td><td>X:ES</td></tr>
+<tr><td>X-MEN: FIRST CLASS</td><td>X:FC</td></tr>
+<tr><td>X-MEN: GOLD</td><td>X:G</td></tr>
+<tr><td>X-MEN: HELLBOUND</td><td>X:HB</td></tr>
+<tr><td>X-MEN: HELLFIRE CLUB</td><td>X:HC</td></tr>
+<tr><td>X-MEN: HIDDEN YEARS</td><td>X:HY</td></tr>
+<tr><td>X-MEN: KINGBREAKER</td><td>X:KB</td></tr>
+<tr><td>X-MEN: LEGACY</td><td>X:L</td></tr>
+<tr><td>X-MEN: LEGACY VOL. 2</td><td>X:L2</td></tr>
+<tr><td>X-MEN: LIBERATORS</td><td>X:LIB</td></tr>
+<tr><td>X-MEN: MAGNETO TESTAMENT</td><td>X:MT</td></tr>
+<tr><td>X-MEN: MAGNETO WAR</td><td>X:MWAR</td></tr>
+<tr><td>X-MEN: MANIFEST DESTINY</td><td>X:MD</td></tr>
+<tr><td>X-MEN: MANIFEST DESTINY NIGHTCRAWLER</td><td>X:MDNC</td></tr>
+<tr><td>X-MEN: MESSIAH COMPLEX</td><td>X:MC</td></tr>
+<tr><td>X-MEN: NO MORE HUMANS</td><td>X:NMH</td></tr>
+<tr><td>X-MEN: ODD MEN OUT</td><td>X:OMO</td></tr>
+<tr><td>X-MEN: OMEGA</td><td>X:OMEGA</td></tr>
+<tr><td>X-MEN: ORIGINAL SIN</td><td>X:OS</td></tr>
+<tr><td>X-MEN: PHOENIX</td><td>X:PHX</td></tr>
+<tr><td>X-MEN: PHOENIX - LEGACY OF FIRE</td><td>X:PHXLOF</td></tr>
+<tr><td>X-MEN: PHOENIX ENDSONG</td><td>X:PHXE</td></tr>
+<tr><td>X-MEN: PHOENIX WARSONG</td><td>X:PHXW</td></tr>
+<tr><td>X-MEN: PIXIE STRIKES BACK!</td><td>X:PIXIESB</td></tr>
+<tr><td>X-MEN: PIXIES &amp; DEMONS</td><td>X:PIXIES&amp;D</td></tr>
+<tr><td>X-MEN: PRELUDE TO SCHISM</td><td>X:PSCHISM</td></tr>
+<tr><td>X-MEN: PRIME</td><td>X:PRIME</td></tr>
+<tr><td>X-MEN: RED</td><td>X:R</td></tr>
+<tr><td>X-MEN: REGENESIS</td><td>X:REG</td></tr>
+<tr><td>X-MEN: RONIN</td><td>X:RONIN</td></tr>
+<tr><td>X-MEN: SCHISM</td><td>X:SCHISM</td></tr>
+<tr><td>X-MEN: SEARCH FOR CYCLOPS</td><td>X:SFCY</td></tr>
+<tr><td>X-MEN: SECOND COMING</td><td>X:SECCOM</td></tr>
+<tr><td>X-MEN: SWORD OF THE BRADDOCKS</td><td>X:SB</td></tr>
+<tr><td>X-MEN: THE EXTERMINATED</td><td>X:EXTRNTD</td></tr>
+<tr><td>X-MEN: THE WEDDING SPECIAL</td><td>X:WED</td></tr>
+<tr><td>X-MEN: TIMES &amp; LIFE OF LUCAS BISHOP</td><td>X:TLLBSHP</td></tr>
+<tr><td>X-MEN: TO SERVE &amp; PROTECT</td><td>X:TS&amp;P</td></tr>
+<tr><td>X-MEN: TRUE FRIENDS</td><td>X:TF</td></tr>
+<tr><td>X-MEN: WEDDING ALBUM</td><td>X:WA</td></tr>
+<tr><td>X-MEN: WORLDS APART</td><td>X:WORLDS</td></tr>
+<tr><td>X-NATION 2099</td><td>XN2099</td></tr>
+<tr><td>X-NECROSHA</td><td>XNEC</td></tr>
+<tr><td>X-NECROSHA: GATHERING</td><td>XNEC:G</td></tr>
+<tr><td>X-PATROL</td><td>XPAT</td></tr>
+<tr><td>X-STATIX</td><td>XSTATIX</td></tr>
+<tr><td>X-STATIX PRESENTS: DEAD GIRL</td><td>XSTATIXP:DGIRL</td></tr>
+<tr><td>X-TERMINATION</td><td>XTERMNTN</td></tr>
+<tr><td>X-TERMINATORS</td><td>XTERM</td></tr>
+<tr><td>X-TINCTION AGENDA (TPB)</td><td>XA</td></tr>
+<tr><td>X-TINCTION AGENDA VOL. 2</td><td>XA2</td></tr>
+<tr><td>X-TREME X-MEN</td><td>XX</td></tr>
+<tr><td>X-TREME X-MEN VOL. 2</td><td>XX2</td></tr>
+<tr><td>X-TREME X-MEN: SAVAGE LAND</td><td>XX:SL</td></tr>
+<tr><td>X-TREME X-MEN: X-POSE</td><td>XXX</td></tr>
+<tr><td>X-UNIVERSE</td><td>X-U</td></tr>
+<tr><td>X-WOMEN</td><td>XW</td></tr>
+<tr><td>XEN</td><td>XEN</td></tr>
+<tr><td>XSE</td><td>XSE</td></tr>
+<tr><td>YEARS OF FUTURE PAST</td><td>YOFP</td></tr>
+<tr><td>YELLOW CLAW</td><td>YC</td></tr>
+<tr><td>YOUNG ALLIES</td><td>YALLIES</td></tr>
+<tr><td>YOUNG ALLIES COMICS</td><td>YALLIESC</td></tr>
+<tr><td>YOUNG ALLIES COMICS 70TH ANNIVERSARY SPECIAL</td><td>YALLIESC70A</td></tr>
+<tr><td>YOUNG AVENGERS</td><td>YA</td></tr>
+<tr><td>YOUNG AVENGERS VOL. 2</td><td>YA2</td></tr>
+<tr><td>YOUNG AVENGERS PRESENTS</td><td>YAP</td></tr>
+<tr><td>YOUNG AVENGERS SPECIAL</td><td>YA SPEC</td></tr>
+<tr><td>YOUNG MEN</td><td>YMEN</td></tr>
+<tr><td>YOUNG X-MEN</td><td>YX</td></tr>
+<tr><td>YOUNGBLOOD VOL. 2</td><td>YOUNGBLOOD2</td></tr>
+<tr><td>YOUNGBLOOD/X-FORCE</td><td>YOUNGBLOOD/XFOR</td></tr>
+<tr><td>ZIGGY PIG-SILLY SEAL COMICS VOL. 2</td><td>ZPSSC2</td></tr>
+</tbody>
