@@ -2,7 +2,11 @@ package model.data;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.PrintWriter;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.StringTokenizer;
@@ -19,13 +23,18 @@ public class DataParser {
 	private static final String NODES_FINAL_NAME = "nodes.txt";
 	private static final String EDGES_FINAL_NAME = "edges.txt";
 	
-	// Regular expressions to determine weights and replacements for clean comic book names
+	// Regular expressions to determine weights and replacements for clean names
 	private static final String[] WEIGHT_REG = { // Used to assign weights to edges
 			".+\\(.+\\).*", // Partial Credit in brackets
 			".+-OP.*", // Off Panel
 			".+-VO.*", // Voice Over
 			".+-FB.*", // Flash back
 			".+-BTS.*" // Behind The Scenes
+			};
+	private static final String[] REPLACE_ICONIC_HEROES_REG = { // Used to clean the names of iconic heroes
+			"<\\/?b>", // html bold
+			"<br>", // html break
+			"<\\/?a([\\s\\w=\":\\/.])*>" // html link
 			};
 	private static final String[] REPLACE_W_EMPTY_REG = {
 			"\\s?\\(.+\\)\\s?", // Partial Credit in brackets
@@ -42,6 +51,7 @@ public class DataParser {
 			"\\s\\|\\scf.*" // Anything after cf
 			};
 	private static final String STORY_IN_ISSUE_REG = ".*([\\d]+|\\s)\\/\\d+.*"; // 102/3
+	private static final String HREF_REG = "<\\/?a([\\s\\w=\":\\/.])*>"; // html link
 											
 	
 	private static ArrayList<String> heroes = new ArrayList<>();
@@ -49,8 +59,9 @@ public class DataParser {
 	private static ArrayList<ComicCode> comicCodes = new ArrayList<>();
 	private static ArrayList<String> edges = new ArrayList<>();
 	
-	public static void parseData() throws FileNotFoundException {
-		try {
+	public static void parseData() throws FileNotFoundException, IOException {
+		try { 
+		     
 			/* =========================================================================================================================
 			 * PARSING COMICS
 			 * Example Input (comics1.txt):
@@ -67,7 +78,7 @@ public class DataParser {
 			 * Name: A SHADOWLINE SAGA: CRITICAL MASS
 			 */
 			
-			System.out.println("Processing Comics...");
+		    System.out.println("Processing Comics...");
 			
 			Scanner sc = new Scanner(new File(COMICS_ONE_PATH));
 			while (sc.hasNext()) {
@@ -86,6 +97,38 @@ public class DataParser {
 			comicCodes.sort(null);
 			
 			/* =========================================================================================================================
+			 * PARSING ICONIC HEROES
+			 * Example Input:
+			 * <b><a href="http://www.medinnus.com/winghead/" name="AMERICA">CAPTAIN AMERICA</a>/STEVE ROGERS</b><br>
+			 * CA7 1-FB<br>
+			 * CA7 2-FB<br>
+			 * 
+			 * Output:
+			 * Hero: CAPTAIN AMERICA/STEVE ROGERS
+			 * Comic: CA7 1-FB
+			 * Comic: CA7 2-FB
+			 */
+			System.out.println("Processing Iconic Heroes...");
+			
+			Path dir = Paths.get(ICONINC_HEROES_DIR);
+		    Files.walk(dir).forEach(path -> {
+		    	File file = path.toFile();
+		    	if (file.isFile())
+			    	try {
+			    		Scanner sc1 = new Scanner(file);
+						String hero = sc1.nextLine();
+						hero = cleanIconicHero(hero);
+						while (sc1.hasNext()) {
+							String line = sc1.nextLine();
+							processEdge(hero, line);
+						}
+						sc1.close();
+			    	} catch (FileNotFoundException e1) {
+						e1.printStackTrace();
+					}
+		    });
+			
+			/* =========================================================================================================================
 			 * PARSING EDGES
 			 * 
 			 * Example Input:
@@ -97,6 +140,7 @@ public class DataParser {
 			 * Edge: BULL\tTOS 59
 			 * Edge: BULL\tPM&IF 55
 			 */
+			
 			System.out.println("Processing Edges...");
 
 			sc = new Scanner(new File(EDGES_PATH));
@@ -119,6 +163,8 @@ public class DataParser {
 				}
 			}
 			sc.close();
+			
+			sortData();
 			
 			/* =========================================================================================================================
 			 * OUTPUT TO FILES
@@ -159,10 +205,20 @@ public class DataParser {
 //				System.out.println(edge);
 //			}
 		} catch (FileNotFoundException e) {
-			throw new FileNotFoundException();
+			throw new FileNotFoundException("File Not found in Data Parser");
+		} catch (IOException e) {
+			throw new IOException("IO Exception in Data Parser");
 		}
 	}
-	
+
+	private static String cleanIconicHero(String hero) {
+		String clean = hero;
+		for (String reg : REPLACE_ICONIC_HEROES_REG) {
+			clean = clean.replaceAll(reg, "");
+		}
+		return clean;
+	}
+
 	private static void processComic1(String line) {
 		// <tr><td>CAD4</td><td>CLOAK AND DAGGER VOL. 4</td><td>2010</td></tr>
 		if (!line.isEmpty()) {
@@ -213,7 +269,9 @@ public class DataParser {
 	}
 
 	public static void sortData() {
-		
+		heroes.sort(null);
+		comics.sort(null);
+		edges.sort(null);
 	}
 	
 	private static String noHrefs(String line) {
@@ -229,7 +287,8 @@ public class DataParser {
 	}
 	
 	private static void processEdge(String hero, String comic) {
-		if (comic.startsWith("From") || comic.startsWith("See"))
+		comic = comic.replaceAll(HREF_REG, "");
+		if (comic.startsWith("From") || comic.startsWith("See") || comic.startsWith("null") || comic.length() == 0)
 			return;
 		// Processes an edge for a single comic, or calls processEdge for each comic in the relevant string (in the case of data that contains = or ~)
 		if (comic.contains("=")) {
@@ -254,6 +313,12 @@ public class DataParser {
 		String clean = comic;
 		for (String reg : REPLACE_W_EMPTY_REG) {
 			clean = clean.replaceAll(reg, "");
+		}
+		for (int i = (comicCodes.size() - 1); i > 0; i--) {
+			if (clean.startsWith(comicCodes.get(i).code)) {
+				clean = clean.replace(comicCodes.get(i).code, comicCodes.get(i).name);
+				break;
+			}
 		}
 		if (clean.matches(STORY_IN_ISSUE_REG)) {
 			clean = clean.substring(0, clean.lastIndexOf("/")) + " STORY " + clean.substring(clean.lastIndexOf("/") + 1, clean.length());
