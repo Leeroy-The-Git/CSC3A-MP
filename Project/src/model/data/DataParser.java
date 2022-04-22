@@ -331,7 +331,7 @@ public class DataParser {
 						String comic = res[5];						
 						processEdge(currentHero, comic);
 					} else {
-						if (rand.nextInt() % 10 > 6) {
+						if (rand.nextInt() % 2 > 0) {
 							processEdge(currentHero, line);
 						}
 					}

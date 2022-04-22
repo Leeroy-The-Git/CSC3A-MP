@@ -528,7 +528,7 @@ public class Graph<T extends Comparable<T>> {
 
     public static class CostPathPair<T extends Comparable<T>> {
 
-        private int cost = 0;
+        private int cost = Integer.MAX_VALUE;
         private List<Edge<T>> path = null;
 
         public CostPathPair(int cost, List<Edge<T>> path) {

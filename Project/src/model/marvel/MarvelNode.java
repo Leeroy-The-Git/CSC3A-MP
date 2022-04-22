@@ -25,7 +25,7 @@ public class MarvelNode implements Comparable<MarvelNode>{
      */
 	@Override
 	public int compareTo(MarvelNode o) {
-		return name.compareTo(getName());
+		return name.compareTo(o.getName());
 	}
 	
 	/**
