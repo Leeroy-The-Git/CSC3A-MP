@@ -446,8 +446,8 @@
 <tr><td>CATOW:OZP</td><td>CAPTAIN AMERICA THEATER OF WAR: OPERATION ZERO POINT</td><td>2008</td></tr>
 <tr><td>CATOW:POD</td><td>CAPTAIN AMERICA THEATER OF WAR: PRISONERS OF DUTY</td><td>2010</td></tr>
 <tr><td>CATOW:TSO</td><td>CAPTAIN AMERICA THEATER OF WAR: TO SOLDIER ON</td><td>2009</td></tr>
-<tr><td>CB</td><td>CAPTAIN BRITAIN (British Comic)</td><td>1976-1977</td></tr>
-<tr><td>CB2</td><td>CAPTAIN BRITAIN VOL. 2 (British Comic)</td><td>1985-1986</td></tr>
+<tr><td>CB</td><td>CAPTAIN BRITAIN (BRITISH COMIC)</td><td>1976-1977</td></tr>
+<tr><td>CB2</td><td>CAPTAIN BRITAIN VOL. 2 (BRITISH COMIC)</td><td>1985-1986</td></tr>
 <tr><td>CB&amp;MDEF</td><td>CAPTAIN BRITAIN &amp; MIGHTY DEFENDERS</td><td>2015</td></tr>
 <tr><td>CB&amp;MI13</td><td>CAPTAIN BRITAIN &amp; MI13</td><td>2008-2009</td></tr>
 <tr><td>CDAWN</td><td>CRIMSON DAWN</td><td>1997</td></tr>
@@ -645,7 +645,7 @@
 <tr><td>DDNOIR</td><td>DAREDEVIL NOIR</td><td>2009</td></tr>
 <tr><td>DDP</td><td>DESPICABLE DEADPOOL</td><td>2017-2018</td></tr>
 <tr><td>DDREBORN</td><td>DAREDEVIL REBORN</td><td>2011</td></tr>
-<tr><td>DDS</td><td>DAREDEVILS (British Comic)</td><td>1981-1983</td></tr>
+<tr><td>DDS</td><td>DAREDEVILS (BRITISH COMIC)</td><td>1981-1983</td></tr>
 <tr><td>DDV.P</td><td>DAREDEVIL VS PUNISHER</td><td>2005-2006</td></tr>
 <tr><td>DEATH³</td><td>DEATH³</td><td>1993</td></tr>
 <tr><td>DEATHOFD</td><td>DEATH OF DRACULA</td><td>2010</td></tr>
@@ -1115,7 +1115,7 @@
 <tr><td>HAWK:BS</td><td>HAWKEYE: BLINDSPOT</td><td>2011</td></tr>
 <tr><td>HAWK:EMM</td><td>HAWKEYE: EARTH'S MIGHTIEST MARKSMAN</td><td>1998</td></tr>
 <tr><td>HAWKV.DP</td><td>HAWKEYE VS. DEADPOOL</td><td>2014-2015</td></tr>
-<tr><td>HC</td><td>HULK COMIC (British Comic)</td><td>1979-1980</td></tr>
+<tr><td>HC</td><td>HULK COMIC (BRITISH COMIC)</td><td>1979-1980</td></tr>
 <tr><td>HCAT</td><td>HELLCAT</td><td>2000</td></tr>
 <tr><td>HCSHIELD</td><td>HOWLING COMMANDOS OF S.H.I.E.L.D.</td><td>2015-2016</td></tr>
 <tr><td>HEDYDVC</td><td>HEDY DE VINE COMICS</td><td>1947-1949</td></tr>
@@ -2366,7 +2366,7 @@
 <tr><td>SUPER MYSTERY3</td><td>SUPER MYSTERY VOL. 3</td><td>1942-1943</td></tr>
 <tr><td>SUPER MYSTERY4</td><td>SUPER MYSTERY VOL. 4</td><td>1944-1945</td></tr>
 <tr><td>SUPERMAN/FF</td><td>SUPERMAN/FANTASTIC FOUR</td><td>1999</td></tr>
-<tr><td>SUPSM&amp;CB</td><td>SUPER SPIDER-MAN &amp; CAPTAIN BRITAIN (British Comic)</td><td>1977</td></tr>
+<tr><td>SUPSM&amp;CB</td><td>SUPER SPIDER-MAN &amp; CAPTAIN BRITAIN (BRITISH COMIC)</td><td>1977</td></tr>
 <tr><td>SUPTHR</td><td>SUPERNATURAL THRILLERS</td><td>1972-1975</td></tr>
 <tr><td>SURVIVE</td><td>SURVIVE!</td><td>2014</td></tr>
 <tr><td>SUSM</td><td>SUPERIOR SPIDER-MAN</td><td>2013-2014</td></tr>

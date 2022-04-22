@@ -41,7 +41,7 @@ public class GraphParser {
 	
 	}
 	
-	GraphParser(String edgesPath) {
+	public GraphParser(String edgesPath) {
 		EDGES_PATH = edgesPath;
 	}
 	
@@ -87,9 +87,7 @@ public class GraphParser {
 		long endTime = System.currentTimeMillis();
 		double totalTime = (endTime - startTime)/1000.0;
 		System.out.println("Processed edges and vertices in " + totalTime + " seconds");
-		System.out.println("");
-		
-		System.out.println("Outputting Graph");
+		System.out.println("Outputting Graph with " + graph.getEdges().size() + " edges");
 		PrintWriter pw = new PrintWriter(new File(STRUCTURED_EDGES_PATH));
 		pw.write(graph.toString());
 		pw.flush();
@@ -129,8 +127,6 @@ public class GraphParser {
 		long endTime = System.currentTimeMillis();
 		double totalTime = (endTime - startTime)/1000.0;
 		System.out.println("Processed edges and vertices in " + totalTime + " seconds");
-		System.out.println("");
-		
 		System.out.println("Outputting Graph with " + graph.getEdges().size() + " edges");
 		PrintWriter pw = new PrintWriter(new File(STRUCTURED_EDGES_PATH_THREAD));
 		pw.write(graph.toString());

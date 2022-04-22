@@ -434,8 +434,8 @@
 <tr><td>CAPTAIN AMERICA: WHITE</td><td>CA:WHITE</td></tr>
 <tr><td>CAPTAIN AMERICA: WHO WILL WIELD THE SHIELD?</td><td>CA:WHO</td></tr>
 <tr><td>CAPTAIN AMERICA'S BICENTENNIAL BATTLES (TREASURY)</td><td>CABB</td></tr>
-<tr><td>CAPTAIN BRITAIN (British Comic)</td><td>CB</td></tr>
-<tr><td>CAPTAIN BRITAIN VOL. 2 (British Comic)</td><td>CB2</td></tr>
+<tr><td>CAPTAIN BRITAIN (BRITISH COMIC)</td><td>CB</td></tr>
+<tr><td>CAPTAIN BRITAIN VOL. 2 (BRITISH COMIC)</td><td>CB2</td></tr>
 <tr><td>CAPTAIN BRITAIN &amp; MI13</td><td>CB&amp;MI13</td></tr>
 <tr><td>CAPTAIN BRITAIN &amp; MIGHTY DEFENDERS</td><td>CB&amp;MDEF</td></tr>
 <tr><td>CAPTAIN MARVEL</td><td>CM</td></tr>
@@ -620,7 +620,7 @@
 <tr><td>DAREDEVIL: REDEMPTION</td><td>DD:R</td></tr>
 <tr><td>DAREDEVIL: TARGET</td><td>DD:T</td></tr>
 <tr><td>DAREDEVIL: YELLOW</td><td>DD:YELLOW</td></tr>
-<tr><td>DAREDEVILS (British Comic)</td><td>DDS</td></tr>
+<tr><td>DAREDEVILS (BRITISH COMIC)</td><td>DDS</td></tr>
 <tr><td>DARING COMICS</td><td>DARMC</td></tr>
 <tr><td>DARING MYSTERY COMICS</td><td>DARC</td></tr>
 <tr><td>DARING MYSTERY COMICS 70TH ANNIVERSARY SPECIAL</td><td>DARMC70A</td></tr>
@@ -1167,7 +1167,7 @@
 <tr><td>HULK VOL. 4</td><td>H4</td></tr>
 <tr><td>HULK &amp; POWER PACK</td><td>H&amp;PP</td></tr>
 <tr><td>HULK 2099</td><td>H2099</td></tr>
-<tr><td>HULK COMIC (British Comic)</td><td>HC</td></tr>
+<tr><td>HULK COMIC (BRITISH COMIC)</td><td>HC</td></tr>
 <tr><td>HULK FAMILY: GREEN GENES</td><td>HF:GG</td></tr>
 <tr><td>HULK MAGAZINE</td><td>HMAG</td></tr>
 <tr><td>HULK MONSTER-SIZE</td><td>HM-S</td></tr>
@@ -2385,7 +2385,7 @@
 <tr><td>SUNFIRE &amp; BIG HERO 6</td><td>SUNF&amp;BH6</td></tr>
 <tr><td>SUPER MYSTERY VOL. 3</td><td>SUPER MYSTERY3</td></tr>
 <tr><td>SUPER MYSTERY VOL. 4</td><td>SUPER MYSTERY4</td></tr>
-<tr><td>SUPER SPIDER-MAN &amp; CAPTAIN BRITAIN (British Comic)</td><td>SUPSM&amp;CB</td></tr>
+<tr><td>SUPER SPIDER-MAN &amp; CAPTAIN BRITAIN (BRITISH COMIC)</td><td>SUPSM&amp;CB</td></tr>
 <tr><td>SUPER-SOLDIER</td><td>SSOL</td></tr>
 <tr><td>SUPER-SOLDIER: MAN OF WAR</td><td>SSOL:MWAR</td></tr>
 <tr><td>SUPER-VILLAIN CLASSICS</td><td>SVC</td></tr>

@@ -93,26 +93,26 @@ public class Graph<T extends Comparable<T>> {
         }
     }
     
-    public void addEdge(Edge<T> e) {
-    	allEdges.add(e);
-    	final Vertex<T> from = e.from;
-        final Vertex<T> to = e.to;
-
-//        if (!this.allVertices.contains(from) || !this.allVertices.contains(to))
-//            return;
-
-        from.addEdge(e);
-        if (this.type == TYPE.UNDIRECTED) {
-            Edge<T> reciprical = new Edge<T>(e.cost, to, from);
-            to.addEdge(reciprical);
-            this.allEdges.add(reciprical);
-        }
-    }
-    
     public void addVertex(Vertex<T> v) {
     	allVertices.add(v);
     }
 
+	public void addEdge(Edge<T> e) {
+		allEdges.add(e);
+		final Vertex<T> from = e.getFromVertex();
+	    final Vertex<T> to = e.getToVertex();
+	
+//    if (!this.allVertices.contains(from) || !this.allVertices.contains(to))
+//        return;
+	
+	    from.addEdge(e);
+	    if (this.getType() == TYPE.UNDIRECTED) {
+	        Edge<T> reciprical = new Edge<T>(e.getCost(), to, from);
+	        to.addEdge(reciprical);
+	        this.allEdges.add(reciprical);
+	    }
+	}
+    
     public TYPE getType() {
         return type;
     }
