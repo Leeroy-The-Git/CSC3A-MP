@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX-17"/>
+	<classpathentry kind="lib" path="lib/JavaFXSmartGraph-0.9.4.jar" sourcepath="lib/JavaFXSmartGraph-0.9.4.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

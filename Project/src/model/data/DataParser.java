@@ -57,18 +57,17 @@ public class DataParser {
 			"\\s?\\|\\s?cf.*" // Anything after cf
 			};
 	private static final String STORY_IN_ISSUE_REG = ".*([\\d]+|\\s)\\/\\d+.*"; // 102/3
-	private static final String HREF_REG = "<\\/?a([\\s\\w=\":\\/.])*>"; // html link
-	private static final String BOLD_REG = "<\\/?b>"; // bold tag
-	private static final String VR_REG = "<//?vr>"; // vr tag
-	private static final String TAG_REG = "[<>]"; // unnecessary tags
-	private static final String CORRECT_REG = "([\\'A-Z\\(\\)0-9:\\+\\-&\\.Ê!\\/,]+\\s)+([0-9]){1}"; // ensure correct comic
+//	private static final String HREF_REG = "<\\/?a([\\s\\w=\":\\/.])*>"; // html link
+//	private static final String BOLD_REG = "<\\/?b>"; // bold tag
+//	private static final String VR_REG = "<//?vr>"; // vr tag
+//	private static final String TAG_REG = "[<>]"; // unnecessary tags
+//	private static final String CORRECT_REG = "([\\'A-Z\\(\\)0-9:\\+\\-&\\.Ê!\\/,]+\\s)+([0-9]){1}"; // ensure correct comic
 											
 	
 	private static ArrayList<String> heroes = new ArrayList<>();
 	private static ArrayList<String> comics = new ArrayList<>();
 	private static ArrayList<ComicCode> comicCodes = new ArrayList<>();
 	private static ArrayList<String> edges = new ArrayList<>();
-	private static ArrayList<String> rejected = new ArrayList<>();
 	
 	public static void parseData() throws FileNotFoundException, IOException {
 		try { 
@@ -522,7 +521,7 @@ public class DataParser {
 				weight = i + 1;
 			}
 		}
-		return weight;
+		return weight + 1;
 	}
 }
 

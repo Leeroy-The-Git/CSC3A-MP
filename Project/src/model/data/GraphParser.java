@@ -80,8 +80,9 @@ public class GraphParser {
 			Edge<MarvelNode> edge = new Edge<MarvelNode>(cost, heroNode, comicNode);
 			graph.addEdge(edge);
 			
-			if (graph.getEdges().size() % 10000 == 0) {
+			if (graph.getEdges().size() % 300000 == 0) {
 				System.out.println("Processed Edges: " + graph.getEdges().size());
+				return graph;
 			}
 		}
 		long endTime = System.currentTimeMillis();
