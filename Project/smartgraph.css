@@ -4,9 +4,9 @@
 
 .vertex {
     -fx-stroke-width: 3;
-    -fx-stroke: #61B5F1;
+    -fx-stroke: #ce0336;
     -fx-stroke-type: inside; /* you should keep this for vertex.radius to hold */
-    -fx-fill: #B1DFF7;
+    -fx-fill: #d64d4d;
 }
 
 .vertex-label {
@@ -15,7 +15,7 @@
 
 .edge {
     -fx-stroke-width: 2;
-    -fx-stroke: #FF6D66;  
+    -fx-stroke: #e67154;  
     -fx-stroke-dash-array: 2 5 2 5; /* remove for clean edges */  
     -fx-fill: transparent; /*important for curved edges. do not remove */
     -fx-stroke-line-cap: round;
@@ -23,20 +23,27 @@
 }
 
 .edge-label {
-    -fx-font: normal 5pt "sans-serif";
+    -fx-font: normal 6pt "sans-serif";
 }
 
 .arrow {
     -fx-stroke-width: 2;
-    -fx-stroke: #FF6D66;  
+    -fx-stroke: #e67154;  
     -fx-opacity: 0.8;
 }
 
 /* Custom vertex. You should revert any unwanted styling in the default element, 
    style, since custom styles will be appended to the default style */
-.myVertex {
-    -fx-stroke-width: 5;
-    -fx-stroke: green;
+.heroVertex {
+    -fx-stroke-width: 3;
+    -fx-stroke: #ce0336;
     -fx-stroke-type: inside; /* you should keep this if using arrows */
-    -fx-fill: yellowgreen;
+    -fx-fill: #d64d4d;
+}
+
+.comicVertex {
+    -fx-stroke-width: 3;
+    -fx-stroke: #bd930b;
+    -fx-stroke-type: inside; /* you should keep this if using arrows */
+    -fx-fill: #dacc50;
 }
