@@ -25,6 +25,10 @@ import model.marvel.MarvelNode;
 import model.ui.AboutPane;
 import model.ui.MarvelPane;
 
+/**
+ * @author jared
+ * Main class
+ */
 public class Main extends Application {
 	private static final int WIDTH = 1024;
 	private static final int HEIGHT = 768;
@@ -37,6 +41,9 @@ public class Main extends Application {
 	private Label lblLoading;
 	
 	@Override
+	/**
+	 * { @inheritDoc }
+	 */
 	public void start(Stage primaryStage) throws Exception {
 		stage = new Stage(StageStyle.DECORATED);
 		
@@ -72,10 +79,18 @@ public class Main extends Application {
 		marvelPane.getGraphView().init();
 	}
 	
+
+	/**
+	 * Application entrypoint
+	 */
 	public static void main (String[] args) {
 		launch(args);
 	}
 	
+	
+	/**
+	 * Method to parse data from raw input files to a unified structure for easy graph parsing
+	 */
 	private void parseData() {
 		System.out.println("==============================================");
 		System.out.println("Parsing Data...");
@@ -90,6 +105,10 @@ public class Main extends Application {
 		}
 	}
 	
+	/**
+	 * Method to parse graph from 
+	 * @return
+	 */
 	private Graph<MarvelNode> parseGraph() {
 		System.out.println("==============================================");
 		System.out.println("Processing Graph...");

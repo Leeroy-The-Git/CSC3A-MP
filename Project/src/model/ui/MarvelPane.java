@@ -1,7 +1,5 @@
 package model.ui;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
@@ -15,22 +13,16 @@ import com.brunomnsilva.smartgraph.graphview.SmartGraphPanel;
 import com.brunomnsilva.smartgraph.graphview.SmartPlacementStrategy;
 import com.jwetherell.algorithms.data_structures.Graph;
 
-import javafx.application.Platform;
 import javafx.collections.FXCollections;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
-import javafx.scene.control.Menu;
-import javafx.scene.control.MenuBar;
-import javafx.scene.control.MenuItem;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
-import model.data.DataParser;
-import model.data.GraphParser;
 import model.graph.DijkstrasAlgorithm;
 import model.marvel.MarvelEdge;
 import model.marvel.MarvelNode;
@@ -42,8 +34,8 @@ public class MarvelPane extends BorderPane{
 	private List<String> comboList = new ArrayList<>();
 	private SmartGraphPanel<MarvelNode, MarvelEdge> graphView;
 	
-	ComboBox<String> cmbFrom;
-	ComboBox<String> cmbTo;
+	private ComboBox<String> cmbFrom;
+	private ComboBox<String> cmbTo;
 	
 	public MarvelPane(Graph<MarvelNode> graph) {
 		this();
@@ -103,13 +95,13 @@ public class MarvelPane extends BorderPane{
 			cmbFrom = new ComboBox<>(FXCollections.observableArrayList(comboList));
 		else
 			cmbFrom.setItems(FXCollections.observableArrayList(comboList));
-//		new AutoCompleteComboBoxListener<>(cmbFrom);
+		new AutoCompleteComboBoxListener<>(cmbFrom);
 		
 		if (cmbTo == null)
 			cmbTo = new ComboBox<>(FXCollections.observableArrayList(comboList));
 		else
 			cmbTo.setItems(FXCollections.observableArrayList(comboList));
-//		new AutoCompleteComboBoxListener<>(cmbTo);
+		new AutoCompleteComboBoxListener<>(cmbTo);
 	}
 
 	private void generateComboList() {

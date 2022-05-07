@@ -2,17 +2,11 @@ package model.data;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
-
 import com.jwetherell.algorithms.data_structures.Graph;
 import com.jwetherell.algorithms.data_structures.Graph.Edge;
 import com.jwetherell.algorithms.data_structures.Graph.TYPE;

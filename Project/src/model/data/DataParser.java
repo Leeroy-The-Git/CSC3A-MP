@@ -10,9 +10,6 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
-import java.util.StringTokenizer;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class DataParser {
 	private static final String EDGES_PATH = "data/raw/chronology_project_final.csv";
@@ -61,7 +58,7 @@ public class DataParser {
 //	private static final String BOLD_REG = "<\\/?b>"; // bold tag
 //	private static final String VR_REG = "<//?vr>"; // vr tag
 //	private static final String TAG_REG = "[<>]"; // unnecessary tags
-//	private static final String CORRECT_REG = "([\\'A-Z\\(\\)0-9:\\+\\-&\\.Ê!\\/,]+\\s)+([0-9]){1}"; // ensure correct comic
+//	private static final String CORRECT_REG = "([\\'A-Z\\(\\)0-9:\\+\\-&\\.ï¿½!\\/,]+\\s)+([0-9]){1}"; // ensure correct comic
 											
 	
 	private static ArrayList<String> heroes = new ArrayList<>();
@@ -368,28 +365,8 @@ public class DataParser {
 				pw.flush();
 			}
 			pw.close();
-			
-//			System.out.println("=====================================================");
-//			System.out.println("HEROES");
-//			for (String hero : heroes) {
-//				System.out.println(hero);
-//			}
-//
-//			System.out.println("=====================================================");
-//			System.out.println("COMICS");
-//			for (String comic : comics) {
-//				System.out.println(comic);
-//			}
-			
-//			System.out.println("=====================================================");
-//			System.out.println("EDGES");
-//			for (String edge : edges) {
-//				System.out.println(edge);
-//			}
 		} catch (FileNotFoundException e) {
 			throw new FileNotFoundException("File Not found in Data Parser");
-		} catch (IOException e) {
-			throw new IOException("IO Exception in Data Parser");
 		}
 	}
 
