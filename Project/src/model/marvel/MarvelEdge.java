@@ -2,7 +2,13 @@ package model.marvel;
 
 import com.brunomnsilva.smartgraph.graphview.SmartLabelSource;
 
+/**
+ * Marvel Edge for use in the JavaFX Smart Graph
+ * @author JARED SWANZEN (220134523)
+ *
+ */
 public class MarvelEdge {
+	// Label going into a comic
 	private static String[] WEIGHT_IN_COMIC = {
 			"Appeared In", // Full Appearance
 			"Briefly Appeared In", // Partial Credit in brackets
@@ -11,7 +17,7 @@ public class MarvelEdge {
 			"Was A Flashback In", // Flash back
 			"Was BTS In" // Behind The Scenes
 	};
-	
+	// Label going out of a comic
 	private static String[] WEIGHT_OUT_COMIC = {
 			"With Appearance Of", // Full Appearance
 			"With A Brief Appearance Of", // Partial Credit in brackets

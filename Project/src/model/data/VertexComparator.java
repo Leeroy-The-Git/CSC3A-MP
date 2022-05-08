@@ -5,7 +5,7 @@ import java.util.Comparator;
 import com.jwetherell.algorithms.data_structures.Graph.Vertex;
 
 /**
- * @author jared
+ * @author JARED SWANZEN (220134523)
  * Used to compare the values inside tow vertices instead of the vertices themselves
  * @param <T> Vertex class for comparison
  * @param <E> Comparable class inside the vertex

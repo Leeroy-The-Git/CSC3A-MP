@@ -15,7 +15,12 @@ import com.jwetherell.algorithms.data_structures.Graph.Vertex;
 import model.marvel.MarvelNode;
 import model.marvel.NODE_TYPE;
 
-public class GraphParser {	
+/**
+ * Class dedicated to the parsing of a {@link Graph} from 
+ * @author JARED SWANZEN (220134523)
+ *
+ */
+public class GraphConstructor {	
 	private String EDGES_PATH = "data/final/edges.txt";
 	private Graph<MarvelNode> graph = null;
 	
@@ -25,15 +30,28 @@ public class GraphParser {
 	private List<String> heroes = new ArrayList<>();
 	private List<String> comics = new ArrayList<>();
 
-	public GraphParser() {
+	/**
+	 * Default constructor
+	 */
+	public GraphConstructor() {
 	
 	}
 	
-	public GraphParser(String edgesPath) {
+	
+	/**
+	 * Constructor with edge path 
+	 * @param edgesPath path to edge file
+	 */
+	public GraphConstructor(String edgesPath) {
 		EDGES_PATH = edgesPath;
 	}
 	
-	public Graph<MarvelNode> processGraph() throws FileNotFoundException {
+	/**
+	 * Constructs a graph from a file containing graph edges
+	 * @return graph
+	 * @throws FileNotFoundException
+	 */
+	public Graph<MarvelNode> constructGraph() throws FileNotFoundException {
 		System.out.println("Processing Edges and Vertices");
 		long startTime = System.currentTimeMillis();
 		Scanner sc = new Scanner(new File(EDGES_PATH));
@@ -79,6 +97,11 @@ public class GraphParser {
 		return graph;
 	}
 
+	/**
+	 * Get a hero vertex from the list of vertices
+	 * @param name name of hero
+	 * @return hero vertex
+	 */
 	private Vertex<MarvelNode> getHeroNode(String name) {
 		Iterator<Vertex<MarvelNode>> nodesIterator = heroVertices.iterator();
 		while (nodesIterator.hasNext()) {
@@ -90,6 +113,11 @@ public class GraphParser {
 		return null;
 	}
 	
+	/**
+	 * Get a comic vertex from the list of vertices
+	 * @param name name of comic
+	 * @return comic vertex
+	 */
 	private Vertex<MarvelNode> getComicNode(String name) {		
 		Iterator<Vertex<MarvelNode>> nodesIterator = comicVertices.iterator();
 		while (nodesIterator.hasNext()) {
@@ -101,10 +129,18 @@ public class GraphParser {
 		return null;
 	}
 	
+	/**
+	 * Set file location
+	 * @param loc location to set
+	 */
 	public void setEdgeFileLoc(String loc) {
 		EDGES_PATH = loc;
 	}
 	
+	/**
+	 * Get file location
+	 * @return file location
+	 */
 	public String getEdgeFileLoc() {
 		return EDGES_PATH;
 	}

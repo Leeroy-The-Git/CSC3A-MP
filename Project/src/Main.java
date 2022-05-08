@@ -19,15 +19,15 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
-import model.data.DataParser;
-import model.data.GraphParser;
+import model.data.DataCleaner;
+import model.data.GraphConstructor;
 import model.marvel.MarvelNode;
 import model.ui.AboutPane;
 import model.ui.MarvelPane;
 
 /**
- * @author jared
  * Main class
+ * @author JARED SWANZEN (220134523)
  */
 public class Main extends Application {
 	private static final int WIDTH = 1024;
@@ -65,6 +65,7 @@ public class Main extends Application {
 		
 		aboutScene= new Scene(aboutRoot, WIDTH, HEIGHT);
 		
+		
 		ProgressBar pb = new ProgressBar();
 		lblLoading = new Label();
 		VBox loadingRoot = new VBox(15, lblLoading, pb);
@@ -87,15 +88,14 @@ public class Main extends Application {
 		launch(args);
 	}
 	
-	
 	/**
-	 * Method to parse data from raw input files to a unified structure for easy graph parsing
+	 * Method to parse data using {@link DataCleaner}
 	 */
 	private void parseData() {
 		System.out.println("==============================================");
-		System.out.println("Parsing Data...");
+		System.out.println("Cleaning Data...");
 		try {
-			DataParser.parseData();
+			DataCleaner.cleanData();
 			System.out.println("Data Parsed");
 			System.out.println("");
 		} catch (FileNotFoundException e) {
@@ -106,16 +106,16 @@ public class Main extends Application {
 	}
 	
 	/**
-	 * Method to parse graph from 
-	 * @return
+	 * Method to parse graph using {@link GraphConstructor} 
+	 * @return processed graph
 	 */
 	private Graph<MarvelNode> parseGraph() {
 		System.out.println("==============================================");
 		System.out.println("Processing Graph...");
-		GraphParser gp = new GraphParser("data/final/edges.txt");
+		GraphConstructor gp = new GraphConstructor("data/final/edges.txt");
 		Graph<MarvelNode> graph = null;
 		try {
-			graph = gp.processGraph();
+			graph = gp.constructGraph();
 			System.out.println("Graph Processed");
 			System.out.println("");
 		} catch (FileNotFoundException e) {
@@ -124,9 +124,14 @@ public class Main extends Application {
 		return graph;
 	}
 	
+	/**
+	 * Method to create and return a {@link MenuBar} 
+	 * @return created MenuBar
+	 */
 	private MenuBar initMenus() {
-		MenuItem parseDataItem = new MenuItem("Parse Data");
-		parseDataItem.setOnAction(e -> {
+		// Setup file menu items
+		MenuItem cleanDataItem = new MenuItem("Clean Data");
+		cleanDataItem.setOnAction(e -> {
 			Task<Void> task = new Task<>() {
 
 				@Override
@@ -145,12 +150,12 @@ public class Main extends Application {
 				
 			});
 			Thread dataThread = new Thread(task);
-			setLoading("Please wait while the data is being parsed");
+			setLoading("Please wait while the data is being cleaned");
 			stage.setScene(loadingScene);
 			dataThread.start();
 		});
-		MenuItem parseGraphItem = new MenuItem("Parse Graph");
-		parseGraphItem.setOnAction(e -> {
+		MenuItem constructGraphItem = new MenuItem("Construct Graph");
+		constructGraphItem.setOnAction(e -> {
 			Task<Void> task = new Task<>() {
 
 				@Override
@@ -171,7 +176,7 @@ public class Main extends Application {
 			});
 			
 			Thread graphThread = new Thread(task);
-			setLoading("Please wait while the graph is being parsed (This can take up to 2 minutes)");
+			setLoading("Please wait while the graph is being constructed (This can take up to 2 minutes)");
 			stage.setScene(loadingScene);
 			graphThread.start();
 		});
@@ -180,9 +185,11 @@ public class Main extends Application {
 			Platform.exit();
 		});
 
+		// Setup file menu
 		Menu fileMenu = new Menu("File");
-		fileMenu.getItems().setAll(parseDataItem, parseGraphItem, exitItem);
+		fileMenu.getItems().setAll(cleanDataItem, constructGraphItem, exitItem);
 
+		// Setup window menu items
 		MenuItem sixDegreesItem = new MenuItem("Six Degrees Of Marvel Comics");
 		sixDegreesItem.setOnAction(e -> {
 			stage.setScene(sixDegreesScene);
@@ -193,12 +200,19 @@ public class Main extends Application {
 			stage.setScene(aboutScene);
 		});
 		
+		// Setup window menu
 		Menu windowMenu = new Menu("Windows");
 		windowMenu.getItems().setAll(sixDegreesItem, aboutItem);
 		
+		// Create and return menu bar
 		return new MenuBar(fileMenu, windowMenu);
 	}
 
+	
+	/**
+	 * Set message for loading screen
+	 * @param message message to set
+	 */
 	private void setLoading(String message) {
 		lblLoading.setText(message);
 	}

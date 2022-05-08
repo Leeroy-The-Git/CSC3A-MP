@@ -93,17 +93,22 @@ public class Graph<T extends Comparable<T>> {
         }
     }
     
+    /**
+     * Add an individual vertex to the graph
+     * @param v vertex to add
+     */
     public void addVertex(Vertex<T> v) {
     	allVertices.add(v);
     }
 
+	/**
+	 * Add an individual edge to the graph
+	 * @param e edge to add
+	 */
 	public void addEdge(Edge<T> e) {
 		allEdges.add(e);
 		final Vertex<T> from = e.getFromVertex();
 	    final Vertex<T> to = e.getToVertex();
-	
-//    if (!this.allVertices.contains(from) || !this.allVertices.contains(to))
-//        return;
 	
 	    from.addEdge(e);
 	    if (this.getType() == TYPE.UNDIRECTED) {

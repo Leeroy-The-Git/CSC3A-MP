@@ -1,5 +1,10 @@
 package model.marvel;
 
+/**
+ * Class that stores a MarvelNode
+ * @author JARED SWANZEN (220134523)
+ *
+ */
 public class MarvelNode implements Comparable<MarvelNode>{
 	private String name;
 	private NODE_TYPE type;
