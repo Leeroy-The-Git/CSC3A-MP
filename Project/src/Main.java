@@ -112,7 +112,9 @@ public class Main extends Application {
 	private Graph<MarvelNode> parseGraph() {
 		System.out.println("==============================================");
 		System.out.println("Processing Graph...");
-		GraphConstructor gp = new GraphConstructor("data/final/edges.txt");
+		String path = DataCleaner.class.getProtectionDomain().getCodeSource().getLocation().getPath();
+		path = path.substring(0, path.lastIndexOf('/') + 1);
+		GraphConstructor gp = new GraphConstructor(path + "edges.txt");
 		Graph<MarvelNode> graph = null;
 		try {
 			graph = gp.constructGraph();

@@ -53,6 +53,9 @@ public class AboutPane extends ScrollPane {
 	private static final String CONSTRUCT_GRAPH_HEAD = "CONSTRUCT GRAPH:\r\n";
 	private static final String CONSTRUCT_GRAPH_TEXT = "Next we construct the graph. Here we create a vertex for every unique hero or comic and create an edge for every edge in the file.\r\n"
 			+ "\r\n"
+			+ "We are processing over 340 000 hero-to-comic connections (that means over 680 000 edges!) so this methid does take a minute or two. After a lot of optimization I managed to minimize the time to an average of 80 to 100 seconds. "
+			+ "This estimate, however, does depend on the system you're running and might vary. You can have a look at the console output to see how far the graph has been processed and monitor its progress.\r\n"
+			+ "\r\n"
 			+ "After adding all of these vertices and edges to the graph we can start searching and visualizing the graph.";
 	
 	// Select Heroes Text

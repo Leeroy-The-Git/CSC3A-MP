@@ -21,7 +21,8 @@ import model.marvel.NODE_TYPE;
  *
  */
 public class GraphConstructor {	
-	private String EDGES_PATH = "data/final/edges.txt";
+	private String PRE_EDGES_PATH = "/final/edges.txt";
+	private String EDGES_PATH = "edges.txt";
 	private Graph<MarvelNode> graph = null;
 	
 	private List<Vertex<MarvelNode>> heroVertices = new ArrayList<>();
@@ -34,7 +35,7 @@ public class GraphConstructor {
 	 * Default constructor
 	 */
 	public GraphConstructor() {
-	
+		
 	}
 	
 	
@@ -54,7 +55,15 @@ public class GraphConstructor {
 	public Graph<MarvelNode> constructGraph() throws FileNotFoundException {
 		System.out.println("Processing Edges and Vertices");
 		long startTime = System.currentTimeMillis();
-		Scanner sc = new Scanner(new File(EDGES_PATH));
+		File edgeFile = new File(EDGES_PATH);
+		Scanner sc;
+		if (edgeFile.exists()) {
+			System.out.println("Using user generated edges");
+			sc = new Scanner(edgeFile);
+		} else {
+			System.out.println("Using pre-generated edges");
+			sc = new Scanner(GraphConstructor.class.getResourceAsStream(PRE_EDGES_PATH));
+		}
 		graph = new Graph<MarvelNode>(TYPE.UNDIRECTED);
 		Vertex<MarvelNode> heroNode = null;
 		while (sc.hasNext()) {
@@ -91,6 +100,7 @@ public class GraphConstructor {
 				System.out.println("Processed Edges: " + graph.getEdges().size());
 			}
 		}
+		sc.close();
 		long endTime = System.currentTimeMillis();
 		double totalTime = (endTime - startTime)/1000.0;
 		System.out.println("Processed edges and vertices in " + totalTime + " seconds");

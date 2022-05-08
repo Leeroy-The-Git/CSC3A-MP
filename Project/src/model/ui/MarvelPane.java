@@ -151,6 +151,9 @@ public class MarvelPane extends BorderPane{
 	 * Find and display shortest path
 	 */
 	private void findShortestPath() {
+		if (cmbFrom.getValue() == null || cmbTo.getValue() == null)
+			return;
+		
 		// Get from and to vertices
 		Graph.Vertex<MarvelNode> from = getNode(cmbFrom.getValue().trim());
 		Graph.Vertex<MarvelNode> to = getNode(cmbTo.getValue().trim());
@@ -195,7 +198,10 @@ public class MarvelPane extends BorderPane{
 	 * @param name name to find
 	 * @return vertex that matches the selected item
 	 */
-	private Graph.Vertex<MarvelNode> getNode(String name) {		
+	private Graph.Vertex<MarvelNode> getNode(String name) {	
+		if (name == null || graph == null) {
+			return null;
+		}
 		Iterator<Graph.Vertex<MarvelNode>> nodesIterator = graph.getVertices().iterator();
 		while (nodesIterator.hasNext()) {
 			Graph.Vertex<MarvelNode> vertex = nodesIterator.next();
